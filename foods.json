@@ -1,0 +1,268 @@
+{
+  "version": 1,
+  "foods": [
+    {
+      "id": "food_rice_white",
+      "name": "White Rice (Boiled)",
+      "category": "carbs",
+      "emoji": "🍚",
+
+      "base": { "unit": "g", "qty": 100 },
+
+      "nutrition": {
+        "calories": 130,
+        "protein": 2.4,
+        "carbs": 28.2,
+        "fat": 0.3
+      },
+
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 10,
+        "iron": 0.2,
+        "potassium": 35
+      },
+
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+
+      "regions": ["global"],
+      "tags": ["veg", "grain"],
+      "searchTerms": ["rice", "white rice", "boiled rice"],
+
+      "is_verified": true,
+      "updatedAt": "2026-04-27"
+    },
+
+    {
+      "id": "food_egg_boiled",
+      "name": "Egg (Boiled)",
+      "category": "protein",
+      "emoji": "🥚",
+
+      "base": { "unit": "g", "qty": 100 },
+
+      "nutrition": {
+        "calories": 155,
+        "protein": 13,
+        "carbs": 1.1,
+        "fat": 11
+      },
+
+      "micros": {
+        "cholesterol": 373,
+        "sodium": 124,
+        "calcium": 50,
+        "iron": 1.2,
+        "potassium": 126
+      },
+
+      "default_serving": { "name": "1 egg", "grams": 50 },
+
+      "regions": ["global"],
+      "tags": ["protein"],
+      "searchTerms": ["egg", "boiled egg", "anda"],
+
+      "is_verified": true,
+      "updatedAt": "2026-04-27"
+    },
+
+    {
+      "id": "food_milk_whole",
+      "name": "Milk (Whole)",
+      "category": "dairy",
+      "emoji": "🥛",
+
+      "base": { "unit": "g", "qty": 100 },
+
+      "nutrition": {
+        "calories": 61,
+        "protein": 3.2,
+        "carbs": 4.8,
+        "fat": 3.3
+      },
+
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 44,
+        "calcium": 113,
+        "iron": 0,
+        "potassium": 150
+      },
+
+      "default_serving": { "name": "1 glass", "grams": 250 },
+
+      "regions": ["global"],
+      "tags": ["dairy"],
+      "searchTerms": ["milk", "whole milk"],
+
+      "is_verified": true,
+      "updatedAt": "2026-04-27"
+    },
+
+    {
+      "id": "food_banana",
+      "name": "Banana",
+      "category": "fruit",
+      "emoji": "🍌",
+
+      "base": { "unit": "g", "qty": 100 },
+
+      "nutrition": {
+        "calories": 89,
+        "protein": 1.1,
+        "carbs": 23,
+        "fat": 0.3
+      },
+
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 5,
+        "iron": 0.3,
+        "potassium": 358
+      },
+
+      "default_serving": { "name": "1 banana", "grams": 120 },
+
+      "regions": ["global"],
+      "tags": ["fruit"],
+      "searchTerms": ["banana", "kela"],
+
+      "is_verified": true,
+      "updatedAt": "2026-04-27"
+    },
+
+    {
+      "id": "food_chapati",
+      "name": "Chapati",
+      "category": "carbs",
+      "emoji": "🫓",
+
+      "base": { "unit": "g", "qty": 100 },
+
+      "nutrition": {
+        "calories": 120,
+        "protein": 3.1,
+        "carbs": 20,
+        "fat": 1
+      },
+
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 5,
+        "calcium": 15,
+        "iron": 1.5,
+        "potassium": 120
+      },
+
+      "default_serving": { "name": "1 chapati", "grams": 40 },
+
+      "regions": ["india"],
+      "tags": ["indian", "veg"],
+      "searchTerms": ["chapati", "roti"],
+
+      "is_verified": true,
+      "updatedAt": "2026-04-27"
+    },
+
+    {
+      "id": "food_dal",
+      "name": "Dal (Lentils Cooked)",
+      "category": "protein",
+      "emoji": "🥣",
+
+      "base": { "unit": "g", "qty": 100 },
+
+      "nutrition": {
+        "calories": 116,
+        "protein": 9,
+        "carbs": 20,
+        "fat": 0.4
+      },
+
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 2,
+        "calcium": 19,
+        "iron": 3.3,
+        "potassium": 369
+      },
+
+      "default_serving": { "name": "1 bowl", "grams": 180 },
+
+      "regions": ["india"],
+      "tags": ["indian", "veg", "protein"],
+      "searchTerms": ["dal", "lentils"],
+
+      "is_verified": true,
+      "updatedAt": "2026-04-27"
+    },
+
+    {
+      "id": "food_paneer",
+      "name": "Paneer",
+      "category": "dairy",
+      "emoji": "🧀",
+
+      "base": { "unit": "g", "qty": 100 },
+
+      "nutrition": {
+        "calories": 265,
+        "protein": 18,
+        "carbs": 1.2,
+        "fat": 20
+      },
+
+      "micros": {
+        "cholesterol": 56,
+        "sodium": 22,
+        "calcium": 208,
+        "iron": 0.2,
+        "potassium": 138
+      },
+
+      "default_serving": { "name": "100 g", "grams": 100 },
+
+      "regions": ["india"],
+      "tags": ["indian", "dairy"],
+      "searchTerms": ["paneer", "cottage cheese"],
+
+      "is_verified": true,
+      "updatedAt": "2026-04-27"
+    },
+
+    {
+      "id": "food_burger",
+      "name": "Cheeseburger",
+      "category": "meal",
+      "emoji": "🍔",
+
+      "base": { "unit": "g", "qty": 100 },
+
+      "nutrition": {
+        "calories": 303,
+        "protein": 17,
+        "carbs": 30,
+        "fat": 14
+      },
+
+      "micros": {
+        "cholesterol": 53,
+        "sodium": 663,
+        "calcium": 179,
+        "iron": 2.2,
+        "potassium": 257
+      },
+
+      "default_serving": { "name": "1 burger", "grams": 120 },
+
+      "regions": ["global"],
+      "tags": ["fastfood"],
+      "searchTerms": ["burger", "cheeseburger"],
+
+      "is_verified": false,
+      "updatedAt": "2026-04-27"
+    }
+  ]
+}
