@@ -1349,6 +1349,681 @@
       "searchTerms": ["sweet potato", "shakarkandi"],
       "is_verified": true,
       "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 51,
+      "id": "food_tofu_firm",
+      "name": "Tofu (Firm)",
+      "category": "protein",
+      "emoji": "🧊",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 144,
+        "protein": 16,
+        "carbs": 2.8,
+        "fat": 8.7
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 14,
+        "calcium": 683,
+        "iron": 2.7,
+        "potassium": 237
+      },
+      "default_serving": { "name": "1/2 cup", "grams": 126 },
+      "regions": ["global"],
+      "tags": ["vegan", "protein", "soy"],
+      "searchTerms": ["tofu", "paneer alternative", "soy"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 52,
+      "id": "food_soy_milk",
+      "name": "Soy Milk (Unsweetened)",
+      "category": "drink",
+      "emoji": "🥛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 33,
+        "protein": 3.3,
+        "carbs": 1.8,
+        "fat": 1.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 47,
+        "calcium": 123,
+        "iron": 0.4,
+        "potassium": 118
+      },
+      "default_serving": { "name": "1 glass", "grams": 240 },
+      "regions": ["global"],
+      "tags": ["vegan", "dairy-free", "drink"],
+      "searchTerms": ["soy milk", "soya milk", "vegan milk"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 53,
+      "id": "food_ice_cream_vanilla",
+      "name": "Ice Cream (Vanilla)",
+      "category": "snack",
+      "emoji": "🍦",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 207,
+        "protein": 3.5,
+        "carbs": 24,
+        "fat": 11
+      },
+      "micros": {
+        "cholesterol": 44,
+        "sodium": 80,
+        "calcium": 128,
+        "iron": 0.1,
+        "potassium": 199
+      },
+      "default_serving": { "name": "1 scoop", "grams": 72 },
+      "regions": ["global"],
+      "tags": ["dessert", "sweet", "dairy"],
+      "searchTerms": ["ice cream", "vanilla", "dessert"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 54,
+      "id": "food_pancake",
+      "name": "Pancake (Plain)",
+      "category": "carbs",
+      "emoji": "🥞",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 227,
+        "protein": 6.4,
+        "carbs": 28,
+        "fat": 10
+      },
+      "micros": {
+        "cholesterol": 59,
+        "sodium": 439,
+        "calcium": 219,
+        "iron": 1.8,
+        "potassium": 132
+      },
+      "default_serving": { "name": "1 pancake", "grams": 40 },
+      "regions": ["global", "usa"],
+      "tags": ["breakfast", "carbs", "sweet"],
+      "searchTerms": ["pancake", "hotcake", "breakfast"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 55,
+      "id": "food_taco_beef",
+      "name": "Beef Taco",
+      "category": "meal",
+      "emoji": "🌮",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 226,
+        "protein": 9,
+        "carbs": 20,
+        "fat": 12
+      },
+      "micros": {
+        "cholesterol": 24,
+        "sodium": 397,
+        "calcium": 89,
+        "iron": 1.2,
+        "potassium": 182
+      },
+      "default_serving": { "name": "1 taco", "grams": 100 },
+      "regions": ["global", "usa"],
+      "tags": ["mexican", "fastfood", "meat"],
+      "searchTerms": ["taco", "beef taco", "mexican"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 56,
+      "id": "food_hot_dog",
+      "name": "Hot Dog (Sausage only)",
+      "category": "fat",
+      "emoji": "🌭",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 290,
+        "protein": 10,
+        "carbs": 4,
+        "fat": 26
+      },
+      "micros": {
+        "cholesterol": 74,
+        "sodium": 1090,
+        "calcium": 24,
+        "iron": 1.5,
+        "potassium": 143
+      },
+      "default_serving": { "name": "1 hot dog", "grams": 45 },
+      "regions": ["global", "usa"],
+      "tags": ["fastfood", "meat", "sausage"],
+      "searchTerms": ["hot dog", "sausage", "wiener"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 57,
+      "id": "food_sushi_roll",
+      "name": "Sushi (California Roll)",
+      "category": "meal",
+      "emoji": "🍣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 93,
+        "protein": 2.9,
+        "carbs": 21,
+        "fat": 0.6
+      },
+      "micros": {
+        "cholesterol": 4,
+        "sodium": 424,
+        "calcium": 9,
+        "iron": 0.4,
+        "potassium": 72
+      },
+      "default_serving": { "name": "1 piece", "grams": 30 },
+      "regions": ["global"],
+      "tags": ["japanese", "seafood", "rice"],
+      "searchTerms": ["sushi", "roll", "california roll"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 58,
+      "id": "food_palak_paneer",
+      "name": "Palak Paneer",
+      "category": "meal",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 150,
+        "protein": 7.5,
+        "carbs": 6.2,
+        "fat": 11
+      },
+      "micros": {
+        "cholesterol": 22,
+        "sodium": 340,
+        "calcium": 210,
+        "iron": 1.5,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["indian", "veg", "curry"],
+      "searchTerms": ["palak paneer", "spinach cheese", "curry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 59,
+      "id": "food_rajma",
+      "name": "Rajma (Kidney Bean Curry)",
+      "category": "meal",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 105,
+        "protein": 4.5,
+        "carbs": 15,
+        "fat": 3.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 30,
+        "iron": 1.8,
+        "potassium": 250
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["indian", "veg", "protein", "curry"],
+      "searchTerms": ["rajma", "kidney beans", "curry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 60,
+      "id": "food_poha",
+      "name": "Poha (Flattened Rice)",
+      "category": "carbs",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 3.5,
+        "carbs": 39,
+        "fat": 1.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 210,
+        "calcium": 20,
+        "iron": 2.5,
+        "potassium": 115
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "breakfast", "carbs"],
+      "searchTerms": ["poha", "flattened rice", "chivda"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 61,
+      "id": "food_lassi_sweet",
+      "name": "Lassi (Sweet)",
+      "category": "drink",
+      "emoji": "🥛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 75,
+        "protein": 3,
+        "carbs": 12,
+        "fat": 2
+      },
+      "micros": {
+        "cholesterol": 8,
+        "sodium": 35,
+        "calcium": 100,
+        "iron": 0.1,
+        "potassium": 130
+      },
+      "default_serving": { "name": "1 glass", "grams": 250 },
+      "regions": ["india"],
+      "tags": ["indian", "drink", "dairy", "sweet"],
+      "searchTerms": ["lassi", "sweet lassi", "yogurt drink"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 62,
+      "id": "food_gulab_jamun",
+      "name": "Gulab Jamun",
+      "category": "snack",
+      "emoji": "🧆",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 323,
+        "protein": 4.1,
+        "carbs": 53,
+        "fat": 10.5
+      },
+      "micros": {
+        "cholesterol": 12,
+        "sodium": 80,
+        "calcium": 90,
+        "iron": 0.5,
+        "potassium": 110
+      },
+      "default_serving": { "name": "2 pieces", "grams": 100 },
+      "regions": ["india", "global"],
+      "tags": ["indian", "dessert", "sweet"],
+      "searchTerms": ["gulab jamun", "sweet", "dessert"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 63,
+      "id": "food_orange_juice",
+      "name": "Orange Juice (Fresh)",
+      "category": "drink",
+      "emoji": "🧃",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 45,
+        "protein": 0.7,
+        "carbs": 10.4,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 11,
+        "iron": 0.2,
+        "potassium": 200
+      },
+      "default_serving": { "name": "1 glass", "grams": 240 },
+      "regions": ["global"],
+      "tags": ["drink", "fruit juice", "breakfast"],
+      "searchTerms": ["orange juice", "oj", "juice"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 64,
+      "id": "food_green_tea",
+      "name": "Green Tea",
+      "category": "drink",
+      "emoji": "🍵",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 1,
+        "protein": 0,
+        "carbs": 0,
+        "fat": 0
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 0,
+        "iron": 0,
+        "potassium": 8
+      },
+      "default_serving": { "name": "1 cup", "grams": 240 },
+      "regions": ["global"],
+      "tags": ["drink", "tea", "zero_calorie"],
+      "searchTerms": ["green tea", "tea", "herbal"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 65,
+      "id": "food_popcorn_air",
+      "name": "Popcorn (Air-Popped)",
+      "category": "carbs",
+      "emoji": "🍿",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 387,
+        "protein": 13,
+        "carbs": 78,
+        "fat": 4.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 8,
+        "calcium": 7,
+        "iron": 3.2,
+        "potassium": 329
+      },
+      "default_serving": { "name": "3 cups", "grams": 24 },
+      "regions": ["global"],
+      "tags": ["snack", "carbs", "grain"],
+      "searchTerms": ["popcorn", "snack"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 66,
+      "id": "food_mayonnaise",
+      "name": "Mayonnaise",
+      "category": "fat",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 680,
+        "protein": 1,
+        "carbs": 0.6,
+        "fat": 75
+      },
+      "micros": {
+        "cholesterol": 42,
+        "sodium": 635,
+        "calcium": 12,
+        "iron": 0.2,
+        "potassium": 20
+      },
+      "default_serving": { "name": "1 tablespoon", "grams": 14 },
+      "regions": ["global"],
+      "tags": ["condiment", "fats"],
+      "searchTerms": ["mayonnaise", "mayo", "sauce"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 67,
+      "id": "food_ketchup",
+      "name": "Tomato Ketchup",
+      "category": "carbs",
+      "emoji": "🍅",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 101,
+        "protein": 1,
+        "carbs": 27,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 907,
+        "calcium": 17,
+        "iron": 0.4,
+        "potassium": 315
+      },
+      "default_serving": { "name": "1 tablespoon", "grams": 17 },
+      "regions": ["global"],
+      "tags": ["condiment", "sauce"],
+      "searchTerms": ["ketchup", "tomato sauce", "dip"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 68,
+      "id": "food_garlic_raw",
+      "name": "Garlic (Raw)",
+      "category": "veg",
+      "emoji": "🧄",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 149,
+        "protein": 6.4,
+        "carbs": 33,
+        "fat": 0.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 17,
+        "calcium": 181,
+        "iron": 1.7,
+        "potassium": 401
+      },
+      "default_serving": { "name": "1 clove", "grams": 3 },
+      "regions": ["global"],
+      "tags": ["spice", "veg", "base"],
+      "searchTerms": ["garlic", "lehsun", "spice"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 69,
+      "id": "food_bell_pepper_red",
+      "name": "Red Bell Pepper",
+      "category": "veg",
+      "emoji": "🫑",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 31,
+        "protein": 1,
+        "carbs": 6,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 4,
+        "calcium": 7,
+        "iron": 0.4,
+        "potassium": 211
+      },
+      "default_serving": { "name": "1 medium", "grams": 119 },
+      "regions": ["global"],
+      "tags": ["veg", "salad", "capsicum"],
+      "searchTerms": ["bell pepper", "capsicum", "red pepper"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 70,
+      "id": "food_mushroom_button",
+      "name": "Mushroom (White Button)",
+      "category": "veg",
+      "emoji": "🍄",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 22,
+        "protein": 3.1,
+        "carbs": 3.3,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 5,
+        "calcium": 3,
+        "iron": 0.5,
+        "potassium": 318
+      },
+      "default_serving": { "name": "1 cup whole", "grams": 96 },
+      "regions": ["global"],
+      "tags": ["veg", "fungi"],
+      "searchTerms": ["mushroom", "button mushroom"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 71,
+      "id": "food_fried_chicken",
+      "name": "Fried Chicken",
+      "category": "protein",
+      "emoji": "🍗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 246,
+        "protein": 14,
+        "carbs": 11,
+        "fat": 16
+      },
+      "micros": {
+        "cholesterol": 68,
+        "sodium": 361,
+        "calcium": 25,
+        "iron": 1.2,
+        "potassium": 194
+      },
+      "default_serving": { "name": "1 piece", "grams": 120 },
+      "regions": ["global", "usa"],
+      "tags": ["fastfood", "meat", "fried"],
+      "searchTerms": ["fried chicken", "kfc", "chicken"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 72,
+      "id": "food_bagel_plain",
+      "name": "Bagel (Plain)",
+      "category": "carbs",
+      "emoji": "🥯",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 10,
+        "carbs": 49,
+        "fat": 1.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 439,
+        "calcium": 18,
+        "iron": 2.8,
+        "potassium": 87
+      },
+      "default_serving": { "name": "1 regular bagel", "grams": 105 },
+      "regions": ["global", "usa"],
+      "tags": ["carbs", "bread", "breakfast"],
+      "searchTerms": ["bagel", "bread"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 73,
+      "id": "food_pineapple_raw",
+      "name": "Pineapple (Raw)",
+      "category": "fruit",
+      "emoji": "🍍",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 50,
+        "protein": 0.5,
+        "carbs": 13,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 13,
+        "iron": 0.3,
+        "potassium": 109
+      },
+      "default_serving": { "name": "1 cup chunks", "grams": 165 },
+      "regions": ["global"],
+      "tags": ["fruit", "tropical"],
+      "searchTerms": ["pineapple", "ananas", "fruit"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 74,
+      "id": "food_grapes_red",
+      "name": "Grapes (Red)",
+      "category": "fruit",
+      "emoji": "🍇",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 69,
+        "protein": 0.7,
+        "carbs": 18,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 2,
+        "calcium": 10,
+        "iron": 0.4,
+        "potassium": 191
+      },
+      "default_serving": { "name": "1 cup", "grams": 151 },
+      "regions": ["global"],
+      "tags": ["fruit", "snack"],
+      "searchTerms": ["grapes", "angoor", "fruit"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 75,
+      "id": "food_lemon_raw",
+      "name": "Lemon (Raw)",
+      "category": "fruit",
+      "emoji": "🍋",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 29,
+        "protein": 1.1,
+        "carbs": 9.3,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 2,
+        "calcium": 26,
+        "iron": 0.6,
+        "potassium": 138
+      },
+      "default_serving": { "name": "1 lemon", "grams": 58 },
+      "regions": ["global"],
+      "tags": ["fruit", "citrus", "spice"],
+      "searchTerms": ["lemon", "nimbu", "citrus"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
     }
   ]
 }
