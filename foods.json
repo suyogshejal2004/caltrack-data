@@ -17684,6 +17684,2166 @@
       "searchTerms": ["egg bhurji roll", "anda bhurji wrap", "scrambled egg roll", "egg frankie"],
       "is_verified": true,
       "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 656,
+      "id": "food_corn_dog",
+      "name": "Corn Dog",
+      "category": "snack",
+      "emoji": "🌭",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 260,
+        "protein": 9,
+        "carbs": 28,
+        "fat": 12
+      },
+      "micros": {
+        "cholesterol": 35,
+        "sodium": 550,
+        "calcium": 40,
+        "iron": 1.2,
+        "potassium": 160
+      },
+      "default_serving": { "name": "1 corn dog", "grams": 115 },
+      "regions": ["usa", "global"],
+      "tags": ["street food", "fastfood", "fried", "american"],
+      "searchTerms": ["corn dog", "corndog", "hot dog on a stick", "fair food"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 657,
+      "id": "food_funnel_cake",
+      "name": "Funnel Cake",
+      "category": "snack",
+      "emoji": "🥨",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 280,
+        "protein": 4,
+        "carbs": 35,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 20,
+        "sodium": 210,
+        "calcium": 30,
+        "iron": 1.1,
+        "potassium": 80
+      },
+      "default_serving": { "name": "1 plate", "grams": 150 },
+      "regions": ["usa"],
+      "tags": ["street food", "dessert", "fried", "american"],
+      "searchTerms": ["funnel cake", "fair sweet", "fried dough powder sugar"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 658,
+      "id": "food_philly_cheesesteak",
+      "name": "Philly Cheesesteak",
+      "category": "meal",
+      "emoji": "🥖",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 15,
+        "carbs": 25,
+        "fat": 10
+      },
+      "micros": {
+        "cholesterol": 40,
+        "sodium": 480,
+        "calcium": 80,
+        "iron": 1.8,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 sandwich", "grams": 250 },
+      "regions": ["usa"],
+      "tags": ["street food", "sandwich", "beef", "american"],
+      "searchTerms": ["philly cheesesteak", "beef cheese sandwich", "hoagie"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 659,
+      "id": "food_soft_pretzel",
+      "name": "Soft Pretzel",
+      "category": "carbs",
+      "emoji": "🥨",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 340,
+        "protein": 9,
+        "carbs": 70,
+        "fat": 3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 850,
+        "calcium": 20,
+        "iron": 1.5,
+        "potassium": 110
+      },
+      "default_serving": { "name": "1 large pretzel", "grams": 140 },
+      "regions": ["usa", "global"],
+      "tags": ["street food", "snack", "bread", "american"],
+      "searchTerms": ["soft pretzel", "mall pretzel", "salted pretzel", "auntie annes"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 660,
+      "id": "food_clam_chowder",
+      "name": "Clam Chowder (New England)",
+      "category": "meal",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 80,
+        "protein": 4,
+        "carbs": 9,
+        "fat": 3
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 350,
+        "calcium": 40,
+        "iron": 0.8,
+        "potassium": 180
+      },
+      "default_serving": { "name": "1 bowl", "grams": 240 },
+      "regions": ["usa"],
+      "tags": ["soup", "seafood", "american", "creamy"],
+      "searchTerms": ["clam chowder", "white chowder", "seafood soup", "new england chowder"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 661,
+      "id": "food_pulled_pork_sandwich",
+      "name": "Pulled Pork Sandwich",
+      "category": "meal",
+      "emoji": "🍔",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 230,
+        "protein": 13,
+        "carbs": 25,
+        "fat": 8
+      },
+      "micros": {
+        "cholesterol": 35,
+        "sodium": 420,
+        "calcium": 30,
+        "iron": 1.4,
+        "potassium": 250
+      },
+      "default_serving": { "name": "1 sandwich", "grams": 200 },
+      "regions": ["usa"],
+      "tags": ["american", "bbq", "meat", "sandwich"],
+      "searchTerms": ["pulled pork", "bbq pork sandwich", "pork burger"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 662,
+      "id": "food_tater_tots",
+      "name": "Tater Tots",
+      "category": "carbs",
+      "emoji": "🥔",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 270,
+        "protein": 2.5,
+        "carbs": 30,
+        "fat": 16
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 450,
+        "calcium": 15,
+        "iron": 1.1,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 portion (10 pieces)", "grams": 85 },
+      "regions": ["usa", "global"],
+      "tags": ["fastfood", "side", "potato", "american"],
+      "searchTerms": ["tater tots", "potato tots", "hash brown bites"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 663,
+      "id": "food_chili_con_carne",
+      "name": "Chili Con Carne",
+      "category": "meal",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 105,
+        "protein": 8,
+        "carbs": 10,
+        "fat": 4
+      },
+      "micros": {
+        "cholesterol": 20,
+        "sodium": 380,
+        "calcium": 25,
+        "iron": 1.8,
+        "potassium": 310
+      },
+      "default_serving": { "name": "1 bowl", "grams": 250 },
+      "regions": ["usa", "mexico"],
+      "tags": ["american", "tex-mex", "beef", "beans"],
+      "searchTerms": ["chili con carne", "beef chili", "chili bowl"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 664,
+      "id": "food_biscuits_gravy",
+      "name": "Biscuits and Gravy",
+      "category": "meal",
+      "emoji": "🥯",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 6,
+        "carbs": 25,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 480,
+        "calcium": 40,
+        "iron": 1.2,
+        "potassium": 150
+      },
+      "default_serving": { "name": "1 plate", "grams": 200 },
+      "regions": ["usa"],
+      "tags": ["breakfast", "american", "southern", "comfort food"],
+      "searchTerms": ["biscuits and gravy", "sausage gravy", "southern breakfast"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 665,
+      "id": "food_borscht",
+      "name": "Borscht (Beetroot Soup)",
+      "category": "meal",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 40,
+        "protein": 1.5,
+        "carbs": 7,
+        "fat": 1
+      },
+      "micros": {
+        "cholesterol": 2,
+        "sodium": 250,
+        "calcium": 20,
+        "iron": 0.8,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 bowl", "grams": 250 },
+      "regions": ["russia", "eastern europe"],
+      "tags": ["russian", "soup", "beetroot", "healthy"],
+      "searchTerms": ["borscht", "borsch", "beet soup", "russian red soup"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 666,
+      "id": "food_pelmeni",
+      "name": "Pelmeni (Meat Dumplings)",
+      "category": "meal",
+      "emoji": "🥟",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 220,
+        "protein": 10,
+        "carbs": 28,
+        "fat": 7
+      },
+      "micros": {
+        "cholesterol": 25,
+        "sodium": 350,
+        "calcium": 15,
+        "iron": 1.5,
+        "potassium": 180
+      },
+      "default_serving": { "name": "1 bowl (10 pieces)", "grams": 200 },
+      "regions": ["russia"],
+      "tags": ["russian", "dumplings", "meat", "comfort food"],
+      "searchTerms": ["pelmeni", "russian dumplings", "meat ravioli"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 667,
+      "id": "food_beef_stroganoff",
+      "name": "Beef Stroganoff",
+      "category": "meal",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 150,
+        "protein": 10,
+        "carbs": 4,
+        "fat": 10
+      },
+      "micros": {
+        "cholesterol": 40,
+        "sodium": 280,
+        "calcium": 25,
+        "iron": 1.2,
+        "potassium": 250
+      },
+      "default_serving": { "name": "1 bowl", "grams": 250 },
+      "regions": ["russia", "global"],
+      "tags": ["russian", "beef", "creamy", "stew"],
+      "searchTerms": ["beef stroganoff", "creamy beef stew", "russian beef"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 668,
+      "id": "food_blini",
+      "name": "Blini (Russian Pancakes)",
+      "category": "carbs",
+      "emoji": "🥞",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 5,
+        "carbs": 25,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 30,
+        "sodium": 210,
+        "calcium": 40,
+        "iron": 1.1,
+        "potassium": 120
+      },
+      "default_serving": { "name": "2 blini", "grams": 100 },
+      "regions": ["russia"],
+      "tags": ["russian", "breakfast", "crepes", "carbs"],
+      "searchTerms": ["blini", "blinchiki", "russian crepes", "thin pancakes"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 669,
+      "id": "food_olivier_salad",
+      "name": "Olivier Salad (Russian Salad)",
+      "category": "fat",
+      "emoji": "🥗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 150,
+        "protein": 4,
+        "carbs": 10,
+        "fat": 10
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 320,
+        "calcium": 20,
+        "iron": 0.8,
+        "potassium": 180
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["russia", "global"],
+      "tags": ["russian", "salad", "mayo", "cold"],
+      "searchTerms": ["olivier salad", "russian salad", "potato mayo salad"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 670,
+      "id": "food_pierogi",
+      "name": "Pierogi (Potato & Cheese)",
+      "category": "meal",
+      "emoji": "🥟",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 200,
+        "protein": 5,
+        "carbs": 30,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 280,
+        "calcium": 40,
+        "iron": 1.2,
+        "potassium": 150
+      },
+      "default_serving": { "name": "4 pieces", "grams": 140 },
+      "regions": ["poland", "russia", "eastern europe"],
+      "tags": ["eastern european", "dumplings", "carbs", "comfort food"],
+      "searchTerms": ["pierogi", "polish dumplings", "vareniki", "potato dumplings"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 671,
+      "id": "food_goulash",
+      "name": "Goulash (Beef Stew)",
+      "category": "meal",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 110,
+        "protein": 9,
+        "carbs": 6,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 25,
+        "sodium": 350,
+        "calcium": 20,
+        "iron": 1.8,
+        "potassium": 320
+      },
+      "default_serving": { "name": "1 bowl", "grams": 250 },
+      "regions": ["hungary", "europe"],
+      "tags": ["hungarian", "stew", "beef", "comfort food"],
+      "searchTerms": ["goulash", "hungarian stew", "paprika beef"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 672,
+      "id": "food_schnitzel",
+      "name": "Schnitzel (Pork/Veal, Breaded)",
+      "category": "protein",
+      "emoji": "🥩",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 15,
+        "carbs": 15,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 50,
+        "sodium": 380,
+        "calcium": 25,
+        "iron": 1.4,
+        "potassium": 260
+      },
+      "default_serving": { "name": "1 piece", "grams": 150 },
+      "regions": ["germany", "austria"],
+      "tags": ["german", "meat", "fried", "breaded"],
+      "searchTerms": ["schnitzel", "wiener schnitzel", "breaded pork", "milanesa"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 673,
+      "id": "food_currywurst",
+      "name": "Currywurst",
+      "category": "meal",
+      "emoji": "🌭",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 290,
+        "protein": 10,
+        "carbs": 10,
+        "fat": 23
+      },
+      "micros": {
+        "cholesterol": 45,
+        "sodium": 850,
+        "calcium": 20,
+        "iron": 1.1,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 portion", "grams": 150 },
+      "regions": ["germany"],
+      "tags": ["german", "street food", "sausage", "fastfood"],
+      "searchTerms": ["currywurst", "german sausage", "berlin street food"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 674,
+      "id": "food_shepherds_pie",
+      "name": "Shepherd's Pie",
+      "category": "meal",
+      "emoji": "🥧",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 120,
+        "protein": 6,
+        "carbs": 12,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 20,
+        "sodium": 280,
+        "calcium": 25,
+        "iron": 1.2,
+        "potassium": 310
+      },
+      "default_serving": { "name": "1 portion", "grams": 250 },
+      "regions": ["uk", "global"],
+      "tags": ["british", "meat", "potato", "comfort food"],
+      "searchTerms": ["shepherds pie", "cottage pie", "mince and mash"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 675,
+      "id": "food_yorkshire_pudding",
+      "name": "Yorkshire Pudding",
+      "category": "carbs",
+      "emoji": "🥐",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 8,
+        "carbs": 30,
+        "fat": 10
+      },
+      "micros": {
+        "cholesterol": 80,
+        "sodium": 220,
+        "calcium": 40,
+        "iron": 1.5,
+        "potassium": 110
+      },
+      "default_serving": { "name": "1 piece", "grams": 50 },
+      "regions": ["uk"],
+      "tags": ["british", "side dish", "baked", "sunday roast"],
+      "searchTerms": ["yorkshire pudding", "sunday roast side", "batter pudding"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 676,
+      "id": "food_pho",
+      "name": "Pho (Beef Noodle Soup)",
+      "category": "meal",
+      "emoji": "🍜",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 70,
+        "protein": 4,
+        "carbs": 10,
+        "fat": 1.5
+      },
+      "micros": {
+        "cholesterol": 5,
+        "sodium": 350,
+        "calcium": 15,
+        "iron": 0.8,
+        "potassium": 120
+      },
+      "default_serving": { "name": "1 large bowl", "grams": 500 },
+      "regions": ["vietnam", "global"],
+      "tags": ["vietnamese", "soup", "noodles", "healthy"],
+      "searchTerms": ["pho", "vietnamese beef soup", "rice noodle soup"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 677,
+      "id": "food_banh_mi",
+      "name": "Banh Mi (Pork Sandwich)",
+      "category": "meal",
+      "emoji": "🥖",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 220,
+        "protein": 10,
+        "carbs": 28,
+        "fat": 7
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 410,
+        "calcium": 25,
+        "iron": 1.8,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 sandwich", "grams": 200 },
+      "regions": ["vietnam", "global"],
+      "tags": ["vietnamese", "street food", "sandwich", "baguette"],
+      "searchTerms": ["banh mi", "vietnamese sandwich", "pork baguette"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 678,
+      "id": "food_empanada_meat",
+      "name": "Empanada (Beef/Meat)",
+      "category": "snack",
+      "emoji": "🥟",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 280,
+        "protein": 9,
+        "carbs": 32,
+        "fat": 13
+      },
+      "micros": {
+        "cholesterol": 20,
+        "sodium": 380,
+        "calcium": 25,
+        "iron": 1.5,
+        "potassium": 170
+      },
+      "default_serving": { "name": "1 piece", "grams": 100 },
+      "regions": ["latin america", "spain", "global"],
+      "tags": ["latam", "spanish", "street food", "snack", "meat"],
+      "searchTerms": ["empanada", "beef empanada", "meat pastry latam"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 679,
+      "id": "food_arepa_cheese",
+      "name": "Arepa (with Cheese)",
+      "category": "meal",
+      "emoji": "🫓",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 210,
+        "protein": 4,
+        "carbs": 42,
+        "fat": 2
+      },
+      "micros": {
+        "cholesterol": 5,
+        "sodium": 250,
+        "calcium": 120,
+        "iron": 0.8,
+        "potassium": 110
+      },
+      "default_serving": { "name": "1 arepa", "grams": 150 },
+      "regions": ["colombia", "venezuela", "latin america"],
+      "tags": ["latam", "corn", "bread", "street food"],
+      "searchTerms": ["arepa", "corn cake cheese", "colombian arepa"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 680,
+      "id": "food_ceviche",
+      "name": "Ceviche (Fish)",
+      "category": "protein",
+      "emoji": "🥗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 90,
+        "protein": 15,
+        "carbs": 4,
+        "fat": 1.5
+      },
+      "micros": {
+        "cholesterol": 40,
+        "sodium": 320,
+        "calcium": 20,
+        "iron": 0.5,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["peru", "latin america"],
+      "tags": ["latam", "peruvian", "seafood", "raw", "healthy"],
+      "searchTerms": ["ceviche", "cebiche", "raw fish salad", "citrus fish"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 681,
+      "id": "food_takoyaki",
+      "name": "Takoyaki (Octopus Balls)",
+      "category": "snack",
+      "emoji": "🧆",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 6,
+        "carbs": 22,
+        "fat": 7
+      },
+      "micros": {
+        "cholesterol": 45,
+        "sodium": 410,
+        "calcium": 25,
+        "iron": 1.1,
+        "potassium": 140
+      },
+      "default_serving": { "name": "6 pieces", "grams": 120 },
+      "regions": ["japan", "global"],
+      "tags": ["japanese", "street food", "snack", "seafood"],
+      "searchTerms": ["takoyaki", "octopus balls", "japanese street food"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 682,
+      "id": "food_okonomiyaki",
+      "name": "Okonomiyaki (Japanese Pancake)",
+      "category": "meal",
+      "emoji": "🥞",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 160,
+        "protein": 6,
+        "carbs": 20,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 30,
+        "sodium": 380,
+        "calcium": 40,
+        "iron": 1.2,
+        "potassium": 220
+      },
+      "default_serving": { "name": "1 piece", "grams": 250 },
+      "regions": ["japan"],
+      "tags": ["japanese", "street food", "cabbage", "savory pancake"],
+      "searchTerms": ["okonomiyaki", "japanese pizza", "savory cabbage pancake"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 683,
+      "id": "food_peking_duck",
+      "name": "Peking Duck (with Pancakes)",
+      "category": "meal",
+      "emoji": "🦆",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 300,
+        "protein": 15,
+        "carbs": 10,
+        "fat": 22
+      },
+      "micros": {
+        "cholesterol": 70,
+        "sodium": 450,
+        "calcium": 15,
+        "iron": 2.1,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 portion", "grams": 150 },
+      "regions": ["china", "global"],
+      "tags": ["chinese", "meat", "poultry", "restaurant"],
+      "searchTerms": ["peking duck", "roasted duck chinese", "duck pancake"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 684,
+      "id": "food_har_gow",
+      "name": "Har Gow (Shrimp Dumplings)",
+      "category": "snack",
+      "emoji": "🥟",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 160,
+        "protein": 6,
+        "carbs": 20,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 60,
+        "sodium": 320,
+        "calcium": 25,
+        "iron": 0.8,
+        "potassium": 110
+      },
+      "default_serving": { "name": "4 pieces", "grams": 100 },
+      "regions": ["china", "global"],
+      "tags": ["chinese", "dim sum", "seafood", "steamed"],
+      "searchTerms": ["har gow", "shrimp dumpling", "dim sum prawn", "hargao"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 685,
+      "id": "food_baozi_pork",
+      "name": "Baozi (Steamed Pork Bun)",
+      "category": "snack",
+      "emoji": "🥟",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 240,
+        "protein": 8,
+        "carbs": 35,
+        "fat": 7
+      },
+      "micros": {
+        "cholesterol": 20,
+        "sodium": 380,
+        "calcium": 20,
+        "iron": 1.2,
+        "potassium": 150
+      },
+      "default_serving": { "name": "1 large bun", "grams": 100 },
+      "regions": ["china", "global"],
+      "tags": ["chinese", "dim sum", "steamed", "pork"],
+      "searchTerms": ["baozi", "steamed pork bun", "char siu bao", "bao"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 686,
+      "id": "food_tteokbokki",
+      "name": "Tteokbokki (Spicy Rice Cakes)",
+      "category": "carbs",
+      "emoji": "🥘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 190,
+        "protein": 4,
+        "carbs": 40,
+        "fat": 2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 480,
+        "calcium": 15,
+        "iron": 1.1,
+        "potassium": 110
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["korea", "global"],
+      "tags": ["korean", "street food", "spicy", "carbs"],
+      "searchTerms": ["tteokbokki", "spicy rice cake", "korean street food"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 687,
+      "id": "food_bulgogi",
+      "name": "Bulgogi (Marinated Beef)",
+      "category": "protein",
+      "emoji": "🥩",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 16,
+        "carbs": 10,
+        "fat": 8
+      },
+      "micros": {
+        "cholesterol": 45,
+        "sodium": 520,
+        "calcium": 20,
+        "iron": 1.8,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 portion", "grams": 150 },
+      "regions": ["korea", "global"],
+      "tags": ["korean", "bbq", "beef", "sweet and savory"],
+      "searchTerms": ["bulgogi", "korean bbq beef", "marinated beef"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 688,
+      "id": "food_kimchi_fried_rice",
+      "name": "Kimchi Fried Rice",
+      "category": "meal",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 160,
+        "protein": 4,
+        "carbs": 25,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 5,
+        "sodium": 450,
+        "calcium": 25,
+        "iron": 1.2,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 bowl", "grams": 250 },
+      "regions": ["korea", "global"],
+      "tags": ["korean", "rice", "spicy", "comfort food"],
+      "searchTerms": ["kimchi fried rice", "bokkeumbap", "korean spicy rice"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 689,
+      "id": "food_pad_kra_pao",
+      "name": "Pad Kra Pao (Basil Pork/Chicken)",
+      "category": "meal",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 12,
+        "carbs": 12,
+        "fat": 9
+      },
+      "micros": {
+        "cholesterol": 35,
+        "sodium": 520,
+        "calcium": 30,
+        "iron": 1.5,
+        "potassium": 240
+      },
+      "default_serving": { "name": "1 plate", "grams": 200 },
+      "regions": ["thailand", "global"],
+      "tags": ["thai", "street food", "spicy", "basil"],
+      "searchTerms": ["pad kra pao", "thai basil chicken", "basil pork stir fry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 690,
+      "id": "food_tom_yum_soup",
+      "name": "Tom Yum Soup (Shrimp)",
+      "category": "meal",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 50,
+        "protein": 4,
+        "carbs": 4,
+        "fat": 2
+      },
+      "micros": {
+        "cholesterol": 30,
+        "sodium": 450,
+        "calcium": 20,
+        "iron": 0.8,
+        "potassium": 180
+      },
+      "default_serving": { "name": "1 bowl", "grams": 250 },
+      "regions": ["thailand", "global"],
+      "tags": ["thai", "soup", "spicy", "sour"],
+      "searchTerms": ["tom yum", "thai spicy soup", "shrimp sour soup"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 691,
+      "id": "food_som_tum",
+      "name": "Som Tum (Papaya Salad)",
+      "category": "veg",
+      "emoji": "🥗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 60,
+        "protein": 2,
+        "carbs": 12,
+        "fat": 1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 380,
+        "calcium": 40,
+        "iron": 0.5,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 plate", "grams": 150 },
+      "regions": ["thailand", "global"],
+      "tags": ["thai", "salad", "healthy", "spicy"],
+      "searchTerms": ["som tum", "green papaya salad", "thai salad"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 692,
+      "id": "food_nasi_goreng",
+      "name": "Nasi Goreng",
+      "category": "meal",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 190,
+        "protein": 6,
+        "carbs": 28,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 20,
+        "sodium": 410,
+        "calcium": 20,
+        "iron": 1.2,
+        "potassium": 150
+      },
+      "default_serving": { "name": "1 plate", "grams": 250 },
+      "regions": ["indonesia", "malaysia"],
+      "tags": ["indonesian", "rice", "street food", "fried rice"],
+      "searchTerms": ["nasi goreng", "indonesian fried rice", "spicy fried rice"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 693,
+      "id": "food_satay_chicken",
+      "name": "Chicken Satay (with Peanut Sauce)",
+      "category": "protein",
+      "emoji": "🍢",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 210,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 11
+      },
+      "micros": {
+        "cholesterol": 45,
+        "sodium": 350,
+        "calcium": 15,
+        "iron": 1.4,
+        "potassium": 260
+      },
+      "default_serving": { "name": "3 skewers", "grams": 120 },
+      "regions": ["indonesia", "malaysia", "global"],
+      "tags": ["street food", "chicken", "skewer", "peanut"],
+      "searchTerms": ["satay", "chicken skewers peanut", "malaysian satay"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 694,
+      "id": "food_laksa",
+      "name": "Laksa (Noodle Soup)",
+      "category": "meal",
+      "emoji": "🍜",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 120,
+        "protein": 6,
+        "carbs": 10,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 420,
+        "calcium": 30,
+        "iron": 1.1,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 bowl", "grams": 350 },
+      "regions": ["malaysia", "singapore"],
+      "tags": ["southeast asian", "soup", "noodles", "coconut"],
+      "searchTerms": ["laksa", "spicy coconut noodle soup", "malaysian soup"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 695,
+      "id": "food_churrasco_beef",
+      "name": "Churrasco (Grilled Beef)",
+      "category": "protein",
+      "emoji": "🥩",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 26,
+        "carbs": 0,
+        "fat": 15
+      },
+      "micros": {
+        "cholesterol": 80,
+        "sodium": 320,
+        "calcium": 15,
+        "iron": 2.8,
+        "potassium": 340
+      },
+      "default_serving": { "name": "1 portion", "grams": 200 },
+      "regions": ["brazil", "latin america"],
+      "tags": ["brazilian", "bbq", "meat", "steak"],
+      "searchTerms": ["churrasco", "brazilian steak", "grilled beef latam"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 696,
+      "id": "food_grapefruit_raw",
+      "name": "Grapefruit (Raw)",
+      "category": "fruit",
+      "emoji": "🍊",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 42,
+        "protein": 0.8,
+        "carbs": 11,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 0,
+        "calcium": 22,
+        "iron": 0.1,
+        "potassium": 135
+      },
+      "default_serving": { "name": "1/2 grapefruit", "grams": 123 },
+      "regions": ["global"],
+      "tags": ["fruit", "citrus", "healthy", "low calorie"],
+      "searchTerms": ["grapefruit", "chakotra", "pink grapefruit", "citrus"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 697,
+      "id": "food_cantaloupe_raw",
+      "name": "Cantaloupe / Muskmelon (Raw)",
+      "category": "fruit",
+      "emoji": "🍈",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 34,
+        "protein": 0.8,
+        "carbs": 8.2,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 16,
+        "calcium": 9,
+        "iron": 0.2,
+        "potassium": 267
+      },
+      "default_serving": { "name": "1 cup diced", "grams": 160 },
+      "regions": ["global"],
+      "tags": ["fruit", "melon", "hydration"],
+      "searchTerms": ["cantaloupe", "kharbuja", "muskmelon", "rockmelon"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 698,
+      "id": "food_honeydew_raw",
+      "name": "Honeydew Melon (Raw)",
+      "category": "fruit",
+      "emoji": "🍈",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 36,
+        "protein": 0.5,
+        "carbs": 9.1,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 18,
+        "calcium": 6,
+        "iron": 0.2,
+        "potassium": 228
+      },
+      "default_serving": { "name": "1 cup diced", "grams": 170 },
+      "regions": ["global"],
+      "tags": ["fruit", "melon", "sweet"],
+      "searchTerms": ["honeydew", "green melon", "sweet melon"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 699,
+      "id": "food_dates_medjool",
+      "name": "Dates (Medjool)",
+      "category": "carbs",
+      "emoji": "🌴",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 277,
+        "protein": 1.8,
+        "carbs": 75,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 64,
+        "iron": 0.9,
+        "potassium": 696
+      },
+      "default_serving": { "name": "1 date", "grams": 24 },
+      "regions": ["global", "middle east", "india"],
+      "tags": ["fruit", "dried fruit", "sweet", "energy"],
+      "searchTerms": ["dates", "khajoor", "khajur", "medjool dates"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 700,
+      "id": "food_apricot_raw",
+      "name": "Apricot (Raw)",
+      "category": "fruit",
+      "emoji": "🍑",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 48,
+        "protein": 1.4,
+        "carbs": 11.1,
+        "fat": 0.4
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 13,
+        "iron": 0.4,
+        "potassium": 259
+      },
+      "default_serving": { "name": "1 apricot", "grams": 35 },
+      "regions": ["global"],
+      "tags": ["fruit", "snack"],
+      "searchTerms": ["apricot", "khubani", "fresh apricot"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 701,
+      "id": "food_plum_raw",
+      "name": "Plum (Raw)",
+      "category": "fruit",
+      "emoji": "🫐",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 46,
+        "protein": 0.7,
+        "carbs": 11.4,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 0,
+        "calcium": 6,
+        "iron": 0.2,
+        "potassium": 157
+      },
+      "default_serving": { "name": "1 plum", "grams": 66 },
+      "regions": ["global"],
+      "tags": ["fruit", "snack"],
+      "searchTerms": ["plum", "aloo bukhara", "fresh plum"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 702,
+      "id": "food_kale_raw",
+      "name": "Kale (Raw)",
+      "category": "veg",
+      "emoji": "🥬",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 49,
+        "protein": 4.3,
+        "carbs": 8.8,
+        "fat": 0.9
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 38,
+        "calcium": 150,
+        "iron": 1.5,
+        "potassium": 491
+      },
+      "default_serving": { "name": "1 cup chopped", "grams": 16 },
+      "regions": ["global"],
+      "tags": ["veg", "greens", "superfood"],
+      "searchTerms": ["kale", "leafy greens", "salad greens"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 703,
+      "id": "food_celery_raw",
+      "name": "Celery (Raw)",
+      "category": "veg",
+      "emoji": "🥬",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 16,
+        "protein": 0.7,
+        "carbs": 3,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 80,
+        "calcium": 40,
+        "iron": 0.2,
+        "potassium": 260
+      },
+      "default_serving": { "name": "1 stalk", "grams": 40 },
+      "regions": ["global"],
+      "tags": ["veg", "snack", "low calorie"],
+      "searchTerms": ["celery", "celery sticks", "green stalk"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 704,
+      "id": "food_beetroot_raw",
+      "name": "Beetroot (Raw)",
+      "category": "veg",
+      "emoji": "🧅",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 43,
+        "protein": 1.6,
+        "carbs": 9.6,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 78,
+        "calcium": 16,
+        "iron": 0.8,
+        "potassium": 325
+      },
+      "default_serving": { "name": "1 medium", "grams": 82 },
+      "regions": ["global"],
+      "tags": ["veg", "root", "salad"],
+      "searchTerms": ["beetroot", "beets", "chukandar", "red root"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 705,
+      "id": "food_radish_raw",
+      "name": "Radish (Raw)",
+      "category": "veg",
+      "emoji": "🧅",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 16,
+        "protein": 0.7,
+        "carbs": 3.4,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 39,
+        "calcium": 25,
+        "iron": 0.3,
+        "potassium": 233
+      },
+      "default_serving": { "name": "1 medium", "grams": 9 },
+      "regions": ["global", "india"],
+      "tags": ["veg", "root", "salad"],
+      "searchTerms": ["radish", "mooli", "white radish", "salad root"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 706,
+      "id": "food_turnip_raw",
+      "name": "Turnip (Raw)",
+      "category": "veg",
+      "emoji": "🧅",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 28,
+        "protein": 0.9,
+        "carbs": 6.4,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 67,
+        "calcium": 30,
+        "iron": 0.3,
+        "potassium": 191
+      },
+      "default_serving": { "name": "1 medium", "grams": 122 },
+      "regions": ["global", "india"],
+      "tags": ["veg", "root"],
+      "searchTerms": ["turnip", "shalgam", "root veg"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 707,
+      "id": "food_leek_raw",
+      "name": "Leek (Raw)",
+      "category": "veg",
+      "emoji": "🧅",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 61,
+        "protein": 1.5,
+        "carbs": 14.2,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 20,
+        "calcium": 59,
+        "iron": 2.1,
+        "potassium": 180
+      },
+      "default_serving": { "name": "1 leek", "grams": 89 },
+      "regions": ["global"],
+      "tags": ["veg", "base", "soup ingredient"],
+      "searchTerms": ["leek", "leeks", "onion family"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 708,
+      "id": "food_scallion_raw",
+      "name": "Scallion / Spring Onion",
+      "category": "veg",
+      "emoji": "🧅",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 32,
+        "protein": 1.8,
+        "carbs": 7.3,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 16,
+        "calcium": 72,
+        "iron": 1.5,
+        "potassium": 276
+      },
+      "default_serving": { "name": "1 medium", "grams": 15 },
+      "regions": ["global"],
+      "tags": ["veg", "garnish"],
+      "searchTerms": ["scallion", "spring onion", "hara pyaz", "green onion"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 709,
+      "id": "food_couscous_cooked",
+      "name": "Couscous (Cooked)",
+      "category": "carbs",
+      "emoji": "🍚",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 112,
+        "protein": 3.8,
+        "carbs": 23,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 5,
+        "calcium": 8,
+        "iron": 0.4,
+        "potassium": 58
+      },
+      "default_serving": { "name": "1 cup", "grams": 157 },
+      "regions": ["global", "mediterranean"],
+      "tags": ["carbs", "grain", "side dish"],
+      "searchTerms": ["couscous", "moroccan pasta", "semolina pearls"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 710,
+      "id": "food_barley_cooked",
+      "name": "Barley (Cooked)",
+      "category": "carbs",
+      "emoji": "🌾",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 123,
+        "protein": 2.3,
+        "carbs": 28.2,
+        "fat": 0.4
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 3,
+        "calcium": 11,
+        "iron": 1.3,
+        "potassium": 91
+      },
+      "default_serving": { "name": "1 cup", "grams": 157 },
+      "regions": ["global", "india"],
+      "tags": ["carbs", "grain", "healthy"],
+      "searchTerms": ["barley", "jau", "pearl barley"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 711,
+      "id": "food_millet_cooked",
+      "name": "Millet (Cooked)",
+      "category": "carbs",
+      "emoji": "🌾",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 119,
+        "protein": 3.5,
+        "carbs": 23.7,
+        "fat": 1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 2,
+        "calcium": 3,
+        "iron": 0.6,
+        "potassium": 62
+      },
+      "default_serving": { "name": "1 cup", "grams": 174 },
+      "regions": ["global", "india"],
+      "tags": ["carbs", "grain", "millet"],
+      "searchTerms": ["millet", "bajra grain", "foxtail millet", "cooked millet"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 712,
+      "id": "food_buckwheat_cooked",
+      "name": "Buckwheat (Cooked)",
+      "category": "carbs",
+      "emoji": "🌾",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 92,
+        "protein": 3.4,
+        "carbs": 20,
+        "fat": 0.6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 4,
+        "calcium": 7,
+        "iron": 0.8,
+        "potassium": 88
+      },
+      "default_serving": { "name": "1 cup", "grams": 168 },
+      "regions": ["global", "india"],
+      "tags": ["carbs", "grain", "gluten-free", "fasting"],
+      "searchTerms": ["buckwheat", "kuttu", "kuttu groats", "soba base"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 713,
+      "id": "food_crab_meat_cooked",
+      "name": "Crab Meat (Cooked)",
+      "category": "protein",
+      "emoji": "🦀",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 97,
+        "protein": 19,
+        "carbs": 0,
+        "fat": 1.5
+      },
+      "micros": {
+        "cholesterol": 53,
+        "sodium": 395,
+        "calcium": 59,
+        "iron": 0.7,
+        "potassium": 259
+      },
+      "default_serving": { "name": "1 cup", "grams": 135 },
+      "regions": ["global"],
+      "tags": ["seafood", "protein", "shellfish", "lean"],
+      "searchTerms": ["crab", "crab meat", "kekda", "steamed crab"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 714,
+      "id": "food_lobster_cooked",
+      "name": "Lobster (Cooked)",
+      "category": "protein",
+      "emoji": "🦞",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 89,
+        "protein": 19,
+        "carbs": 0,
+        "fat": 0.9
+      },
+      "micros": {
+        "cholesterol": 146,
+        "sodium": 380,
+        "calcium": 61,
+        "iron": 0.3,
+        "potassium": 230
+      },
+      "default_serving": { "name": "1 cup", "grams": 145 },
+      "regions": ["global"],
+      "tags": ["seafood", "protein", "shellfish"],
+      "searchTerms": ["lobster", "lobster tail", "steamed lobster"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 715,
+      "id": "food_mussels_cooked",
+      "name": "Mussels (Cooked)",
+      "category": "protein",
+      "emoji": "🦪",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 172,
+        "protein": 24,
+        "carbs": 7.4,
+        "fat": 4.5
+      },
+      "micros": {
+        "cholesterol": 56,
+        "sodium": 369,
+        "calcium": 33,
+        "iron": 6.7,
+        "potassium": 268
+      },
+      "default_serving": { "name": "3 oz", "grams": 85 },
+      "regions": ["global"],
+      "tags": ["seafood", "protein", "shellfish", "iron"],
+      "searchTerms": ["mussels", "steamed mussels", "shellfish"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 716,
+      "id": "food_squid_calamari_cooked",
+      "name": "Squid / Calamari (Cooked)",
+      "category": "protein",
+      "emoji": "🦑",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 175,
+        "protein": 18,
+        "carbs": 3,
+        "fat": 7
+      },
+      "micros": {
+        "cholesterol": 260,
+        "sodium": 306,
+        "calcium": 39,
+        "iron": 1.1,
+        "potassium": 279
+      },
+      "default_serving": { "name": "3 oz", "grams": 85 },
+      "regions": ["global"],
+      "tags": ["seafood", "protein"],
+      "searchTerms": ["squid", "calamari", "steamed squid", "seafood"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 717,
+      "id": "food_octopus_cooked",
+      "name": "Octopus (Cooked)",
+      "category": "protein",
+      "emoji": "🐙",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 164,
+        "protein": 30,
+        "carbs": 4.4,
+        "fat": 2.1
+      },
+      "micros": {
+        "cholesterol": 96,
+        "sodium": 460,
+        "calcium": 106,
+        "iron": 9.5,
+        "potassium": 630
+      },
+      "default_serving": { "name": "3 oz", "grams": 85 },
+      "regions": ["global"],
+      "tags": ["seafood", "protein"],
+      "searchTerms": ["octopus", "tako", "boiled octopus"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 718,
+      "id": "food_scallops_cooked",
+      "name": "Scallops (Cooked)",
+      "category": "protein",
+      "emoji": "🦪",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 111,
+        "protein": 20.5,
+        "carbs": 5.4,
+        "fat": 0.8
+      },
+      "micros": {
+        "cholesterol": 41,
+        "sodium": 265,
+        "calcium": 10,
+        "iron": 0.5,
+        "potassium": 314
+      },
+      "default_serving": { "name": "3 oz", "grams": 85 },
+      "regions": ["global"],
+      "tags": ["seafood", "protein", "lean"],
+      "searchTerms": ["scallops", "seared scallops", "shellfish"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 719,
+      "id": "food_oysters_raw",
+      "name": "Oysters (Raw)",
+      "category": "protein",
+      "emoji": "🦪",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 68,
+        "protein": 7,
+        "carbs": 3.9,
+        "fat": 2.5
+      },
+      "micros": {
+        "cholesterol": 50,
+        "sodium": 106,
+        "calcium": 8,
+        "iron": 5.1,
+        "potassium": 156
+      },
+      "default_serving": { "name": "6 medium", "grams": 84 },
+      "regions": ["global"],
+      "tags": ["seafood", "protein", "zinc", "raw"],
+      "searchTerms": ["oyster", "oysters", "raw shellfish"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 720,
+      "id": "food_duck_meat_roasted",
+      "name": "Duck Breast (Roasted, Skinless)",
+      "category": "protein",
+      "emoji": "🦆",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 201,
+        "protein": 23.5,
+        "carbs": 0,
+        "fat": 11.2
+      },
+      "micros": {
+        "cholesterol": 89,
+        "sodium": 65,
+        "calcium": 12,
+        "iron": 2.7,
+        "potassium": 252
+      },
+      "default_serving": { "name": "1 fillet", "grams": 140 },
+      "regions": ["global"],
+      "tags": ["meat", "poultry", "protein"],
+      "searchTerms": ["duck", "duck breast", "duck meat"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 721,
+      "id": "food_venison_cooked",
+      "name": "Venison / Deer Meat (Cooked)",
+      "category": "protein",
+      "emoji": "🦌",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 158,
+        "protein": 30,
+        "carbs": 0,
+        "fat": 3.2
+      },
+      "micros": {
+        "cholesterol": 112,
+        "sodium": 54,
+        "calcium": 6,
+        "iron": 3.4,
+        "potassium": 334
+      },
+      "default_serving": { "name": "3 oz", "grams": 85 },
+      "regions": ["global"],
+      "tags": ["meat", "game", "protein", "lean"],
+      "searchTerms": ["venison", "deer meat", "game meat"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 722,
+      "id": "food_tofu_silken",
+      "name": "Tofu (Silken)",
+      "category": "protein",
+      "emoji": "🧊",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 55,
+        "protein": 4.8,
+        "carbs": 2.8,
+        "fat": 2.7
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 33,
+        "calcium": 111,
+        "iron": 0.8,
+        "potassium": 121
+      },
+      "default_serving": { "name": "1/2 block", "grams": 150 },
+      "regions": ["global", "japan"],
+      "tags": ["vegan", "protein", "soy", "soft"],
+      "searchTerms": ["silken tofu", "soft tofu", "soy curd soft"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 723,
+      "id": "food_tempeh",
+      "name": "Tempeh",
+      "category": "protein",
+      "emoji": "🧊",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 192,
+        "protein": 20.3,
+        "carbs": 7.6,
+        "fat": 10.8
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 9,
+        "calcium": 111,
+        "iron": 2.7,
+        "potassium": 412
+      },
+      "default_serving": { "name": "1/2 cup", "grams": 83 },
+      "regions": ["global", "indonesia"],
+      "tags": ["vegan", "protein", "fermented", "soy"],
+      "searchTerms": ["tempeh", "fermented soy", "vegan protein base"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 724,
+      "id": "food_seitan",
+      "name": "Seitan (Wheat Gluten)",
+      "category": "protein",
+      "emoji": "🍞",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 370,
+        "protein": 75,
+        "carbs": 14,
+        "fat": 1.9
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 29,
+        "calcium": 142,
+        "iron": 5.2,
+        "potassium": 100
+      },
+      "default_serving": { "name": "3 oz", "grams": 85 },
+      "regions": ["global"],
+      "tags": ["vegan", "protein", "mock meat"],
+      "searchTerms": ["seitan", "vital wheat gluten", "vegan meat", "mock meat"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 725,
+      "id": "food_miso_paste",
+      "name": "Miso Paste",
+      "category": "fat",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 198,
+        "protein": 12,
+        "carbs": 25,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 3728,
+        "calcium": 57,
+        "iron": 2.7,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 tablespoon", "grams": 17 },
+      "regions": ["global", "japan"],
+      "tags": ["condiment", "fermented", "soy"],
+      "searchTerms": ["miso paste", "soybean paste", "soup base"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 726,
+      "id": "food_soy_sauce",
+      "name": "Soy Sauce",
+      "category": "carbs",
+      "emoji": "🍾",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 53,
+        "protein": 8,
+        "carbs": 4.9,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 5493,
+        "calcium": 33,
+        "iron": 1.4,
+        "potassium": 435
+      },
+      "default_serving": { "name": "1 tablespoon", "grams": 16 },
+      "regions": ["global"],
+      "tags": ["condiment", "sauce", "salty"],
+      "searchTerms": ["soy sauce", "soya sauce", "dark soy"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 727,
+      "id": "food_sriracha",
+      "name": "Sriracha Hot Sauce",
+      "category": "carbs",
+      "emoji": "🌶️",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 80,
+        "protein": 1.5,
+        "carbs": 16,
+        "fat": 0.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 2040,
+        "calcium": 12,
+        "iron": 0.6,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 teaspoon", "grams": 5 },
+      "regions": ["global"],
+      "tags": ["condiment", "sauce", "spicy"],
+      "searchTerms": ["sriracha", "hot sauce", "rooster sauce", "chili sauce"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 728,
+      "id": "food_hoisin_sauce",
+      "name": "Hoisin Sauce",
+      "category": "carbs",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 220,
+        "protein": 1.8,
+        "carbs": 50,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1020,
+        "calcium": 25,
+        "iron": 1.1,
+        "potassium": 120
+      },
+      "default_serving": { "name": "1 tablespoon", "grams": 16 },
+      "regions": ["global", "china"],
+      "tags": ["condiment", "sauce", "sweet"],
+      "searchTerms": ["hoisin sauce", "chinese sweet sauce", "duck sauce"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 729,
+      "id": "food_oyster_sauce",
+      "name": "Oyster Sauce",
+      "category": "carbs",
+      "emoji": "🦪",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 51,
+        "protein": 1.2,
+        "carbs": 11,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 2733,
+        "calcium": 12,
+        "iron": 0.2,
+        "potassium": 38
+      },
+      "default_serving": { "name": "1 tablespoon", "grams": 18 },
+      "regions": ["global", "asia"],
+      "tags": ["condiment", "sauce", "savory"],
+      "searchTerms": ["oyster sauce", "stir fry sauce", "chinese brown sauce"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 730,
+      "id": "food_fish_sauce",
+      "name": "Fish Sauce",
+      "category": "protein",
+      "emoji": "🐟",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 35,
+        "protein": 5,
+        "carbs": 3.6,
+        "fat": 0
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 7851,
+        "calcium": 43,
+        "iron": 0.8,
+        "potassium": 288
+      },
+      "default_serving": { "name": "1 tablespoon", "grams": 18 },
+      "regions": ["global", "southeast asia"],
+      "tags": ["condiment", "sauce", "salty"],
+      "searchTerms": ["fish sauce", "nam pla", "nuoc mam"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 731,
+      "id": "food_tahini",
+      "name": "Tahini (Sesame Butter)",
+      "category": "fat",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 595,
+        "protein": 17,
+        "carbs": 21,
+        "fat": 53.7
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 115,
+        "calcium": 426,
+        "iron": 9,
+        "potassium": 414
+      },
+      "default_serving": { "name": "1 tablespoon", "grams": 15 },
+      "regions": ["global", "middle east"],
+      "tags": ["condiment", "fats", "sesame", "vegan"],
+      "searchTerms": ["tahini", "sesame paste", "hummus base"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 732,
+      "id": "food_pesto_sauce",
+      "name": "Pesto Sauce",
+      "category": "fat",
+      "emoji": "🌿",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 450,
+        "protein": 5,
+        "carbs": 6,
+        "fat": 46
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 1050,
+        "calcium": 180,
+        "iron": 1.2,
+        "potassium": 190
+      },
+      "default_serving": { "name": "2 tablespoons", "grams": 30 },
+      "regions": ["global", "italy"],
+      "tags": ["condiment", "sauce", "basil", "fats"],
+      "searchTerms": ["pesto", "basil sauce", "green pasta sauce"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 733,
+      "id": "food_tzatziki",
+      "name": "Tzatziki (Yogurt Dip)",
+      "category": "dairy",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 110,
+        "protein": 4,
+        "carbs": 6,
+        "fat": 8
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 310,
+        "calcium": 110,
+        "iron": 0.2,
+        "potassium": 150
+      },
+      "default_serving": { "name": "2 tablespoons", "grams": 30 },
+      "regions": ["global", "greece"],
+      "tags": ["dip", "dairy", "mediterranean"],
+      "searchTerms": ["tzatziki", "greek yogurt dip", "cucumber yogurt"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 734,
+      "id": "food_sour_cream",
+      "name": "Sour Cream (Regular)",
+      "category": "fat",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 198,
+        "protein": 2.4,
+        "carbs": 4.6,
+        "fat": 19.3
+      },
+      "micros": {
+        "cholesterol": 59,
+        "sodium": 31,
+        "calcium": 101,
+        "iron": 0.1,
+        "potassium": 125
+      },
+      "default_serving": { "name": "2 tablespoons", "grams": 24 },
+      "regions": ["global"],
+      "tags": ["dairy", "condiment", "fats"],
+      "searchTerms": ["sour cream", "mexican cream side"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 735,
+      "id": "food_cream_cheese",
+      "name": "Cream Cheese",
+      "category": "fat",
+      "emoji": "🧀",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 342,
+        "protein": 5.9,
+        "carbs": 4.1,
+        "fat": 34.2
+      },
+      "micros": {
+        "cholesterol": 110,
+        "sodium": 321,
+        "calcium": 98,
+        "iron": 0.4,
+        "potassium": 138
+      },
+      "default_serving": { "name": "2 tablespoons", "grams": 30 },
+      "regions": ["global"],
+      "tags": ["dairy", "spread", "fats", "keto"],
+      "searchTerms": ["cream cheese", "bagel spread", "philly cheese"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
     }
   ]
 }
