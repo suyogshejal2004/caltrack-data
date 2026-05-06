@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "foods": [
     {
       "serial": 1,
@@ -6747,6 +6747,1356 @@
       "regions": ["global", "usa"],
       "tags": ["breakfast", "sweet", "carbs"],
       "searchTerms": ["pancakes with syrup", "flapjacks", "hotcakes", "maple syrup pancake"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 251,
+      "id": "food_lasagna_meat",
+      "name": "Lasagna (Meat & Cheese)",
+      "category": "meal",
+      "emoji": "🍝",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 164,
+        "protein": 8.5,
+        "carbs": 15,
+        "fat": 7.5
+      },
+      "micros": {
+        "cholesterol": 22,
+        "sodium": 380,
+        "calcium": 90,
+        "iron": 1.1,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 piece", "grams": 250 },
+      "regions": ["global", "italy"],
+      "tags": ["italian", "pasta", "meat", "cheese"],
+      "searchTerms": ["lasagna", "lasagne", "baked pasta", "meat pasta"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 252,
+      "id": "food_spaghetti_bolognese",
+      "name": "Spaghetti Bolognese",
+      "category": "meal",
+      "emoji": "🍝",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 135,
+        "protein": 6,
+        "carbs": 18,
+        "fat": 4
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 280,
+        "calcium": 25,
+        "iron": 1.4,
+        "potassium": 230
+      },
+      "default_serving": { "name": "1 bowl", "grams": 300 },
+      "regions": ["global", "italy"],
+      "tags": ["italian", "pasta", "meat"],
+      "searchTerms": ["spaghetti bolognese", "spaghetti with meat sauce", "pasta bolognese"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 253,
+      "id": "food_garlic_bread",
+      "name": "Garlic Bread",
+      "category": "carbs",
+      "emoji": "🥖",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 350,
+        "protein": 8,
+        "carbs": 42,
+        "fat": 17
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 580,
+        "calcium": 60,
+        "iron": 2.5,
+        "potassium": 110
+      },
+      "default_serving": { "name": "1 slice", "grams": 40 },
+      "regions": ["global", "italy"],
+      "tags": ["italian", "bread", "carbs", "side"],
+      "searchTerms": ["garlic bread", "garlic toast", "bread side"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 254,
+      "id": "food_risotto_mushroom",
+      "name": "Mushroom Risotto",
+      "category": "meal",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 150,
+        "protein": 3.5,
+        "carbs": 20,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 350,
+        "calcium": 45,
+        "iron": 0.8,
+        "potassium": 180
+      },
+      "default_serving": { "name": "1 bowl", "grams": 250 },
+      "regions": ["global", "italy"],
+      "tags": ["italian", "rice", "veg"],
+      "searchTerms": ["risotto", "mushroom risotto", "creamy rice"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 255,
+      "id": "food_tiramisu",
+      "name": "Tiramisu",
+      "category": "snack",
+      "emoji": "🍰",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 280,
+        "protein": 5,
+        "carbs": 25,
+        "fat": 18
+      },
+      "micros": {
+        "cholesterol": 110,
+        "sodium": 80,
+        "calcium": 70,
+        "iron": 0.5,
+        "potassium": 120
+      },
+      "default_serving": { "name": "1 slice", "grams": 120 },
+      "regions": ["global", "italy"],
+      "tags": ["italian", "dessert", "sweet", "coffee"],
+      "searchTerms": ["tiramisu", "coffee dessert", "italian cake"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 256,
+      "id": "food_ramen_soup",
+      "name": "Ramen (Noodle Soup with Meat)",
+      "category": "meal",
+      "emoji": "🍜",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 110,
+        "protein": 5,
+        "carbs": 12,
+        "fat": 4.5
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 550,
+        "calcium": 20,
+        "iron": 0.9,
+        "potassium": 150
+      },
+      "default_serving": { "name": "1 large bowl", "grams": 450 },
+      "regions": ["global", "japan"],
+      "tags": ["japanese", "soup", "noodles", "asian"],
+      "searchTerms": ["ramen", "noodle soup", "japanese noodles"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 257,
+      "id": "food_edamame_steamed",
+      "name": "Edamame (Steamed)",
+      "category": "veg",
+      "emoji": "🫛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 121,
+        "protein": 11.9,
+        "carbs": 8.9,
+        "fat": 5.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 6,
+        "calcium": 63,
+        "iron": 2.3,
+        "potassium": 436
+      },
+      "default_serving": { "name": "1 cup", "grams": 155 },
+      "regions": ["global", "japan"],
+      "tags": ["japanese", "vegan", "protein", "snack"],
+      "searchTerms": ["edamame", "soybeans", "steamed beans"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 258,
+      "id": "food_miso_soup",
+      "name": "Miso Soup",
+      "category": "meal",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 35,
+        "protein": 3,
+        "carbs": 3.5,
+        "fat": 1.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 480,
+        "calcium": 25,
+        "iron": 0.8,
+        "potassium": 110
+      },
+      "default_serving": { "name": "1 bowl", "grams": 240 },
+      "regions": ["global", "japan"],
+      "tags": ["japanese", "soup", "vegan", "asian"],
+      "searchTerms": ["miso soup", "japanese soup", "soybean soup"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 259,
+      "id": "food_pad_thai",
+      "name": "Pad Thai",
+      "category": "meal",
+      "emoji": "🥡",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 6,
+        "carbs": 25,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 20,
+        "sodium": 420,
+        "calcium": 30,
+        "iron": 1.2,
+        "potassium": 160
+      },
+      "default_serving": { "name": "1 plate", "grams": 250 },
+      "regions": ["global", "thailand"],
+      "tags": ["thai", "noodles", "asian"],
+      "searchTerms": ["pad thai", "thai noodles", "rice noodles"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 260,
+      "id": "food_green_curry_thai",
+      "name": "Thai Green Curry (Chicken)",
+      "category": "meal",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 145,
+        "protein": 8,
+        "carbs": 6,
+        "fat": 10
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 390,
+        "calcium": 25,
+        "iron": 0.8,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["global", "thailand"],
+      "tags": ["thai", "curry", "coconut milk"],
+      "searchTerms": ["thai green curry", "green curry", "coconut curry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 261,
+      "id": "food_spring_roll_veg",
+      "name": "Spring Roll (Veg, Fried)",
+      "category": "snack",
+      "emoji": "🫔",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 4,
+        "carbs": 28,
+        "fat": 13
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 410,
+        "calcium": 30,
+        "iron": 1.2,
+        "potassium": 150
+      },
+      "default_serving": { "name": "2 rolls", "grams": 100 },
+      "regions": ["global", "china"],
+      "tags": ["chinese", "asian", "snack", "fried"],
+      "searchTerms": ["spring roll", "egg roll", "fried roll", "lumpiang"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 262,
+      "id": "food_sweet_sour_chicken",
+      "name": "Sweet and Sour Chicken",
+      "category": "protein",
+      "emoji": "🥡",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 220,
+        "protein": 11,
+        "carbs": 20,
+        "fat": 10
+      },
+      "micros": {
+        "cholesterol": 30,
+        "sodium": 480,
+        "calcium": 15,
+        "iron": 0.8,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["global", "china"],
+      "tags": ["chinese", "asian", "chicken", "sweet"],
+      "searchTerms": ["sweet and sour chicken", "chinese chicken", "orange chicken"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 263,
+      "id": "food_kimchi",
+      "name": "Kimchi",
+      "category": "veg",
+      "emoji": "🥬",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 15,
+        "protein": 1.1,
+        "carbs": 2.4,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 498,
+        "calcium": 33,
+        "iron": 2.5,
+        "potassium": 151
+      },
+      "default_serving": { "name": "1/2 cup", "grams": 75 },
+      "regions": ["global", "korea"],
+      "tags": ["korean", "asian", "fermented", "vegan"],
+      "searchTerms": ["kimchi", "fermented cabbage", "korean pickle"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 264,
+      "id": "food_bibimbap",
+      "name": "Bibimbap",
+      "category": "meal",
+      "emoji": "🥘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 140,
+        "protein": 6,
+        "carbs": 18,
+        "fat": 4.5
+      },
+      "micros": {
+        "cholesterol": 40,
+        "sodium": 350,
+        "calcium": 30,
+        "iron": 1.5,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 bowl", "grams": 350 },
+      "regions": ["global", "korea"],
+      "tags": ["korean", "asian", "rice", "mixed bowl"],
+      "searchTerms": ["bibimbap", "korean rice bowl", "mixed rice"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 265,
+      "id": "food_mashed_potatoes",
+      "name": "Mashed Potatoes",
+      "category": "carbs",
+      "emoji": "🥔",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 113,
+        "protein": 2,
+        "carbs": 15,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 310,
+        "calcium": 25,
+        "iron": 0.5,
+        "potassium": 290
+      },
+      "default_serving": { "name": "1 cup", "grams": 210 },
+      "regions": ["global", "usa", "uk"],
+      "tags": ["carbs", "side dish", "comfort food"],
+      "searchTerms": ["mashed potatoes", "mash", "potato puree"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 266,
+      "id": "food_hash_browns",
+      "name": "Hash Browns",
+      "category": "carbs",
+      "emoji": "🥔",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 270,
+        "protein": 2.5,
+        "carbs": 28,
+        "fat": 17
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 420,
+        "calcium": 15,
+        "iron": 0.9,
+        "potassium": 350
+      },
+      "default_serving": { "name": "1 patty", "grams": 60 },
+      "regions": ["global", "usa"],
+      "tags": ["breakfast", "potato", "fried"],
+      "searchTerms": ["hash browns", "potato patty", "breakfast potatoes"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 267,
+      "id": "food_baked_beans",
+      "name": "Baked Beans (in Tomato Sauce)",
+      "category": "carbs",
+      "emoji": "🥫",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 94,
+        "protein": 5,
+        "carbs": 17,
+        "fat": 0.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 380,
+        "calcium": 40,
+        "iron": 1.4,
+        "potassium": 330
+      },
+      "default_serving": { "name": "1/2 cup", "grams": 130 },
+      "regions": ["global", "uk", "usa"],
+      "tags": ["breakfast", "beans", "vegan"],
+      "searchTerms": ["baked beans", "beans on toast", "canned beans"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 268,
+      "id": "food_fish_and_chips",
+      "name": "Fish (Battered & Fried)",
+      "category": "protein",
+      "emoji": "🐟",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 230,
+        "protein": 14,
+        "carbs": 16,
+        "fat": 12
+      },
+      "micros": {
+        "cholesterol": 40,
+        "sodium": 480,
+        "calcium": 25,
+        "iron": 1.1,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 fillet", "grams": 150 },
+      "regions": ["global", "uk"],
+      "tags": ["seafood", "fried", "british"],
+      "searchTerms": ["fish and chips", "battered fish", "fried fish"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 269,
+      "id": "food_pain_au_chocolat",
+      "name": "Pain au Chocolat",
+      "category": "carbs",
+      "emoji": "🥐",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 410,
+        "protein": 7,
+        "carbs": 48,
+        "fat": 22
+      },
+      "micros": {
+        "cholesterol": 50,
+        "sodium": 350,
+        "calcium": 40,
+        "iron": 2.1,
+        "potassium": 140
+      },
+      "default_serving": { "name": "1 pastry", "grams": 70 },
+      "regions": ["global", "france"],
+      "tags": ["pastry", "breakfast", "sweet", "french"],
+      "searchTerms": ["pain au chocolat", "chocolate croissant", "french pastry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 270,
+      "id": "food_baguette",
+      "name": "French Baguette",
+      "category": "carbs",
+      "emoji": "🥖",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 270,
+        "protein": 10,
+        "carbs": 53,
+        "fat": 1.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 600,
+        "calcium": 20,
+        "iron": 3.2,
+        "potassium": 110
+      },
+      "default_serving": { "name": "1 large slice", "grams": 50 },
+      "regions": ["global", "france"],
+      "tags": ["bread", "carbs", "french"],
+      "searchTerms": ["baguette", "french bread", "crusty bread"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 271,
+      "id": "food_omelette",
+      "name": "Omelette (Plain)",
+      "category": "protein",
+      "emoji": "🍳",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 154,
+        "protein": 11,
+        "carbs": 0.6,
+        "fat": 12
+      },
+      "micros": {
+        "cholesterol": 311,
+        "sodium": 155,
+        "calcium": 50,
+        "iron": 1.2,
+        "potassium": 130
+      },
+      "default_serving": { "name": "2 egg omelette", "grams": 120 },
+      "regions": ["global"],
+      "tags": ["breakfast", "protein", "eggs"],
+      "searchTerms": ["omelette", "omelet", "fried eggs", "anda"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 272,
+      "id": "food_scrambled_eggs",
+      "name": "Scrambled Eggs",
+      "category": "protein",
+      "emoji": "🍳",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 148,
+        "protein": 10,
+        "carbs": 1.5,
+        "fat": 11
+      },
+      "micros": {
+        "cholesterol": 277,
+        "sodium": 160,
+        "calcium": 60,
+        "iron": 1.1,
+        "potassium": 140
+      },
+      "default_serving": { "name": "2 eggs scrambled", "grams": 120 },
+      "regions": ["global"],
+      "tags": ["breakfast", "protein", "eggs"],
+      "searchTerms": ["scrambled eggs", "bhurji plain", "beaten eggs"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 273,
+      "id": "food_cornflakes",
+      "name": "Cornflakes Cereal",
+      "category": "carbs",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 357,
+        "protein": 8,
+        "carbs": 84,
+        "fat": 0.4
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 729,
+        "calcium": 3,
+        "iron": 28.9,
+        "potassium": 168
+      },
+      "default_serving": { "name": "1 cup", "grams": 30 },
+      "regions": ["global", "usa"],
+      "tags": ["breakfast", "cereal", "carbs"],
+      "searchTerms": ["cornflakes", "cereal", "kelloggs"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 274,
+      "id": "food_granola",
+      "name": "Granola",
+      "category": "carbs",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 471,
+        "protein": 10,
+        "carbs": 64,
+        "fat": 20
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 25,
+        "calcium": 60,
+        "iron": 3.2,
+        "potassium": 320
+      },
+      "default_serving": { "name": "1/2 cup", "grams": 50 },
+      "regions": ["global"],
+      "tags": ["breakfast", "snack", "oats", "healthy"],
+      "searchTerms": ["granola", "cereal cluster", "muesli crunch"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 275,
+      "id": "food_croquettes",
+      "name": "Potato Croquettes",
+      "category": "carbs",
+      "emoji": "🥔",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 4,
+        "carbs": 28,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 420,
+        "calcium": 25,
+        "iron": 1.2,
+        "potassium": 310
+      },
+      "default_serving": { "name": "2 pieces", "grams": 100 },
+      "regions": ["global", "europe"],
+      "tags": ["snack", "potato", "fried"],
+      "searchTerms": ["croquettes", "potato rolls", "fried mash", "korokke"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 276,
+      "id": "food_pistachios_raw",
+      "name": "Pistachios (Raw)",
+      "category": "fat",
+      "emoji": "🥜",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 562,
+        "protein": 20,
+        "carbs": 28,
+        "fat": 45
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 105,
+        "iron": 3.9,
+        "potassium": 1025
+      },
+      "default_serving": { "name": "1 handful", "grams": 28 },
+      "regions": ["global"],
+      "tags": ["nuts", "fats", "snack"],
+      "searchTerms": ["pistachio", "pista", "nuts"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 277,
+      "id": "food_sunflower_seeds",
+      "name": "Sunflower Seeds (Hulled)",
+      "category": "fat",
+      "emoji": "🌻",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 584,
+        "protein": 21,
+        "carbs": 20,
+        "fat": 51
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 9,
+        "calcium": 78,
+        "iron": 5.3,
+        "potassium": 645
+      },
+      "default_serving": { "name": "2 tablespoons", "grams": 20 },
+      "regions": ["global"],
+      "tags": ["seeds", "fats", "snack"],
+      "searchTerms": ["sunflower seeds", "surajmukhi beej", "seeds"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 278,
+      "id": "food_pumpkin_seeds",
+      "name": "Pumpkin Seeds (Pepitas)",
+      "category": "fat",
+      "emoji": "🎃",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 574,
+        "protein": 30,
+        "carbs": 15,
+        "fat": 49
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 7,
+        "calcium": 46,
+        "iron": 8.8,
+        "potassium": 809
+      },
+      "default_serving": { "name": "2 tablespoons", "grams": 28 },
+      "regions": ["global"],
+      "tags": ["seeds", "fats", "protein"],
+      "searchTerms": ["pumpkin seeds", "kaddu beej", "pepitas"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 279,
+      "id": "food_sweet_corn_boiled",
+      "name": "Sweet Corn (Boiled)",
+      "category": "carbs",
+      "emoji": "🌽",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 96,
+        "protein": 3.4,
+        "carbs": 21,
+        "fat": 1.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 3,
+        "iron": 0.4,
+        "potassium": 218
+      },
+      "default_serving": { "name": "1/2 cup", "grams": 80 },
+      "regions": ["global"],
+      "tags": ["veg", "carbs", "snack"],
+      "searchTerms": ["corn", "bhutta", "sweet corn", "maize"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 280,
+      "id": "food_green_beans_steamed",
+      "name": "Green Beans (Steamed)",
+      "category": "veg",
+      "emoji": "🫘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 35,
+        "protein": 1.9,
+        "carbs": 7.9,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 37,
+        "iron": 1.1,
+        "potassium": 211
+      },
+      "default_serving": { "name": "1 cup", "grams": 125 },
+      "regions": ["global"],
+      "tags": ["veg", "greens", "healthy"],
+      "searchTerms": ["green beans", "string beans", "french beans", "fansi"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 281,
+      "id": "food_asparagus_steamed",
+      "name": "Asparagus (Steamed)",
+      "category": "veg",
+      "emoji": "🥬",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 22,
+        "protein": 2.4,
+        "carbs": 4.1,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 14,
+        "calcium": 23,
+        "iron": 0.9,
+        "potassium": 224
+      },
+      "default_serving": { "name": "1 cup", "grams": 134 },
+      "regions": ["global"],
+      "tags": ["veg", "greens"],
+      "searchTerms": ["asparagus", "steamed asparagus", "spears"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 282,
+      "id": "food_zucchini_raw",
+      "name": "Zucchini (Raw)",
+      "category": "veg",
+      "emoji": "🥒",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 17,
+        "protein": 1.2,
+        "carbs": 3.1,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 8,
+        "calcium": 16,
+        "iron": 0.4,
+        "potassium": 261
+      },
+      "default_serving": { "name": "1 medium", "grams": 196 },
+      "regions": ["global"],
+      "tags": ["veg", "squash", "salad"],
+      "searchTerms": ["zucchini", "courgette", "squash"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 283,
+      "id": "food_brussels_sprouts_cooked",
+      "name": "Brussels Sprouts (Cooked)",
+      "category": "veg",
+      "emoji": "🥬",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 36,
+        "protein": 2.6,
+        "carbs": 7.1,
+        "fat": 0.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 21,
+        "calcium": 36,
+        "iron": 1.2,
+        "potassium": 317
+      },
+      "default_serving": { "name": "1 cup", "grams": 156 },
+      "regions": ["global", "usa", "uk"],
+      "tags": ["veg", "greens", "cruciferous"],
+      "searchTerms": ["brussels sprouts", "sprouts", "mini cabbage"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 284,
+      "id": "food_blueberries_raw",
+      "name": "Blueberries (Raw)",
+      "category": "fruit",
+      "emoji": "🫐",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 57,
+        "protein": 0.7,
+        "carbs": 14.5,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 6,
+        "iron": 0.3,
+        "potassium": 77
+      },
+      "default_serving": { "name": "1 cup", "grams": 148 },
+      "regions": ["global"],
+      "tags": ["fruit", "berries", "healthy"],
+      "searchTerms": ["blueberries", "berries", "antioxidant"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 285,
+      "id": "food_raspberries_raw",
+      "name": "Raspberries (Raw)",
+      "category": "fruit",
+      "emoji": "🍓",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 52,
+        "protein": 1.2,
+        "carbs": 11.9,
+        "fat": 0.6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 25,
+        "iron": 0.7,
+        "potassium": 151
+      },
+      "default_serving": { "name": "1 cup", "grams": 123 },
+      "regions": ["global"],
+      "tags": ["fruit", "berries"],
+      "searchTerms": ["raspberries", "berries"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 286,
+      "id": "food_blackberries_raw",
+      "name": "Blackberries (Raw)",
+      "category": "fruit",
+      "emoji": "🫐",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 43,
+        "protein": 1.4,
+        "carbs": 9.6,
+        "fat": 0.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 29,
+        "iron": 0.6,
+        "potassium": 162
+      },
+      "default_serving": { "name": "1 cup", "grams": 144 },
+      "regions": ["global"],
+      "tags": ["fruit", "berries"],
+      "searchTerms": ["blackberries", "berries"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 287,
+      "id": "food_cherries_raw",
+      "name": "Cherries (Raw)",
+      "category": "fruit",
+      "emoji": "🍒",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 63,
+        "protein": 1.1,
+        "carbs": 16,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 0,
+        "calcium": 13,
+        "iron": 0.4,
+        "potassium": 222
+      },
+      "default_serving": { "name": "1 cup", "grams": 138 },
+      "regions": ["global"],
+      "tags": ["fruit", "snack"],
+      "searchTerms": ["cherry", "cherries", "fruit"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 288,
+      "id": "food_pomegranate_raw",
+      "name": "Pomegranate (Raw)",
+      "category": "fruit",
+      "emoji": "🍎",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 83,
+        "protein": 1.7,
+        "carbs": 18.7,
+        "fat": 1.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 3,
+        "calcium": 10,
+        "iron": 0.3,
+        "potassium": 236
+      },
+      "default_serving": { "name": "1/2 cup arils", "grams": 87 },
+      "regions": ["global"],
+      "tags": ["fruit", "healthy", "seeds"],
+      "searchTerms": ["pomegranate", "anar", "fruit"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 289,
+      "id": "food_kiwi_raw",
+      "name": "Kiwi (Raw)",
+      "category": "fruit",
+      "emoji": "🥝",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 61,
+        "protein": 1.1,
+        "carbs": 14.7,
+        "fat": 0.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 3,
+        "calcium": 34,
+        "iron": 0.3,
+        "potassium": 312
+      },
+      "default_serving": { "name": "1 medium", "grams": 69 },
+      "regions": ["global"],
+      "tags": ["fruit", "tropical"],
+      "searchTerms": ["kiwi", "kiwifruit", "fruit"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 290,
+      "id": "food_roast_beef",
+      "name": "Roast Beef (Cooked)",
+      "category": "protein",
+      "emoji": "🥩",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 165,
+        "protein": 29,
+        "carbs": 0,
+        "fat": 4.5
+      },
+      "micros": {
+        "cholesterol": 76,
+        "sodium": 49,
+        "calcium": 6,
+        "iron": 2.4,
+        "potassium": 358
+      },
+      "default_serving": { "name": "3 slices", "grams": 85 },
+      "regions": ["global", "usa", "uk"],
+      "tags": ["meat", "beef", "protein"],
+      "searchTerms": ["roast beef", "beef slice", "deli meat"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 291,
+      "id": "food_turkey_breast_roasted",
+      "name": "Turkey Breast (Roasted)",
+      "category": "protein",
+      "emoji": "🦃",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 135,
+        "protein": 30,
+        "carbs": 0,
+        "fat": 1
+      },
+      "micros": {
+        "cholesterol": 62,
+        "sodium": 113,
+        "calcium": 15,
+        "iron": 1.2,
+        "potassium": 293
+      },
+      "default_serving": { "name": "3 slices", "grams": 85 },
+      "regions": ["global", "usa"],
+      "tags": ["meat", "poultry", "protein", "lean"],
+      "searchTerms": ["turkey", "turkey breast", "thanksgiving turkey", "deli turkey"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 292,
+      "id": "food_lamb_chop_cooked",
+      "name": "Lamb Chop (Cooked)",
+      "category": "protein",
+      "emoji": "🍖",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 294,
+        "protein": 25,
+        "carbs": 0,
+        "fat": 21
+      },
+      "micros": {
+        "cholesterol": 97,
+        "sodium": 66,
+        "calcium": 17,
+        "iron": 1.9,
+        "potassium": 285
+      },
+      "default_serving": { "name": "1 chop", "grams": 100 },
+      "regions": ["global", "uk", "mediterranean"],
+      "tags": ["meat", "lamb", "protein"],
+      "searchTerms": ["lamb chop", "lamb", "meat"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 293,
+      "id": "food_beef_burger_patty",
+      "name": "Beef Burger Patty (Cooked)",
+      "category": "protein",
+      "emoji": "🍔",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 254,
+        "protein": 24,
+        "carbs": 0,
+        "fat": 17
+      },
+      "micros": {
+        "cholesterol": 82,
+        "sodium": 75,
+        "calcium": 14,
+        "iron": 2.5,
+        "potassium": 312
+      },
+      "default_serving": { "name": "1 patty", "grams": 90 },
+      "regions": ["global", "usa"],
+      "tags": ["meat", "beef", "burger"],
+      "searchTerms": ["burger patty", "beef patty", "hamburger meat"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 294,
+      "id": "food_pork_sausage",
+      "name": "Pork Sausage (Cooked)",
+      "category": "fat",
+      "emoji": "🌭",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 339,
+        "protein": 14,
+        "carbs": 2,
+        "fat": 30
+      },
+      "micros": {
+        "cholesterol": 76,
+        "sodium": 848,
+        "calcium": 25,
+        "iron": 1.3,
+        "potassium": 217
+      },
+      "default_serving": { "name": "2 links", "grams": 68 },
+      "regions": ["global", "usa", "uk"],
+      "tags": ["meat", "pork", "breakfast"],
+      "searchTerms": ["sausage", "pork sausage", "breakfast sausage", "bangers"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 295,
+      "id": "food_salami",
+      "name": "Salami (Pork/Beef)",
+      "category": "fat",
+      "emoji": "🥩",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 407,
+        "protein": 22,
+        "carbs": 2,
+        "fat": 34
+      },
+      "micros": {
+        "cholesterol": 80,
+        "sodium": 1890,
+        "calcium": 14,
+        "iron": 1.5,
+        "potassium": 295
+      },
+      "default_serving": { "name": "3 slices", "grams": 30 },
+      "regions": ["global", "italy"],
+      "tags": ["meat", "deli", "cured"],
+      "searchTerms": ["salami", "cured meat", "deli meat"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 296,
+      "id": "food_pepperoni",
+      "name": "Pepperoni",
+      "category": "fat",
+      "emoji": "🍕",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 494,
+        "protein": 19,
+        "carbs": 1.2,
+        "fat": 46
+      },
+      "micros": {
+        "cholesterol": 97,
+        "sodium": 1582,
+        "calcium": 15,
+        "iron": 1.5,
+        "potassium": 223
+      },
+      "default_serving": { "name": "10 slices", "grams": 20 },
+      "regions": ["global", "usa"],
+      "tags": ["meat", "pizza topping", "deli"],
+      "searchTerms": ["pepperoni", "pizza meat", "cured sausage"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 297,
+      "id": "food_chicken_wings_fried",
+      "name": "Chicken Wings (Fried, Plain)",
+      "category": "protein",
+      "emoji": "🍗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 290,
+        "protein": 20,
+        "carbs": 0,
+        "fat": 23
+      },
+      "micros": {
+        "cholesterol": 85,
+        "sodium": 180,
+        "calcium": 15,
+        "iron": 1.1,
+        "potassium": 190
+      },
+      "default_serving": { "name": "3 wings", "grams": 100 },
+      "regions": ["global", "usa"],
+      "tags": ["meat", "chicken", "fried", "snack"],
+      "searchTerms": ["chicken wings", "hot wings", "buffalo wings"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 298,
+      "id": "food_chicken_nuggets",
+      "name": "Chicken Nuggets",
+      "category": "protein",
+      "emoji": "🍗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 296,
+        "protein": 15,
+        "carbs": 14,
+        "fat": 20
+      },
+      "micros": {
+        "cholesterol": 44,
+        "sodium": 557,
+        "calcium": 22,
+        "iron": 1,
+        "potassium": 218
+      },
+      "default_serving": { "name": "5 nuggets", "grams": 80 },
+      "regions": ["global", "usa"],
+      "tags": ["fastfood", "chicken", "snack", "fried"],
+      "searchTerms": ["chicken nuggets", "nuggets", "fast food chicken"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 299,
+      "id": "food_mustard",
+      "name": "Yellow Mustard",
+      "category": "veg",
+      "emoji": "🌭",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 60,
+        "protein": 4.4,
+        "carbs": 5.8,
+        "fat": 3.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1100,
+        "calcium": 84,
+        "iron": 1.5,
+        "potassium": 133
+      },
+      "default_serving": { "name": "1 teaspoon", "grams": 5 },
+      "regions": ["global", "usa"],
+      "tags": ["condiment", "sauce", "vegan"],
+      "searchTerms": ["mustard", "yellow mustard", "condiment"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 300,
+      "id": "food_bbq_sauce",
+      "name": "BBQ Sauce",
+      "category": "carbs",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 195,
+        "protein": 0.8,
+        "carbs": 48,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1027,
+        "calcium": 22,
+        "iron": 0.6,
+        "potassium": 215
+      },
+      "default_serving": { "name": "2 tablespoons", "grams": 35 },
+      "regions": ["global", "usa"],
+      "tags": ["condiment", "sauce", "sweet"],
+      "searchTerms": ["bbq sauce", "barbecue sauce", "dip"],
       "is_verified": true,
       "updatedAt": "2026-05-06"
     }
