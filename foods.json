@@ -485,7 +485,8 @@
       "searchTerms": ["pasta", "spaghetti", "macaroni"],
       "is_verified": true,
       "updatedAt": "2026-05-06"
-    },{
+    }
+    ,{
       "serial": 19,
       "id": "food_pizza_cheese",
       "name": "Cheese Pizza (Slice)",
