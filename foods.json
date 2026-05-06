@@ -4049,6 +4049,681 @@
       "searchTerms": ["shankarpali", "shakarpara", "sweet snack", "fried"],
       "is_verified": true,
       "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 151,
+      "id": "food_ven_pongal",
+      "name": "Ven Pongal",
+      "category": "meal",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 155,
+        "protein": 4.5,
+        "carbs": 22,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 280,
+        "calcium": 30,
+        "iron": 1.1,
+        "potassium": 120
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["south indian", "tamil", "breakfast", "rice"],
+      "searchTerms": ["pongal", "ven pongal", "khara pongal"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 152,
+      "id": "food_bisi_bele_bath",
+      "name": "Bisi Bele Bath",
+      "category": "meal",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 160,
+        "protein": 5,
+        "carbs": 25,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 5,
+        "sodium": 350,
+        "calcium": 40,
+        "iron": 1.8,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 bowl", "grams": 250 },
+      "regions": ["india"],
+      "tags": ["south indian", "kannada", "meal", "rice"],
+      "searchTerms": ["bisi bele bath", "sambar rice", "hot lentil rice"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 153,
+      "id": "food_appam",
+      "name": "Appam",
+      "category": "carbs",
+      "emoji": "🥞",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 3,
+        "carbs": 38,
+        "fat": 1.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 120,
+        "calcium": 15,
+        "iron": 0.8,
+        "potassium": 90
+      },
+      "default_serving": { "name": "2 pieces", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["south indian", "kerala", "breakfast", "bread"],
+      "searchTerms": ["appam", "palappam", "rice pancake", "hoppam"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 154,
+      "id": "food_idiyappam",
+      "name": "Idiyappam (String Hoppers)",
+      "category": "carbs",
+      "emoji": "🍝",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 170,
+        "protein": 3.5,
+        "carbs": 36,
+        "fat": 0.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 150,
+        "calcium": 10,
+        "iron": 0.5,
+        "potassium": 60
+      },
+      "default_serving": { "name": "3 pieces", "grams": 120 },
+      "regions": ["india"],
+      "tags": ["south indian", "kerala", "tamil", "breakfast"],
+      "searchTerms": ["idiyappam", "string hoppers", "nool puttu"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 155,
+      "id": "food_puttu",
+      "name": "Puttu",
+      "category": "carbs",
+      "emoji": "🧻",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 190,
+        "protein": 3.5,
+        "carbs": 40,
+        "fat": 1.8
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 110,
+        "calcium": 12,
+        "iron": 0.9,
+        "potassium": 85
+      },
+      "default_serving": { "name": "1 piece (cylindrical)", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["south indian", "kerala", "breakfast", "rice"],
+      "searchTerms": ["puttu", "arisi puttu", "steamed rice cake"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 156,
+      "id": "food_mysore_pak",
+      "name": "Mysore Pak",
+      "category": "snack",
+      "emoji": "🟨",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 520,
+        "protein": 4,
+        "carbs": 55,
+        "fat": 32
+      },
+      "micros": {
+        "cholesterol": 60,
+        "sodium": 10,
+        "calcium": 25,
+        "iron": 1.2,
+        "potassium": 110
+      },
+      "default_serving": { "name": "1 piece", "grams": 40 },
+      "regions": ["india"],
+      "tags": ["south indian", "sweet", "dessert", "kannada"],
+      "searchTerms": ["mysore pak", "besan sweet", "ghee sweet"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 157,
+      "id": "food_pesarattu",
+      "name": "Pesarattu (Moong Dal Dosa)",
+      "category": "meal",
+      "emoji": "🫔",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 190,
+        "protein": 8,
+        "carbs": 26,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 35,
+        "iron": 2.1,
+        "potassium": 230
+      },
+      "default_serving": { "name": "1 dosa", "grams": 120 },
+      "regions": ["india"],
+      "tags": ["south indian", "andhra", "breakfast", "protein"],
+      "searchTerms": ["pesarattu", "moong dal dosa", "green gram dosa"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 158,
+      "id": "food_rava_dosa",
+      "name": "Rava Dosa",
+      "category": "carbs",
+      "emoji": "🫔",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 210,
+        "protein": 4.5,
+        "carbs": 35,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 350,
+        "calcium": 20,
+        "iron": 1.5,
+        "potassium": 140
+      },
+      "default_serving": { "name": "1 dosa", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["south indian", "breakfast", "crispy"],
+      "searchTerms": ["rava dosa", "semolina dosa", "crispy dosa"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 159,
+      "id": "food_uttappam",
+      "name": "Uttappam",
+      "category": "meal",
+      "emoji": "🥞",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 170,
+        "protein": 4,
+        "carbs": 28,
+        "fat": 4.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 290,
+        "calcium": 25,
+        "iron": 1.1,
+        "potassium": 160
+      },
+      "default_serving": { "name": "1 uttappam", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["south indian", "breakfast", "veg"],
+      "searchTerms": ["uttappam", "oothappam", "thick dosa", "onion uttappam"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 160,
+      "id": "food_sambar",
+      "name": "Sambar",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 80,
+        "protein": 3.5,
+        "carbs": 12,
+        "fat": 2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 350,
+        "calcium": 30,
+        "iron": 1.2,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["south indian", "curry", "veg", "dal"],
+      "searchTerms": ["sambar", "sambhar", "lentil soup"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 161,
+      "id": "food_rasam",
+      "name": "Rasam",
+      "category": "drink",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 40,
+        "protein": 1.5,
+        "carbs": 6,
+        "fat": 1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 420,
+        "calcium": 25,
+        "iron": 0.8,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 cup", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["south indian", "soup", "digestive"],
+      "searchTerms": ["rasam", "saaru", "tomato soup", "clear soup"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 162,
+      "id": "food_lemon_rice",
+      "name": "Lemon Rice",
+      "category": "carbs",
+      "emoji": "🍋",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 185,
+        "protein": 3.5,
+        "carbs": 32,
+        "fat": 4.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 15,
+        "iron": 1.2,
+        "potassium": 110
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["south indian", "rice", "lunch", "vegan"],
+      "searchTerms": ["lemon rice", "chitranna", "elummichai sadam"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 163,
+      "id": "food_tamarind_rice",
+      "name": "Tamarind Rice",
+      "category": "carbs",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 195,
+        "protein": 4,
+        "carbs": 35,
+        "fat": 4
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 320,
+        "calcium": 25,
+        "iron": 1.5,
+        "potassium": 160
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["south indian", "rice", "tangy", "lunch"],
+      "searchTerms": ["tamarind rice", "puliyogare", "pulihora", "puliyodarai"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 164,
+      "id": "food_curd_rice",
+      "name": "Curd Rice",
+      "category": "meal",
+      "emoji": "🍚",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 120,
+        "protein": 4,
+        "carbs": 18,
+        "fat": 3.5
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 180,
+        "calcium": 85,
+        "iron": 0.4,
+        "potassium": 110
+      },
+      "default_serving": { "name": "1 bowl", "grams": 250 },
+      "regions": ["india"],
+      "tags": ["south indian", "rice", "cooling", "comfort food"],
+      "searchTerms": ["curd rice", "thayir sadam", "daddojanam", "yogurt rice"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 165,
+      "id": "food_chettinad_chicken",
+      "name": "Chettinad Chicken",
+      "category": "protein",
+      "emoji": "🍗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 14,
+        "carbs": 6,
+        "fat": 11
+      },
+      "micros": {
+        "cholesterol": 45,
+        "sodium": 390,
+        "calcium": 35,
+        "iron": 1.8,
+        "potassium": 240
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["south indian", "tamil", "chicken", "spicy", "curry"],
+      "searchTerms": ["chettinad chicken", "spicy chicken curry", "kodi koora"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 166,
+      "id": "food_malabar_parotta",
+      "name": "Malabar Parotta",
+      "category": "carbs",
+      "emoji": "🫓",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 320,
+        "protein": 6,
+        "carbs": 48,
+        "fat": 12
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 410,
+        "calcium": 25,
+        "iron": 2.1,
+        "potassium": 120
+      },
+      "default_serving": { "name": "1 parotta", "grams": 80 },
+      "regions": ["india"],
+      "tags": ["south indian", "kerala", "bread", "carbs"],
+      "searchTerms": ["malabar parotta", "kerala parotta", "flaky flatbread", "barotta"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 167,
+      "id": "food_hyderabadi_haleem",
+      "name": "Hyderabadi Haleem",
+      "category": "meal",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 200,
+        "protein": 12,
+        "carbs": 15,
+        "fat": 10
+      },
+      "micros": {
+        "cholesterol": 40,
+        "sodium": 380,
+        "calcium": 45,
+        "iron": 3.2,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 bowl", "grams": 250 },
+      "regions": ["india"],
+      "tags": ["south indian", "hyderabadi", "meat", "ramadan", "meal"],
+      "searchTerms": ["haleem", "hyderabadi haleem", "meat stew"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 168,
+      "id": "food_chicken_65",
+      "name": "Chicken 65",
+      "category": "protein",
+      "emoji": "🍗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 16,
+        "carbs": 10,
+        "fat": 16
+      },
+      "micros": {
+        "cholesterol": 55,
+        "sodium": 480,
+        "calcium": 25,
+        "iron": 1.5,
+        "potassium": 220
+      },
+      "default_serving": { "name": "1 portion", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["south indian", "starter", "chicken", "spicy", "fried"],
+      "searchTerms": ["chicken 65", "spicy fried chicken", "chicken starter"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 169,
+      "id": "food_coconut_chutney",
+      "name": "Coconut Chutney",
+      "category": "fat",
+      "emoji": "🥥",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 3,
+        "carbs": 8,
+        "fat": 23
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 15,
+        "iron": 1.1,
+        "potassium": 190
+      },
+      "default_serving": { "name": "2 tablespoons", "grams": 30 },
+      "regions": ["india"],
+      "tags": ["south indian", "chutney", "dip", "vegan"],
+      "searchTerms": ["coconut chutney", "nariyal chutney", "pachadi"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 170,
+      "id": "food_tomato_chutney",
+      "name": "Tomato Chutney",
+      "category": "veg",
+      "emoji": "🍅",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 90,
+        "protein": 1.5,
+        "carbs": 10,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 350,
+        "calcium": 15,
+        "iron": 0.8,
+        "potassium": 220
+      },
+      "default_serving": { "name": "2 tablespoons", "grams": 30 },
+      "regions": ["india"],
+      "tags": ["south indian", "chutney", "dip", "tangy"],
+      "searchTerms": ["tomato chutney", "thakkali chutney", "red chutney"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 171,
+      "id": "food_neer_dosa",
+      "name": "Neer Dosa",
+      "category": "carbs",
+      "emoji": "🫓",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 130,
+        "protein": 2.5,
+        "carbs": 26,
+        "fat": 1.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 120,
+        "calcium": 10,
+        "iron": 0.5,
+        "potassium": 50
+      },
+      "default_serving": { "name": "2 dosas", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["south indian", "kannada", "breakfast", "soft dosa"],
+      "searchTerms": ["neer dosa", "water dosa", "mangalore dosa"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 172,
+      "id": "food_akki_roti",
+      "name": "Akki Roti",
+      "category": "carbs",
+      "emoji": "🫓",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 220,
+        "protein": 4,
+        "carbs": 42,
+        "fat": 4
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 25,
+        "iron": 1.2,
+        "potassium": 130
+      },
+      "default_serving": { "name": "1 roti", "grams": 80 },
+      "regions": ["india"],
+      "tags": ["south indian", "kannada", "breakfast", "bread"],
+      "searchTerms": ["akki roti", "rice flour roti", "rice flatbread"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 173,
+      "id": "food_rava_kesari",
+      "name": "Rava Kesari (Kesari Bath)",
+      "category": "snack",
+      "emoji": "🍮",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 350,
+        "protein": 3.5,
+        "carbs": 55,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 30,
+        "sodium": 15,
+        "calcium": 20,
+        "iron": 1.1,
+        "potassium": 80
+      },
+      "default_serving": { "name": "1 bowl", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["south indian", "sweet", "dessert"],
+      "searchTerms": ["rava kesari", "kesari bath", "sheera", "suji halwa"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 174,
+      "id": "food_mirchi_bajji",
+      "name": "Mirchi Bajji",
+      "category": "snack",
+      "emoji": "🌶️",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 280,
+        "protein": 5,
+        "carbs": 30,
+        "fat": 15
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 450,
+        "calcium": 35,
+        "iron": 1.8,
+        "potassium": 210
+      },
+      "default_serving": { "name": "2 bajjis", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["south indian", "snack", "street food", "fried"],
+      "searchTerms": ["mirchi bajji", "chilli bajji", "menasinakai bajji", "chili fritters"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 175,
+      "id": "food_kuzhi_paniyaram",
+      "name": "Kuzhi Paniyaram (Paddu)",
+      "category": "snack",
+      "emoji": "🧆",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 210,
+        "protein": 5,
+        "carbs": 35,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 310,
+        "calcium": 25,
+        "iron": 1.4,
+        "potassium": 140
+      },
+      "default_serving": { "name": "4 pieces", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["south indian", "snack", "breakfast"],
+      "searchTerms": ["paniyaram", "paddu", "appe", "ponganalu", "gunta ponganalu"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
     }
   ]
 }
