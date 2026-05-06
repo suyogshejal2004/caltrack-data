@@ -2024,6 +2024,681 @@
       "searchTerms": ["lemon", "nimbu", "citrus"],
       "is_verified": true,
       "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 76,
+      "id": "food_quinoa_cooked",
+      "name": "Quinoa (Cooked)",
+      "category": "carbs",
+      "emoji": "🍚",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 120,
+        "protein": 4.4,
+        "carbs": 21.3,
+        "fat": 1.9
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 7,
+        "calcium": 17,
+        "iron": 1.5,
+        "potassium": 172
+      },
+      "default_serving": { "name": "1 cup", "grams": 185 },
+      "regions": ["global"],
+      "tags": ["grain", "carbs", "healthy"],
+      "searchTerms": ["quinoa", "grain", "seed"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 77,
+      "id": "food_brown_rice_cooked",
+      "name": "Brown Rice (Cooked)",
+      "category": "carbs",
+      "emoji": "🍚",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 112,
+        "protein": 2.6,
+        "carbs": 24,
+        "fat": 0.9
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 5,
+        "calcium": 10,
+        "iron": 0.4,
+        "potassium": 43
+      },
+      "default_serving": { "name": "1 cup", "grams": 195 },
+      "regions": ["global"],
+      "tags": ["grain", "carbs", "whole grain"],
+      "searchTerms": ["brown rice", "rice", "whole grain"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 78,
+      "id": "food_cashews_raw",
+      "name": "Cashews (Raw)",
+      "category": "fat",
+      "emoji": "🥜",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 553,
+        "protein": 18,
+        "carbs": 30,
+        "fat": 44
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 12,
+        "calcium": 37,
+        "iron": 6.7,
+        "potassium": 660
+      },
+      "default_serving": { "name": "1 handful", "grams": 28 },
+      "regions": ["global", "india"],
+      "tags": ["nuts", "fats", "snack"],
+      "searchTerms": ["cashew", "kaju", "nuts"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 79,
+      "id": "food_walnuts_raw",
+      "name": "Walnuts (Raw)",
+      "category": "fat",
+      "emoji": "🥜",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 654,
+        "protein": 15,
+        "carbs": 14,
+        "fat": 65
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 2,
+        "calcium": 98,
+        "iron": 2.9,
+        "potassium": 441
+      },
+      "default_serving": { "name": "1 handful", "grams": 28 },
+      "regions": ["global"],
+      "tags": ["nuts", "fats", "snack"],
+      "searchTerms": ["walnut", "akhrot", "nuts"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 80,
+      "id": "food_peanuts_raw",
+      "name": "Peanuts (Raw)",
+      "category": "fat",
+      "emoji": "🥜",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 567,
+        "protein": 26,
+        "carbs": 16,
+        "fat": 49
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 18,
+        "calcium": 92,
+        "iron": 4.6,
+        "potassium": 705
+      },
+      "default_serving": { "name": "1 handful", "grams": 28 },
+      "regions": ["global", "india"],
+      "tags": ["nuts", "fats", "snack", "legume"],
+      "searchTerms": ["peanut", "mungfali", "nuts"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 81,
+      "id": "food_chia_seeds",
+      "name": "Chia Seeds",
+      "category": "fat",
+      "emoji": "🌱",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 486,
+        "protein": 17,
+        "carbs": 42,
+        "fat": 31
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 16,
+        "calcium": 631,
+        "iron": 7.7,
+        "potassium": 407
+      },
+      "default_serving": { "name": "1 tablespoon", "grams": 15 },
+      "regions": ["global"],
+      "tags": ["seeds", "healthy", "fiber"],
+      "searchTerms": ["chia", "seeds"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 82,
+      "id": "food_cabbage_raw",
+      "name": "Cabbage (Raw)",
+      "category": "veg",
+      "emoji": "🥬",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 25,
+        "protein": 1.3,
+        "carbs": 5.8,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 18,
+        "calcium": 40,
+        "iron": 0.5,
+        "potassium": 170
+      },
+      "default_serving": { "name": "1 cup chopped", "grams": 89 },
+      "regions": ["global"],
+      "tags": ["veg", "greens"],
+      "searchTerms": ["cabbage", "patta gobhi", "greens"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 83,
+      "id": "food_cauliflower_raw",
+      "name": "Cauliflower (Raw)",
+      "category": "veg",
+      "emoji": "🥦",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 25,
+        "protein": 1.9,
+        "carbs": 5,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 30,
+        "calcium": 22,
+        "iron": 0.4,
+        "potassium": 299
+      },
+      "default_serving": { "name": "1 cup chopped", "grams": 107 },
+      "regions": ["global", "india"],
+      "tags": ["veg"],
+      "searchTerms": ["cauliflower", "phool gobhi"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 84,
+      "id": "food_green_peas_boiled",
+      "name": "Green Peas (Boiled)",
+      "category": "veg",
+      "emoji": "🫛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 81,
+        "protein": 5.4,
+        "carbs": 14,
+        "fat": 0.4
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 5,
+        "calcium": 25,
+        "iron": 1.5,
+        "potassium": 244
+      },
+      "default_serving": { "name": "1/2 cup", "grams": 80 },
+      "regions": ["global", "india"],
+      "tags": ["veg", "legume"],
+      "searchTerms": ["peas", "matar", "green peas"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 85,
+      "id": "food_chickpeas_boiled",
+      "name": "Chickpeas (Boiled)",
+      "category": "carbs",
+      "emoji": "🧆",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 164,
+        "protein": 8.9,
+        "carbs": 27,
+        "fat": 2.6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 7,
+        "calcium": 49,
+        "iron": 2.9,
+        "potassium": 291
+      },
+      "default_serving": { "name": "1/2 cup", "grams": 82 },
+      "regions": ["global", "india"],
+      "tags": ["legume", "protein", "carbs"],
+      "searchTerms": ["chickpeas", "chana", "garbanzo beans"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 86,
+      "id": "food_black_beans_boiled",
+      "name": "Black Beans (Boiled)",
+      "category": "carbs",
+      "emoji": "🫘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 132,
+        "protein": 8.9,
+        "carbs": 24,
+        "fat": 0.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 27,
+        "iron": 2.1,
+        "potassium": 355
+      },
+      "default_serving": { "name": "1/2 cup", "grams": 86 },
+      "regions": ["global", "usa"],
+      "tags": ["legume", "carbs", "mexican"],
+      "searchTerms": ["black beans", "beans"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 87,
+      "id": "food_tuna_canned",
+      "name": "Tuna (Canned in Water)",
+      "category": "protein",
+      "emoji": "🐟",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 116,
+        "protein": 26,
+        "carbs": 0,
+        "fat": 1
+      },
+      "micros": {
+        "cholesterol": 30,
+        "sodium": 338,
+        "calcium": 16,
+        "iron": 1.5,
+        "potassium": 237
+      },
+      "default_serving": { "name": "1 can", "grams": 165 },
+      "regions": ["global"],
+      "tags": ["seafood", "protein", "fish"],
+      "searchTerms": ["tuna", "canned fish", "fish"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 88,
+      "id": "food_shrimp_cooked",
+      "name": "Shrimp (Cooked)",
+      "category": "protein",
+      "emoji": "🦐",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 99,
+        "protein": 24,
+        "carbs": 0.2,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 189,
+        "sodium": 111,
+        "calcium": 70,
+        "iron": 0.5,
+        "potassium": 259
+      },
+      "default_serving": { "name": "100 g", "grams": 100 },
+      "regions": ["global"],
+      "tags": ["seafood", "protein"],
+      "searchTerms": ["shrimp", "prawns", "seafood"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 89,
+      "id": "food_ground_beef_cooked",
+      "name": "Ground Beef (Cooked)",
+      "category": "protein",
+      "emoji": "🥩",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 26,
+        "carbs": 0,
+        "fat": 15
+      },
+      "micros": {
+        "cholesterol": 88,
+        "sodium": 82,
+        "calcium": 21,
+        "iron": 2.7,
+        "potassium": 341
+      },
+      "default_serving": { "name": "1 patty", "grams": 100 },
+      "regions": ["global", "usa"],
+      "tags": ["meat", "beef", "protein"],
+      "searchTerms": ["ground beef", "mince", "beef"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 90,
+      "id": "food_pork_chop_cooked",
+      "name": "Pork Chop (Cooked)",
+      "category": "protein",
+      "emoji": "🍖",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 231,
+        "protein": 24,
+        "carbs": 0,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 78,
+        "sodium": 62,
+        "calcium": 17,
+        "iron": 0.9,
+        "potassium": 352
+      },
+      "default_serving": { "name": "1 chop", "grams": 130 },
+      "regions": ["global"],
+      "tags": ["meat", "pork", "protein"],
+      "searchTerms": ["pork chop", "pork", "meat"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 91,
+      "id": "food_croissant",
+      "name": "Croissant",
+      "category": "carbs",
+      "emoji": "🥐",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 406,
+        "protein": 8,
+        "carbs": 46,
+        "fat": 21
+      },
+      "micros": {
+        "cholesterol": 67,
+        "sodium": 467,
+        "calcium": 37,
+        "iron": 2,
+        "potassium": 118
+      },
+      "default_serving": { "name": "1 large", "grams": 67 },
+      "regions": ["global"],
+      "tags": ["pastry", "carbs", "breakfast"],
+      "searchTerms": ["croissant", "pastry", "bread"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 92,
+      "id": "food_doughnut_glazed",
+      "name": "Doughnut (Glazed)",
+      "category": "snack",
+      "emoji": "🍩",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 452,
+        "protein": 5,
+        "carbs": 51,
+        "fat": 25
+      },
+      "micros": {
+        "cholesterol": 24,
+        "sodium": 326,
+        "calcium": 21,
+        "iron": 2.1,
+        "potassium": 106
+      },
+      "default_serving": { "name": "1 doughnut", "grams": 60 },
+      "regions": ["global", "usa"],
+      "tags": ["snack", "sweet", "dessert"],
+      "searchTerms": ["doughnut", "donut", "sweet"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 93,
+      "id": "food_muffin_blueberry",
+      "name": "Blueberry Muffin",
+      "category": "snack",
+      "emoji": "🧁",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 377,
+        "protein": 4.5,
+        "carbs": 54,
+        "fat": 16
+      },
+      "micros": {
+        "cholesterol": 41,
+        "sodium": 281,
+        "calcium": 57,
+        "iron": 1.4,
+        "potassium": 125
+      },
+      "default_serving": { "name": "1 muffin", "grams": 113 },
+      "regions": ["global", "usa"],
+      "tags": ["snack", "baked", "breakfast"],
+      "searchTerms": ["muffin", "blueberry muffin", "cake"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 94,
+      "id": "food_apple_juice",
+      "name": "Apple Juice (Unsweetened)",
+      "category": "drink",
+      "emoji": "🧃",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 46,
+        "protein": 0.1,
+        "carbs": 11,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 4,
+        "calcium": 8,
+        "iron": 0.1,
+        "potassium": 101
+      },
+      "default_serving": { "name": "1 glass", "grams": 240 },
+      "regions": ["global"],
+      "tags": ["drink", "fruit juice"],
+      "searchTerms": ["apple juice", "juice"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 95,
+      "id": "food_beer_regular",
+      "name": "Beer (Regular)",
+      "category": "drink",
+      "emoji": "🍺",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 43,
+        "protein": 0.5,
+        "carbs": 3.6,
+        "fat": 0
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 4,
+        "calcium": 4,
+        "iron": 0,
+        "potassium": 27
+      },
+      "default_serving": { "name": "1 can", "grams": 355 },
+      "regions": ["global"],
+      "tags": ["alcohol", "beverage"],
+      "searchTerms": ["beer", "alcohol"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 96,
+      "id": "food_wine_red",
+      "name": "Red Wine",
+      "category": "drink",
+      "emoji": "🍷",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 85,
+        "protein": 0.1,
+        "carbs": 2.6,
+        "fat": 0
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 4,
+        "calcium": 8,
+        "iron": 0.5,
+        "potassium": 127
+      },
+      "default_serving": { "name": "1 glass", "grams": 147 },
+      "regions": ["global"],
+      "tags": ["alcohol", "beverage"],
+      "searchTerms": ["wine", "red wine", "alcohol"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 97,
+      "id": "food_peach_raw",
+      "name": "Peach (Raw)",
+      "category": "fruit",
+      "emoji": "🍑",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 39,
+        "protein": 0.9,
+        "carbs": 9.5,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 0,
+        "calcium": 6,
+        "iron": 0.3,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 medium", "grams": 150 },
+      "regions": ["global"],
+      "tags": ["fruit", "snack"],
+      "searchTerms": ["peach", "aadoo", "fruit"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 98,
+      "id": "food_pear_raw",
+      "name": "Pear (Raw)",
+      "category": "fruit",
+      "emoji": "🍐",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 57,
+        "protein": 0.4,
+        "carbs": 15,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 9,
+        "iron": 0.2,
+        "potassium": 116
+      },
+      "default_serving": { "name": "1 medium", "grams": 178 },
+      "regions": ["global"],
+      "tags": ["fruit", "snack"],
+      "searchTerms": ["pear", "nashpati", "fruit"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 99,
+      "id": "food_papaya_raw",
+      "name": "Papaya (Raw)",
+      "category": "fruit",
+      "emoji": "🥭",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 43,
+        "protein": 0.5,
+        "carbs": 11,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 8,
+        "calcium": 20,
+        "iron": 0.3,
+        "potassium": 182
+      },
+      "default_serving": { "name": "1 cup diced", "grams": 145 },
+      "regions": ["global", "india"],
+      "tags": ["fruit", "tropical"],
+      "searchTerms": ["papaya", "papita", "fruit"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 100,
+      "id": "food_dark_chocolate",
+      "name": "Dark Chocolate (70-85% Cacao)",
+      "category": "fat",
+      "emoji": "🍫",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 598,
+        "protein": 8,
+        "carbs": 46,
+        "fat": 43
+      },
+      "micros": {
+        "cholesterol": 3,
+        "sodium": 20,
+        "calcium": 73,
+        "iron": 11.9,
+        "potassium": 715
+      },
+      "default_serving": { "name": "1 square", "grams": 10 },
+      "regions": ["global"],
+      "tags": ["snack", "sweet", "fats"],
+      "searchTerms": ["dark chocolate", "chocolate", "cocoa"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
     }
   ]
 }
