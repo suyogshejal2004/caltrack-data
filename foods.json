@@ -216,7 +216,8 @@
       "searchTerms": ["burger", "cheeseburger"],
       "is_verified": false,
       "updatedAt": "2026-04-27"
-    },{
+    },
+    {
       "serial": 9,
       "id": "food_chicken_breast",
       "name": "Chicken Breast (Cooked)",
