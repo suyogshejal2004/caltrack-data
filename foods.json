@@ -1,5 +1,5 @@
 {
-  "version":8,
+  "version":9,
   "foods": [
     {
       "serial": 1,
@@ -13362,6 +13362,4326 @@
       "regions": ["india"],
       "tags": ["indian", "rice", "veg"],
       "searchTerms": ["peas pulao", "matar pulao", "matar chawal"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 496,
+      "id": "food_dhapate",
+      "name": "Dhapate",
+      "category": "carbs",
+      "emoji": "🫓",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 280,
+        "protein": 8,
+        "carbs": 42,
+        "fat": 9
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 310,
+        "calcium": 60,
+        "iron": 3.1,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 dhapate", "grams": 80 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "bread", "multigrain", "healthy"],
+      "searchTerms": ["dhapate", "marathwada thalipeeth", "multigrain flatbread", "rustic paratha"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 497,
+      "id": "food_dadpe_pohe",
+      "name": "Dadpe Pohe",
+      "category": "snack",
+      "emoji": "🥗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 210,
+        "protein": 4,
+        "carbs": 35,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 350,
+        "calcium": 25,
+        "iron": 2.1,
+        "potassium": 180
+      },
+      "default_serving": { "name": "1 bowl", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "snack", "raw", "vegan"],
+      "searchTerms": ["dadpe pohe", "raw poha snack", "coconut poha", "uncooked flattened rice"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 498,
+      "id": "food_patwadi_rassa",
+      "name": "Patwadi Rassa",
+      "category": "meal",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 240,
+        "protein": 9,
+        "carbs": 18,
+        "fat": 15
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 480,
+        "calcium": 45,
+        "iron": 2.5,
+        "potassium": 290
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "vidarbha", "curry", "spicy"],
+      "searchTerms": ["patwadi rassa", "besan vadi curry", "spicy gram flour curry", "nagpuri patwadi"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 499,
+      "id": "food_pandhra_rassa",
+      "name": "Pandhra Rassa (White Mutton Broth)",
+      "category": "protein",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 160,
+        "protein": 12,
+        "carbs": 5,
+        "fat": 10
+      },
+      "micros": {
+        "cholesterol": 40,
+        "sodium": 380,
+        "calcium": 40,
+        "iron": 1.2,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "kolhapuri", "soup", "meat"],
+      "searchTerms": ["pandhra rassa", "white mutton soup", "coconut mutton broth", "kolhapuri soup"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 500,
+      "id": "food_tambda_rassa",
+      "name": "Tambda Rassa (Red Mutton Curry)",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 190,
+        "protein": 14,
+        "carbs": 8,
+        "fat": 12
+      },
+      "micros": {
+        "cholesterol": 45,
+        "sodium": 450,
+        "calcium": 35,
+        "iron": 2.1,
+        "potassium": 250
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "kolhapuri", "meat", "spicy curry"],
+      "searchTerms": ["tambda rassa", "red mutton curry", "spicy kolhapuri meat", "tambada rassa"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 501,
+      "id": "food_shevga_bhaji",
+      "name": "Shevga Bhaji (Drumstick Curry)",
+      "category": "veg",
+      "emoji": "🥘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 120,
+        "protein": 4,
+        "carbs": 12,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 310,
+        "calcium": 80,
+        "iron": 1.8,
+        "potassium": 320
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "curry", "veg", "healthy"],
+      "searchTerms": ["shevga bhaji", "drumstick curry", "moringa curry", "shevgyachi bhaji"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 502,
+      "id": "food_mugachi_usal",
+      "name": "Mugachi Usal (Sprouted Moong)",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 130,
+        "protein": 8,
+        "carbs": 18,
+        "fat": 3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 40,
+        "iron": 2.5,
+        "potassium": 290
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "veg", "sprouts", "protein"],
+      "searchTerms": ["mugachi usal", "moong sprouts curry", "mod alelya mugachi bhaji"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 503,
+      "id": "food_chavali_usal",
+      "name": "Chavali Chi Usal (Black-eyed Peas)",
+      "category": "protein",
+      "emoji": "🥘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 140,
+        "protein": 8.5,
+        "carbs": 22,
+        "fat": 2.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 320,
+        "calcium": 35,
+        "iron": 2.8,
+        "potassium": 340
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "veg", "protein", "beans"],
+      "searchTerms": ["chavali chi usal", "black eyed peas curry", "lobia sabzi maharashtra", "chawli usal"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 504,
+      "id": "food_batata_rassa",
+      "name": "Batata Rassa (Liquid Potato Curry)",
+      "category": "veg",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 110,
+        "protein": 2,
+        "carbs": 18,
+        "fat": 4
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 350,
+        "calcium": 15,
+        "iron": 0.8,
+        "potassium": 350
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "curry", "potato", "comfort food"],
+      "searchTerms": ["batata rassa", "rassyachi bhaji", "liquid potato curry", "aloo rassa"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 505,
+      "id": "food_aluchi_patal_bhaji",
+      "name": "Aluchi Patal Bhaji",
+      "category": "veg",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 130,
+        "protein": 5,
+        "carbs": 15,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 320,
+        "calcium": 80,
+        "iron": 2.4,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "curry", "greens", "wedding food"],
+      "searchTerms": ["aluchi patal bhaji", "colocasia leaves curry", "aloo chi bhaji", "sweet and sour leaves"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 506,
+      "id": "food_kala_chana_amti",
+      "name": "Kala Chana Amti",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 150,
+        "protein": 8,
+        "carbs": 20,
+        "fat": 4.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 380,
+        "calcium": 40,
+        "iron": 2.8,
+        "potassium": 310
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "curry", "dal", "spicy"],
+      "searchTerms": ["kala chana amti", "black chickpea curry", "harbaryachi usal"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 507,
+      "id": "food_bharli_mirchi",
+      "name": "Bharli Mirchi (Stuffed Chilli)",
+      "category": "veg",
+      "emoji": "🌶️",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 6,
+        "carbs": 12,
+        "fat": 12
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 340,
+        "calcium": 30,
+        "iron": 1.5,
+        "potassium": 250
+      },
+      "default_serving": { "name": "2 chillies", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "side dish", "spicy", "besan"],
+      "searchTerms": ["bharli mirchi", "stuffed green chilli", "besan stuffed mirchi", "bhavnagari mirchi"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 508,
+      "id": "food_shengole",
+      "name": "Shengole / Kadboli (Cooked in Broth)",
+      "category": "meal",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 220,
+        "protein": 8,
+        "carbs": 32,
+        "fat": 7
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 410,
+        "calcium": 50,
+        "iron": 2.2,
+        "potassium": 260
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "rustic", "comfort food"],
+      "searchTerms": ["shengole", "kadboli rassa", "steamed dough strings", "valvat"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 509,
+      "id": "food_metkut_rice",
+      "name": "Metkut Bhaat (with Ghee)",
+      "category": "meal",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 6,
+        "carbs": 38,
+        "fat": 8
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 280,
+        "calcium": 30,
+        "iron": 1.5,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "comfort food", "healthy", "rice"],
+      "searchTerms": ["metkut bhaat", "roasted lentil powder rice", "metkut tup bhaat"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 510,
+      "id": "food_zunka_bhakar_combo",
+      "name": "Zunka Bhakar (Combo)",
+      "category": "meal",
+      "emoji": "🥘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 290,
+        "protein": 10,
+        "carbs": 42,
+        "fat": 9
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 480,
+        "calcium": 45,
+        "iron": 3.5,
+        "potassium": 380
+      },
+      "default_serving": { "name": "1 plate (Zunka + 1 Bhakri)", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "meal", "rustic", "healthy"],
+      "searchTerms": ["zunka bhakar", "jhunka bhakri combo", "pithla bhakri"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 511,
+      "id": "food_sabudana_thalipeeth",
+      "name": "Sabudana Thalipeeth",
+      "category": "carbs",
+      "emoji": "🫓",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 270,
+        "protein": 3,
+        "carbs": 45,
+        "fat": 9
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 350,
+        "calcium": 25,
+        "iron": 1.1,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 thalipeeth", "grams": 80 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "fasting", "upvas", "snack"],
+      "searchTerms": ["sabudana thalipeeth", "sago pancake", "upvas thalipeeth", "farali thalipeeth"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 512,
+      "id": "food_farali_misal",
+      "name": "Farali / Upvasachi Misal",
+      "category": "meal",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 240,
+        "protein": 4,
+        "carbs": 35,
+        "fat": 10
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 420,
+        "calcium": 30,
+        "iron": 1.4,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "fasting", "upvas", "spicy"],
+      "searchTerms": ["farali misal", "upvasachi misal", "sabudana misal", "fasting misal"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 513,
+      "id": "food_gola_bhaat",
+      "name": "Gola Bhaat",
+      "category": "meal",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 190,
+        "protein": 6,
+        "carbs": 32,
+        "fat": 4.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 380,
+        "calcium": 35,
+        "iron": 1.8,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "vidarbha", "rice", "spicy"],
+      "searchTerms": ["gola bhaat", "besan dumpling rice", "nagpuri gola bhat"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 514,
+      "id": "food_mawa_modak",
+      "name": "Mawa / Khoya Modak",
+      "category": "snack",
+      "emoji": "🤍",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 390,
+        "protein": 12,
+        "carbs": 40,
+        "fat": 20
+      },
+      "micros": {
+        "cholesterol": 50,
+        "sodium": 45,
+        "calcium": 310,
+        "iron": 0.5,
+        "potassium": 280
+      },
+      "default_serving": { "name": "2 pieces", "grams": 40 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "sweet", "dairy", "festival"],
+      "searchTerms": ["mawa modak", "khoya modak", "ganpati sweet milk"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 515,
+      "id": "food_kandi_peda",
+      "name": "Kandi Peda (Satara Special)",
+      "category": "snack",
+      "emoji": "🟤",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 380,
+        "protein": 11,
+        "carbs": 45,
+        "fat": 17
+      },
+      "micros": {
+        "cholesterol": 45,
+        "sodium": 40,
+        "calcium": 290,
+        "iron": 0.4,
+        "potassium": 250
+      },
+      "default_serving": { "name": "2 pieces", "grams": 40 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "sweet", "dairy", "satara"],
+      "searchTerms": ["kandi peda", "satari peda", "roasted milk sweet", "brown peda"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 516,
+      "id": "food_chirote",
+      "name": "Chirote / Pakatale Chirote",
+      "category": "snack",
+      "emoji": "🍥",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 420,
+        "protein": 5,
+        "carbs": 55,
+        "fat": 20
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 20,
+        "calcium": 25,
+        "iron": 1.2,
+        "potassium": 90
+      },
+      "default_serving": { "name": "1 piece", "grams": 40 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "sweet", "fried", "diwali"],
+      "searchTerms": ["chirote", "flaky sweet", "khaja", "layered sweet puri"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 517,
+      "id": "food_bhadang",
+      "name": "Bhadang (Spicy Puffed Rice)",
+      "category": "snack",
+      "emoji": "🥗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 410,
+        "protein": 8,
+        "carbs": 68,
+        "fat": 12
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 650,
+        "calcium": 35,
+        "iron": 4.1,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 bowl", "grams": 50 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "snack", "spicy", "kolhapuri"],
+      "searchTerms": ["bhadang", "kolhapuri bhadang", "spicy murmura", "kurmura namkeen"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 518,
+      "id": "food_usal_pav",
+      "name": "Usal Pav (Without Farsan)",
+      "category": "meal",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 210,
+        "protein": 9,
+        "carbs": 35,
+        "fat": 4
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 480,
+        "calcium": 45,
+        "iron": 2.5,
+        "potassium": 290
+      },
+      "default_serving": { "name": "1 plate (Usal + 2 Pav)", "grams": 250 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "street food", "healthy alternative", "sprouts"],
+      "searchTerms": ["usal pav", "matki usal pav", "sprouts curry with bread"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 519,
+      "id": "food_shengdana_ladoo",
+      "name": "Shengdana Ladoo",
+      "category": "snack",
+      "emoji": "🧆",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 480,
+        "protein": 14,
+        "carbs": 42,
+        "fat": 28
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 10,
+        "calcium": 50,
+        "iron": 2.1,
+        "potassium": 510
+      },
+      "default_serving": { "name": "1 ladoo", "grams": 35 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "sweet", "healthy", "fasting"],
+      "searchTerms": ["shengdana ladoo", "peanut jaggery ball", "upvas ladoo", "groundnut laddu"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 520,
+      "id": "food_rajgira_ladoo",
+      "name": "Rajgira Ladoo",
+      "category": "snack",
+      "emoji": "🟤",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 390,
+        "protein": 7,
+        "carbs": 78,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 15,
+        "calcium": 140,
+        "iron": 5.2,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 ladoo", "grams": 25 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "fasting", "sweet", "healthy"],
+      "searchTerms": ["rajgira ladoo", "amaranth ball", "upvas sweet", "ramdana laddu"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 521,
+      "id": "food_dink_ladoo",
+      "name": "Dink Ladoo (Edible Gum)",
+      "category": "snack",
+      "emoji": "🧆",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 490,
+        "protein": 9,
+        "carbs": 55,
+        "fat": 26
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 20,
+        "calcium": 180,
+        "iron": 3.8,
+        "potassium": 310
+      },
+      "default_serving": { "name": "1 ladoo", "grams": 40 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "sweet", "winter", "healthy"],
+      "searchTerms": ["dink ladoo", "gond ke ladoo", "winter sweet", "dinkache ladoo"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 522,
+      "id": "food_methi_chi_bhaji",
+      "name": "Methi Chi Bhaji (Dry)",
+      "category": "veg",
+      "emoji": "🥬",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 85,
+        "protein": 4,
+        "carbs": 9,
+        "fat": 4.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 180,
+        "iron": 3.5,
+        "potassium": 320
+      },
+      "default_serving": { "name": "1 bowl", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "veg", "greens", "healthy"],
+      "searchTerms": ["methi chi bhaji", "fenugreek leaves dry", "lasuni methi", "maharashtrian methi"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 523,
+      "id": "food_lasun_chutney",
+      "name": "Lasun Chutney (Dry Garlic/Coconut)",
+      "category": "fat",
+      "emoji": "🧄",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 450,
+        "protein": 8,
+        "carbs": 35,
+        "fat": 32
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 950,
+        "calcium": 45,
+        "iron": 2.5,
+        "potassium": 380
+      },
+      "default_serving": { "name": "1 tablespoon", "grams": 15 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "chutney", "spicy", "condiment"],
+      "searchTerms": ["lasun chutney", "vada pav chutney red", "dry garlic coconut chutney", "lasnachi chutney"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 524,
+      "id": "food_jawla",
+      "name": "Jawla (Dry Tiny Shrimp Curry)",
+      "category": "protein",
+      "emoji": "🦐",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 240,
+        "protein": 35,
+        "carbs": 6,
+        "fat": 8
+      },
+      "micros": {
+        "cholesterol": 180,
+        "sodium": 850,
+        "calcium": 250,
+        "iron": 4.5,
+        "potassium": 310
+      },
+      "default_serving": { "name": "1 small bowl", "grams": 50 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "konkani", "seafood", "dry fish"],
+      "searchTerms": ["jawla", "sukat", "dry tiny shrimp", "koli seafood"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 525,
+      "id": "food_gavran_mutton",
+      "name": "Gavran Mutton Curry",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 220,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 65,
+        "sodium": 480,
+        "calcium": 40,
+        "iron": 3.1,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "meat", "rustic", "spicy"],
+      "searchTerms": ["gavran mutton", "village style mutton", "maratha meat curry", "kala masala mutton"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 526,
+      "id": "food_matki_bhel",
+      "name": "Matki Bhel",
+      "category": "snack",
+      "emoji": "🥗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 190,
+        "protein": 8,
+        "carbs": 32,
+        "fat": 4
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 450,
+        "calcium": 35,
+        "iron": 2.5,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 plate", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "street food", "healthy snack", "sprouts"],
+      "searchTerms": ["matki bhel", "sprouts bhel", "healthy chaat maharashtra"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 527,
+      "id": "food_bhopla_bhaji",
+      "name": "Lal Bhopla Bhaji (Red Pumpkin)",
+      "category": "veg",
+      "emoji": "🎃",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 85,
+        "protein": 1.5,
+        "carbs": 12,
+        "fat": 3.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 25,
+        "iron": 0.8,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "veg", "sweet and sour", "healthy"],
+      "searchTerms": ["lal bhopla bhaji", "kaddu ki sabzi", "red pumpkin curry maharashtra"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 528,
+      "id": "food_puneri_misal",
+      "name": "Puneri Misal",
+      "category": "meal",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 220,
+        "protein": 7,
+        "carbs": 30,
+        "fat": 8
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 450,
+        "calcium": 40,
+        "iron": 2.1,
+        "potassium": 260
+      },
+      "default_serving": { "name": "1 plate (Misal only)", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "street food", "pune", "sweet and spicy"],
+      "searchTerms": ["puneri misal", "pune misal", "less spicy misal", "pohe misal"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 529,
+      "id": "food_moong_dal_bhaji",
+      "name": "Moong Dal Bhaji / Moongode",
+      "category": "snack",
+      "emoji": "🍘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 280,
+        "protein": 10,
+        "carbs": 35,
+        "fat": 12
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 420,
+        "calcium": 30,
+        "iron": 2.5,
+        "potassium": 240
+      },
+      "default_serving": { "name": "1 plate", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "snack", "fried", "street food"],
+      "searchTerms": ["moong dal bhaji", "moongode", "mugachi bhaji", "lentil fritters"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 530,
+      "id": "food_mande_khapir",
+      "name": "Mande / Khapir Roti",
+      "category": "carbs",
+      "emoji": "🫓",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 320,
+        "protein": 8,
+        "carbs": 60,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 150,
+        "calcium": 25,
+        "iron": 1.8,
+        "potassium": 140
+      },
+      "default_serving": { "name": "1 large roti", "grams": 80 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "khandeshi", "bread", "sweet stuffed"],
+      "searchTerms": ["mande", "khapir roti", "puran mande", "khandeshi sweet flatbread"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 531,
+      "id": "food_shevaya_sweet",
+      "name": "Shevaya (Sweet Vermicelli)",
+      "category": "snack",
+      "emoji": "🍜",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 4,
+        "carbs": 35,
+        "fat": 3
+      },
+      "micros": {
+        "cholesterol": 5,
+        "sodium": 20,
+        "calcium": 60,
+        "iron": 0.8,
+        "potassium": 110
+      },
+      "default_serving": { "name": "1 bowl", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "sweet", "dessert", "milk"],
+      "searchTerms": ["shevaya", "sweet vermicelli", "kheer shevaya", "gode shevaya"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 532,
+      "id": "food_jowar_lahya",
+      "name": "Jowar Lahya (Sorghum Puffs)",
+      "category": "carbs",
+      "emoji": "🍿",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 350,
+        "protein": 10,
+        "carbs": 74,
+        "fat": 3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 5,
+        "calcium": 25,
+        "iron": 4.5,
+        "potassium": 350
+      },
+      "default_serving": { "name": "1 large bowl", "grams": 30 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "snack", "healthy", "nag panchami"],
+      "searchTerms": ["lahya", "jowar puffs", "sorghum popcorn", "lahi"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 533,
+      "id": "food_gavar_bhaji",
+      "name": "Gavar Chi Bhaji (Cluster Beans)",
+      "category": "veg",
+      "emoji": "🫘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 65,
+        "protein": 3,
+        "carbs": 10,
+        "fat": 2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 130,
+        "iron": 1.5,
+        "potassium": 250
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "veg", "healthy", "everyday"],
+      "searchTerms": ["gavar chi bhaji", "cluster beans dry", "guar sabzi"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 534,
+      "id": "food_tondli_bhaji",
+      "name": "Tondli Chi Bhaji (Ivy Gourd)",
+      "category": "veg",
+      "emoji": "🥒",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 85,
+        "protein": 2,
+        "carbs": 9,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 310,
+        "calcium": 40,
+        "iron": 1.4,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "veg", "dry curry", "everyday"],
+      "searchTerms": ["tondli chi bhaji", "ivy gourd fry", "tendli", "kundru sabzi"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 535,
+      "id": "food_lal_mirch_thecha",
+      "name": "Lal Mirch Thecha",
+      "category": "veg",
+      "emoji": "🌶️",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 190,
+        "protein": 4.5,
+        "carbs": 18,
+        "fat": 11
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 750,
+        "calcium": 40,
+        "iron": 1.8,
+        "potassium": 350
+      },
+      "default_serving": { "name": "1 tablespoon", "grams": 15 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "chutney", "spicy", "condiment"],
+      "searchTerms": ["lal mirch thecha", "red chilli garlic chutney", "lasun thecha red"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 536,
+      "id": "food_aloo_posto",
+      "name": "Aloo Posto",
+      "category": "veg",
+      "emoji": "🥔",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 160,
+        "protein": 3.5,
+        "carbs": 22,
+        "fat": 6.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 320,
+        "calcium": 45,
+        "iron": 1.2,
+        "potassium": 380
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["bengali", "veg", "comfort food", "poppy seeds"],
+      "searchTerms": ["aloo posto", "alu posto", "potato in poppy seed paste", "bengali potato"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 537,
+      "id": "food_aloo_seddho",
+      "name": "Aloo Seddho (Mashed Potato with Mustard Oil)",
+      "category": "carbs",
+      "emoji": "🥔",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 125,
+        "protein": 2,
+        "carbs": 22,
+        "fat": 3.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 15,
+        "iron": 0.8,
+        "potassium": 350
+      },
+      "default_serving": { "name": "1 bowl", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["bengali", "comfort food", "side dish", "vegan"],
+      "searchTerms": ["aloo seddho", "alu bhate", "bengali mashed potato", "mustard oil potato"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 538,
+      "id": "food_aloo_seddho_bhaat",
+      "name": "Aloo Seddho Bhaat (Combo)",
+      "category": "meal",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 140,
+        "protein": 3,
+        "carbs": 28,
+        "fat": 2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 210,
+        "calcium": 15,
+        "iron": 0.6,
+        "potassium": 180
+      },
+      "default_serving": { "name": "1 plate", "grams": 250 },
+      "regions": ["india"],
+      "tags": ["bengali", "comfort food", "meal", "rice"],
+      "searchTerms": ["aloo seddho bhaat", "alu bhate bhat", "mashed potato rice combo"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 539,
+      "id": "food_shukto",
+      "name": "Shukto",
+      "category": "veg",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 110,
+        "protein": 2.5,
+        "carbs": 14,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 60,
+        "iron": 1.4,
+        "potassium": 320
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["bengali", "veg", "stew", "bitter sweet"],
+      "searchTerms": ["shukto", "bengali mixed veg", "bitter gourd stew"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 540,
+      "id": "food_begun_bhaja",
+      "name": "Begun Bhaja",
+      "category": "veg",
+      "emoji": "🍆",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 1.5,
+        "carbs": 12,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 350,
+        "calcium": 20,
+        "iron": 0.8,
+        "potassium": 280
+      },
+      "default_serving": { "name": "2 slices", "grams": 80 },
+      "regions": ["india"],
+      "tags": ["bengali", "side dish", "fried", "eggplant"],
+      "searchTerms": ["begun bhaja", "fried eggplant", "baingan fry bengali"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 541,
+      "id": "food_chholar_dal",
+      "name": "Chholar Dal",
+      "category": "protein",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 160,
+        "protein": 7,
+        "carbs": 22,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 5,
+        "sodium": 320,
+        "calcium": 35,
+        "iron": 2.1,
+        "potassium": 310
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["bengali", "dal", "sweet and savory", "coconut"],
+      "searchTerms": ["chholar dal", "bengali chana dal", "cholar dal coconut"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 542,
+      "id": "food_kosha_mangsho",
+      "name": "Kosha Mangsho",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 260,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 17
+      },
+      "micros": {
+        "cholesterol": 70,
+        "sodium": 480,
+        "calcium": 40,
+        "iron": 3.2,
+        "potassium": 320
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["bengali", "meat", "mutton", "spicy"],
+      "searchTerms": ["kosha mangsho", "bengali mutton curry", "bhuna mutton bengali"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 543,
+      "id": "food_chingri_malai_curry",
+      "name": "Chingri Malai Curry",
+      "category": "protein",
+      "emoji": "🥘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 210,
+        "protein": 14,
+        "carbs": 6,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 120,
+        "sodium": 410,
+        "calcium": 45,
+        "iron": 1.2,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["bengali", "seafood", "prawn", "coconut milk"],
+      "searchTerms": ["chingri malai curry", "prawn coconut curry", "bengali prawn curry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 544,
+      "id": "food_bhetki_paturi",
+      "name": "Bhetki Machher Paturi",
+      "category": "protein",
+      "emoji": "🐟",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 18,
+        "carbs": 4,
+        "fat": 10
+      },
+      "micros": {
+        "cholesterol": 50,
+        "sodium": 450,
+        "calcium": 30,
+        "iron": 1.5,
+        "potassium": 290
+      },
+      "default_serving": { "name": "1 piece", "grams": 120 },
+      "regions": ["india"],
+      "tags": ["bengali", "seafood", "steamed", "mustard"],
+      "searchTerms": ["bhetki paturi", "fish in banana leaf", "mustard fish steamed"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 545,
+      "id": "food_basanti_pulao",
+      "name": "Basanti Pulao / Mishti Pulao",
+      "category": "carbs",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 210,
+        "protein": 3.5,
+        "carbs": 38,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 210,
+        "calcium": 25,
+        "iron": 0.8,
+        "potassium": 110
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["bengali", "rice", "sweet", "yellow rice"],
+      "searchTerms": ["basanti pulao", "mishti pulao", "bengali sweet rice", "yellow pulao"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 546,
+      "id": "food_ghugni",
+      "name": "Ghugni",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 150,
+        "protein": 7,
+        "carbs": 24,
+        "fat": 3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 480,
+        "calcium": 35,
+        "iron": 2.1,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["bengali", "bihari", "street food", "yellow peas"],
+      "searchTerms": ["ghugni", "yellow peas curry", "matar chaat base"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 547,
+      "id": "food_chomchom",
+      "name": "Chomchom / Chamcham",
+      "category": "snack",
+      "emoji": "🥥",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 310,
+        "protein": 6,
+        "carbs": 55,
+        "fat": 7
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 20,
+        "calcium": 120,
+        "iron": 0.4,
+        "potassium": 80
+      },
+      "default_serving": { "name": "2 pieces", "grams": 80 },
+      "regions": ["india"],
+      "tags": ["bengali", "sweet", "dairy", "dessert"],
+      "searchTerms": ["chomchom", "chamcham", "coconut coated sweet", "chhena sweet"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 548,
+      "id": "food_pantua",
+      "name": "Pantua",
+      "category": "snack",
+      "emoji": "🧆",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 340,
+        "protein": 5,
+        "carbs": 58,
+        "fat": 10
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 30,
+        "calcium": 90,
+        "iron": 0.5,
+        "potassium": 95
+      },
+      "default_serving": { "name": "2 pieces", "grams": 80 },
+      "regions": ["india"],
+      "tags": ["bengali", "sweet", "fried", "dessert"],
+      "searchTerms": ["pantua", "bengali gulab jamun", "chhena fried sweet"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 549,
+      "id": "food_patishapta",
+      "name": "Patishapta",
+      "category": "snack",
+      "emoji": "🫔",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 4,
+        "carbs": 42,
+        "fat": 7
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 25,
+        "calcium": 45,
+        "iron": 1.1,
+        "potassium": 110
+      },
+      "default_serving": { "name": "2 pieces", "grams": 80 },
+      "regions": ["india"],
+      "tags": ["bengali", "sweet", "pancake", "coconut"],
+      "searchTerms": ["patishapta", "stuffed sweet crepe", "bengali pithe"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 550,
+      "id": "food_radhaballavi",
+      "name": "Radhaballavi (Stuffed Puri)",
+      "category": "carbs",
+      "emoji": "🫓",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 320,
+        "protein": 7,
+        "carbs": 42,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 380,
+        "calcium": 30,
+        "iron": 1.8,
+        "potassium": 150
+      },
+      "default_serving": { "name": "2 pieces", "grams": 80 },
+      "regions": ["india"],
+      "tags": ["bengali", "bread", "fried", "breakfast"],
+      "searchTerms": ["radhaballavi", "stuffed puri dal", "dal puri bengali"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 551,
+      "id": "food_veg_pulao",
+      "name": "Veg Pulao / Pilaf",
+      "category": "meal",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 160,
+        "protein": 3.5,
+        "carbs": 28,
+        "fat": 4
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 310,
+        "calcium": 25,
+        "iron": 1.2,
+        "potassium": 180
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india", "global"],
+      "tags": ["rice", "veg", "mild"],
+      "searchTerms": ["veg pulao", "pilaf", "mixed veg rice"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 552,
+      "id": "food_plain_naan",
+      "name": "Plain Naan",
+      "category": "carbs",
+      "emoji": "🫓",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 290,
+        "protein": 9,
+        "carbs": 52,
+        "fat": 4
+      },
+      "micros": {
+        "cholesterol": 5,
+        "sodium": 480,
+        "calcium": 50,
+        "iron": 2.1,
+        "potassium": 110
+      },
+      "default_serving": { "name": "1 naan", "grams": 90 },
+      "regions": ["india", "global"],
+      "tags": ["indian", "bread", "carbs"],
+      "searchTerms": ["plain naan", "tandoori naan plain"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 553,
+      "id": "food_phulka",
+      "name": "Phulka (Dry Roti, No Ghee)",
+      "category": "carbs",
+      "emoji": "🫓",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 295,
+        "protein": 10,
+        "carbs": 60,
+        "fat": 1.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 10,
+        "calcium": 25,
+        "iron": 2.8,
+        "potassium": 180
+      },
+      "default_serving": { "name": "1 phulka", "grams": 30 },
+      "regions": ["india"],
+      "tags": ["indian", "bread", "healthy", "diet"],
+      "searchTerms": ["phulka", "dry chapati", "roti without oil", "pulka"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 554,
+      "id": "food_plain_kulcha",
+      "name": "Plain Kulcha",
+      "category": "carbs",
+      "emoji": "🫓",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 280,
+        "protein": 8,
+        "carbs": 50,
+        "fat": 4.5
+      },
+      "micros": {
+        "cholesterol": 5,
+        "sodium": 420,
+        "calcium": 40,
+        "iron": 1.8,
+        "potassium": 120
+      },
+      "default_serving": { "name": "1 kulcha", "grams": 80 },
+      "regions": ["india"],
+      "tags": ["indian", "bread", "punjabi"],
+      "searchTerms": ["plain kulcha", "chole kulche bread", "soft bread indian"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 555,
+      "id": "food_missi_roti",
+      "name": "Missi Roti",
+      "category": "carbs",
+      "emoji": "🫓",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 310,
+        "protein": 12,
+        "carbs": 48,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 350,
+        "calcium": 45,
+        "iron": 3.5,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 roti", "grams": 60 },
+      "regions": ["india"],
+      "tags": ["indian", "bread", "besan", "healthy"],
+      "searchTerms": ["missi roti", "gram flour roti", "besan roti"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 556,
+      "id": "food_mathri",
+      "name": "Mathri / Nimki",
+      "category": "snack",
+      "emoji": "🍘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 480,
+        "protein": 8,
+        "carbs": 52,
+        "fat": 26
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 680,
+        "calcium": 25,
+        "iron": 2.1,
+        "potassium": 130
+      },
+      "default_serving": { "name": "2 pieces", "grams": 40 },
+      "regions": ["india"],
+      "tags": ["indian", "snack", "fried", "salty"],
+      "searchTerms": ["mathri", "mathi", "nimki", "salty cracker indian"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 557,
+      "id": "food_pinni",
+      "name": "Pinni (Wheat & Gond Sweet)",
+      "category": "snack",
+      "emoji": "🧆",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 490,
+        "protein": 8,
+        "carbs": 50,
+        "fat": 28
+      },
+      "micros": {
+        "cholesterol": 30,
+        "sodium": 15,
+        "calcium": 45,
+        "iron": 2.5,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 piece", "grams": 40 },
+      "regions": ["india"],
+      "tags": ["punjabi", "sweet", "winter", "healthy"],
+      "searchTerms": ["pinni", "panjiri ladoo", "atta ladoo punjabi", "winter sweet"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 558,
+      "id": "food_panjiri",
+      "name": "Panjiri",
+      "category": "snack",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 460,
+        "protein": 7,
+        "carbs": 55,
+        "fat": 24
+      },
+      "micros": {
+        "cholesterol": 25,
+        "sodium": 10,
+        "calcium": 50,
+        "iron": 2.8,
+        "potassium": 210
+      },
+      "default_serving": { "name": "2 tablespoons", "grams": 30 },
+      "regions": ["india"],
+      "tags": ["punjabi", "sweet", "powder", "prasad"],
+      "searchTerms": ["panjiri", "wheat sweet powder", "krishna prasad"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 559,
+      "id": "food_ghevar",
+      "name": "Ghevar",
+      "category": "snack",
+      "emoji": "🍩",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 420,
+        "protein": 4,
+        "carbs": 52,
+        "fat": 22
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 20,
+        "calcium": 35,
+        "iron": 0.8,
+        "potassium": 80
+      },
+      "default_serving": { "name": "1 piece", "grams": 80 },
+      "regions": ["india"],
+      "tags": ["rajasthani", "sweet", "festival", "fried"],
+      "searchTerms": ["ghevar", "malai ghevar", "rajasthani sweet", "teej sweet"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 560,
+      "id": "food_til_gajak",
+      "name": "Til Gajak / Chikki",
+      "category": "snack",
+      "emoji": "🟫",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 480,
+        "protein": 11,
+        "carbs": 48,
+        "fat": 27
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 10,
+        "calcium": 820,
+        "iron": 9.5,
+        "potassium": 340
+      },
+      "default_serving": { "name": "2 pieces", "grams": 30 },
+      "regions": ["india"],
+      "tags": ["indian", "sweet", "winter", "sesame"],
+      "searchTerms": ["gajak", "til chikki", "sesame brittle", "lohri sweet"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 561,
+      "id": "food_dharwad_peda",
+      "name": "Dharwad Peda",
+      "category": "snack",
+      "emoji": "🟤",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 410,
+        "protein": 10,
+        "carbs": 50,
+        "fat": 18
+      },
+      "micros": {
+        "cholesterol": 50,
+        "sodium": 35,
+        "calcium": 250,
+        "iron": 0.5,
+        "potassium": 220
+      },
+      "default_serving": { "name": "2 pieces", "grams": 40 },
+      "regions": ["india"],
+      "tags": ["kannada", "sweet", "dairy", "roasted"],
+      "searchTerms": ["dharwad peda", "brown peda", "karnataka sweet peda"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 562,
+      "id": "food_palkova",
+      "name": "Palkova / Therati Paal",
+      "category": "snack",
+      "emoji": "🥛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 360,
+        "protein": 12,
+        "carbs": 45,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 40,
+        "sodium": 45,
+        "calcium": 320,
+        "iron": 0.3,
+        "potassium": 250
+      },
+      "default_serving": { "name": "1/2 cup", "grams": 80 },
+      "regions": ["india"],
+      "tags": ["tamil", "south indian", "sweet", "dairy"],
+      "searchTerms": ["palkova", "therati paal", "milk sweet south", "milk fudge"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 563,
+      "id": "food_ada_pradhaman",
+      "name": "Ada Pradhaman (Kerala Payasam)",
+      "category": "snack",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 210,
+        "protein": 3,
+        "carbs": 38,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 20,
+        "calcium": 35,
+        "iron": 1.2,
+        "potassium": 180
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["kerala", "sweet", "dessert", "jaggery"],
+      "searchTerms": ["ada pradhaman", "kerala payasam", "rice flakes pudding"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 564,
+      "id": "food_set_dosa",
+      "name": "Set Dosa",
+      "category": "carbs",
+      "emoji": "🥞",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 190,
+        "protein": 4.5,
+        "carbs": 36,
+        "fat": 3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 20,
+        "iron": 1.1,
+        "potassium": 120
+      },
+      "default_serving": { "name": "2 dosas", "grams": 120 },
+      "regions": ["india"],
+      "tags": ["south indian", "breakfast", "soft dosa"],
+      "searchTerms": ["set dosa", "sponge dosa", "soft dosa pan"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 565,
+      "id": "food_thatte_idli",
+      "name": "Thatte Idli",
+      "category": "carbs",
+      "emoji": "🥏",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 130,
+        "protein": 4,
+        "carbs": 26,
+        "fat": 0.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 180,
+        "calcium": 15,
+        "iron": 0.8,
+        "potassium": 60
+      },
+      "default_serving": { "name": "1 large idli", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["kannada", "south indian", "breakfast"],
+      "searchTerms": ["thatte idli", "plate idli", "bidadi idli", "large idli"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 566,
+      "id": "food_nylon_khaman",
+      "name": "Nylon Khaman (Dhokla)",
+      "category": "snack",
+      "emoji": "🧽",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 160,
+        "protein": 6,
+        "carbs": 22,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 320,
+        "calcium": 30,
+        "iron": 1.5,
+        "potassium": 180
+      },
+      "default_serving": { "name": "3 pieces", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["gujarati", "snack", "steamed", "sweet and savory"],
+      "searchTerms": ["nylon khaman", "spongy dhokla", "yellow dhokla besan"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 567,
+      "id": "food_ganthiya",
+      "name": "Ganthiya / Gathiya",
+      "category": "snack",
+      "emoji": "🥨",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 520,
+        "protein": 12,
+        "carbs": 48,
+        "fat": 32
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 650,
+        "calcium": 40,
+        "iron": 2.5,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 bowl", "grams": 50 },
+      "regions": ["india"],
+      "tags": ["gujarati", "snack", "fried", "besan"],
+      "searchTerms": ["ganthiya", "gathiya", "bhavnagari ganthiya", "besan snack fried"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 568,
+      "id": "food_muthiya",
+      "name": "Muthiya (Steamed)",
+      "category": "snack",
+      "emoji": "🥟",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 6,
+        "carbs": 26,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 380,
+        "calcium": 35,
+        "iron": 1.8,
+        "potassium": 250
+      },
+      "default_serving": { "name": "4 pieces", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["gujarati", "snack", "steamed", "healthy"],
+      "searchTerms": ["muthiya", "methi muthia", "dudhi muthiya", "steamed dumplings gujarat"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 569,
+      "id": "food_chorafali",
+      "name": "Chorafali",
+      "category": "snack",
+      "emoji": "🥨",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 490,
+        "protein": 14,
+        "carbs": 52,
+        "fat": 25
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 750,
+        "calcium": 30,
+        "iron": 2.2,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 bowl", "grams": 50 },
+      "regions": ["india"],
+      "tags": ["gujarati", "snack", "fried", "diwali"],
+      "searchTerms": ["chorafali", "fafda alternative", "cholafali", "spicy fried snack"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 570,
+      "id": "food_mutton_nihari",
+      "name": "Mutton Nihari",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 240,
+        "protein": 18,
+        "carbs": 8,
+        "fat": 15
+      },
+      "micros": {
+        "cholesterol": 65,
+        "sodium": 480,
+        "calcium": 35,
+        "iron": 3.2,
+        "potassium": 310
+      },
+      "default_serving": { "name": "1 bowl", "grams": 250 },
+      "regions": ["india", "pakistan"],
+      "tags": ["mughlai", "meat", "slow cooked", "breakfast"],
+      "searchTerms": ["nihari", "nalli nihari", "slow cooked mutton stew", "meat breakfast"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 571,
+      "id": "food_dhokar_dalna",
+      "name": "Dhokar Dalna",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 190,
+        "protein": 8,
+        "carbs": 22,
+        "fat": 8
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 420,
+        "calcium": 40,
+        "iron": 2.1,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["bengali", "veg", "lentil cakes", "curry"],
+      "searchTerms": ["dhokar dalna", "lentil cake curry", "bengali veg curry dhoka"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 572,
+      "id": "food_chanar_dalna",
+      "name": "Chanar Dalna",
+      "category": "meal",
+      "emoji": "🥘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 210,
+        "protein": 10,
+        "carbs": 12,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 30,
+        "sodium": 350,
+        "calcium": 180,
+        "iron": 1.1,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["bengali", "veg", "cottage cheese", "curry"],
+      "searchTerms": ["chanar dalna", "bengali paneer curry", "chhana curry", "cottage cheese stew"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 573,
+      "id": "food_machher_matha_dal",
+      "name": "Machher Matha Diye Moong Dal",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 160,
+        "protein": 12,
+        "carbs": 18,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 40,
+        "sodium": 380,
+        "calcium": 35,
+        "iron": 2.5,
+        "potassium": 320
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["bengali", "dal", "seafood", "fish head"],
+      "searchTerms": ["machher matha dal", "fish head dal", "muri ghonto dal", "bengali fish dal"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 574,
+      "id": "food_posto_bora",
+      "name": "Posto Bora",
+      "category": "snack",
+      "emoji": "🍘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 280,
+        "protein": 8,
+        "carbs": 24,
+        "fat": 18
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 310,
+        "calcium": 120,
+        "iron": 2.8,
+        "potassium": 210
+      },
+      "default_serving": { "name": "2 pieces", "grams": 50 },
+      "regions": ["india"],
+      "tags": ["bengali", "snack", "fried", "poppy seeds"],
+      "searchTerms": ["posto bora", "poppy seed fritters", "bengali fried posto"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 575,
+      "id": "food_churumuri",
+      "name": "Churumuri (Karnataka Style)",
+      "category": "snack",
+      "emoji": "🥗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 4,
+        "carbs": 32,
+        "fat": 4
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 420,
+        "calcium": 25,
+        "iron": 2.1,
+        "potassium": 150
+      },
+      "default_serving": { "name": "1 paper cone", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["kannada", "street food", "snack", "vegan"],
+      "searchTerms": ["churumuri", "karnataka bhel", "spicy puffed rice raw"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 576,
+      "id": "food_kanda_poha",
+      "name": "Kanda Poha (Onion Poha)",
+      "category": "meal",
+      "emoji": "🥗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 150,
+        "protein": 3,
+        "carbs": 22,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 320,
+        "calcium": 20,
+        "iron": 1.5,
+        "potassium": 140
+      },
+      "default_serving": { "name": "1 plate", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "breakfast", "vegan", "healthy"],
+      "searchTerms": ["kanda poha", "onion flattened rice", "kande pohe", "maharashtrian poha"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 577,
+      "id": "food_sabudana_papad",
+      "name": "Sabudana Papad (Fried)",
+      "category": "snack",
+      "emoji": "🫓",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 450,
+        "protein": 1,
+        "carbs": 65,
+        "fat": 20
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 480,
+        "calcium": 10,
+        "iron": 0.5,
+        "potassium": 40
+      },
+      "default_serving": { "name": "2 papads", "grams": 30 },
+      "regions": ["india"],
+      "tags": ["indian", "snack", "fasting", "upvas", "fried"],
+      "searchTerms": ["sabudana papad", "sago crackers", "upvas papad", "sabu papad"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 578,
+      "id": "food_nankhatai",
+      "name": "Nankhatai",
+      "category": "snack",
+      "emoji": "🍪",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 480,
+        "protein": 5,
+        "carbs": 55,
+        "fat": 26
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 80,
+        "calcium": 30,
+        "iron": 1.2,
+        "potassium": 90
+      },
+      "default_serving": { "name": "2 cookies", "grams": 40 },
+      "regions": ["india"],
+      "tags": ["indian", "bakery", "sweet", "cookie"],
+      "searchTerms": ["nankhatai", "indian shortbread", "desi biscuit", "ghee cookie"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 579,
+      "id": "food_kaju_pista_roll",
+      "name": "Kaju Pista Roll",
+      "category": "snack",
+      "emoji": "🥖",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 460,
+        "protein": 12,
+        "carbs": 50,
+        "fat": 22
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 15,
+        "calcium": 50,
+        "iron": 2.8,
+        "potassium": 380
+      },
+      "default_serving": { "name": "2 pieces", "grams": 40 },
+      "regions": ["india"],
+      "tags": ["indian", "sweet", "festival", "nuts"],
+      "searchTerms": ["kaju pista roll", "cashew pistachio roll", "mithai roll"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 580,
+      "id": "food_mathura_peda",
+      "name": "Mathura Peda",
+      "category": "snack",
+      "emoji": "🟤",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 380,
+        "protein": 10,
+        "carbs": 50,
+        "fat": 15
+      },
+      "micros": {
+        "cholesterol": 40,
+        "sodium": 35,
+        "calcium": 260,
+        "iron": 0.8,
+        "potassium": 210
+      },
+      "default_serving": { "name": "2 pieces", "grams": 40 },
+      "regions": ["india"],
+      "tags": ["north indian", "sweet", "dairy", "roasted"],
+      "searchTerms": ["mathura peda", "brown peda up", "roasted milk sweet"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 581,
+      "id": "food_dodha_barfi",
+      "name": "Dodha Barfi",
+      "category": "snack",
+      "emoji": "🟫",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 420,
+        "protein": 8,
+        "carbs": 55,
+        "fat": 18
+      },
+      "micros": {
+        "cholesterol": 30,
+        "sodium": 40,
+        "calcium": 180,
+        "iron": 1.1,
+        "potassium": 250
+      },
+      "default_serving": { "name": "1 piece", "grams": 50 },
+      "regions": ["india"],
+      "tags": ["punjabi", "sweet", "dairy", "rich"],
+      "searchTerms": ["dodha barfi", "doda burfi", "punjabi brown milk sweet"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 582,
+      "id": "food_tirunelveli_halwa",
+      "name": "Tirunelveli Halwa",
+      "category": "snack",
+      "emoji": "🍮",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 450,
+        "protein": 2,
+        "carbs": 60,
+        "fat": 22
+      },
+      "micros": {
+        "cholesterol": 45,
+        "sodium": 10,
+        "calcium": 25,
+        "iron": 0.8,
+        "potassium": 80
+      },
+      "default_serving": { "name": "1 piece", "grams": 50 },
+      "regions": ["india"],
+      "tags": ["tamil", "south indian", "sweet", "ghee"],
+      "searchTerms": ["tirunelveli halwa", "wheat halwa", "ghee halwa south"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 583,
+      "id": "food_pootharekulu",
+      "name": "Pootharekulu (Paper Sweet)",
+      "category": "snack",
+      "emoji": "🧻",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 390,
+        "protein": 3,
+        "carbs": 75,
+        "fat": 8
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 5,
+        "calcium": 20,
+        "iron": 1.2,
+        "potassium": 90
+      },
+      "default_serving": { "name": "1 roll", "grams": 30 },
+      "regions": ["india"],
+      "tags": ["andhra", "south indian", "sweet", "rice paper"],
+      "searchTerms": ["pootharekulu", "putharekulu", "paper sweet", "andhra sweet"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 584,
+      "id": "food_gongura_pachadi",
+      "name": "Gongura Pachadi (Sorrel Leaves Pickle)",
+      "category": "veg",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 2,
+        "carbs": 12,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 850,
+        "calcium": 60,
+        "iron": 4.5,
+        "potassium": 250
+      },
+      "default_serving": { "name": "1 tablespoon", "grams": 20 },
+      "regions": ["india"],
+      "tags": ["andhra", "pickle", "chutney", "spicy"],
+      "searchTerms": ["gongura pachadi", "sorrel leaf pickle", "andhra spicy chutney", "gongura pickle"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 585,
+      "id": "food_gutti_vankaya",
+      "name": "Gutti Vankaya Kura (Stuffed Brinjal)",
+      "category": "veg",
+      "emoji": "🍆",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 160,
+        "protein": 4,
+        "carbs": 12,
+        "fat": 11
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 380,
+        "calcium": 45,
+        "iron": 1.8,
+        "potassium": 310
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["andhra", "veg", "curry", "spicy"],
+      "searchTerms": ["gutti vankaya kura", "andhra stuffed brinjal", "spicy eggplant curry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 586,
+      "id": "food_tomato_bath",
+      "name": "Tomato Bath",
+      "category": "meal",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 140,
+        "protein": 3,
+        "carbs": 24,
+        "fat": 3.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 310,
+        "calcium": 25,
+        "iron": 1.1,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 plate", "grams": 250 },
+      "regions": ["india"],
+      "tags": ["kannada", "south indian", "rice", "breakfast"],
+      "searchTerms": ["tomato bath", "tomato rice", "thakkali sadam", "spiced tomato rice"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 587,
+      "id": "food_mangalore_buns",
+      "name": "Mangalore Buns (Banana Puris)",
+      "category": "snack",
+      "emoji": "🥯",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 290,
+        "protein": 6,
+        "carbs": 45,
+        "fat": 9
+      },
+      "micros": {
+        "cholesterol": 5,
+        "sodium": 280,
+        "calcium": 30,
+        "iron": 1.4,
+        "potassium": 180
+      },
+      "default_serving": { "name": "2 buns", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["south indian", "snack", "fried", "breakfast"],
+      "searchTerms": ["mangalore buns", "banana puri", "sweet fried bread"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 588,
+      "id": "food_ragi_rotti",
+      "name": "Ragi Rotti",
+      "category": "carbs",
+      "emoji": "🫓",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 210,
+        "protein": 5,
+        "carbs": 40,
+        "fat": 3.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 250,
+        "calcium": 180,
+        "iron": 2.5,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 rotti", "grams": 80 },
+      "regions": ["india"],
+      "tags": ["kannada", "south indian", "millet", "healthy"],
+      "searchTerms": ["ragi rotti", "finger millet flatbread", "healthy rotti"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 589,
+      "id": "food_benne_dosa",
+      "name": "Benne Dosa (Davanagere Butter Dosa)",
+      "category": "carbs",
+      "emoji": "🥞",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 240,
+        "protein": 4,
+        "carbs": 30,
+        "fat": 11
+      },
+      "micros": {
+        "cholesterol": 25,
+        "sodium": 320,
+        "calcium": 35,
+        "iron": 1.1,
+        "potassium": 110
+      },
+      "default_serving": { "name": "1 dosa", "grams": 120 },
+      "regions": ["india"],
+      "tags": ["kannada", "south indian", "breakfast", "rich"],
+      "searchTerms": ["benne dosa", "davanagere benne dose", "butter dosa"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 590,
+      "id": "food_adai_dosa",
+      "name": "Adai Dosa (Lentil Pancake)",
+      "category": "carbs",
+      "emoji": "🫔",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 190,
+        "protein": 8,
+        "carbs": 32,
+        "fat": 3.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 310,
+        "calcium": 45,
+        "iron": 2.2,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 adai", "grams": 120 },
+      "regions": ["india"],
+      "tags": ["tamil", "south indian", "protein", "breakfast"],
+      "searchTerms": ["adai dosa", "lentil dosa", "mixed dal dosa"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 591,
+      "id": "food_dibba_rotti",
+      "name": "Dibba Rotti / Minapa Rotti",
+      "category": "carbs",
+      "emoji": "🥮",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 220,
+        "protein": 6,
+        "carbs": 35,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 290,
+        "calcium": 30,
+        "iron": 1.5,
+        "potassium": 140
+      },
+      "default_serving": { "name": "1 slice", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["andhra", "south indian", "snack", "thick crust"],
+      "searchTerms": ["dibba rotti", "minapa rotti", "thick urad dal crust", "andhra snack"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 592,
+      "id": "food_amritsari_kulcha",
+      "name": "Amritsari Kulcha (Stuffed)",
+      "category": "carbs",
+      "emoji": "🫓",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 260,
+        "protein": 6,
+        "carbs": 42,
+        "fat": 7
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 480,
+        "calcium": 45,
+        "iron": 2.1,
+        "potassium": 220
+      },
+      "default_serving": { "name": "1 kulcha", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["punjabi", "indian", "bread", "stuffed"],
+      "searchTerms": ["amritsari kulcha", "stuffed kulcha", "potato stuffed bread"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 593,
+      "id": "food_nutri_kulcha",
+      "name": "Nutri Kulcha (Soya Keema Combo)",
+      "category": "meal",
+      "emoji": "🥙",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 190,
+        "protein": 10,
+        "carbs": 28,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 5,
+        "sodium": 520,
+        "calcium": 40,
+        "iron": 2.8,
+        "potassium": 260
+      },
+      "default_serving": { "name": "1 plate (Nutri + 2 Kulchas)", "grams": 250 },
+      "regions": ["india"],
+      "tags": ["punjabi", "street food", "vegan", "protein"],
+      "searchTerms": ["nutri kulcha", "soya keema kulcha", "amritsari nutri"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 594,
+      "id": "food_afghani_soya_chaap",
+      "name": "Afghani Soya Chaap",
+      "category": "protein",
+      "emoji": "🍢",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 220,
+        "protein": 14,
+        "carbs": 10,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 30,
+        "sodium": 450,
+        "calcium": 50,
+        "iron": 2.5,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 portion", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "street food", "veg protein", "white gravy"],
+      "searchTerms": ["afghani soya chaap", "white chaap", "creamy soya chaap", "malai chaap dry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 595,
+      "id": "food_malai_paneer_tikka",
+      "name": "Malai Paneer Tikka",
+      "category": "protein",
+      "emoji": "🍢",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 290,
+        "protein": 15,
+        "carbs": 6,
+        "fat": 23
+      },
+      "micros": {
+        "cholesterol": 55,
+        "sodium": 410,
+        "calcium": 340,
+        "iron": 1.1,
+        "potassium": 150
+      },
+      "default_serving": { "name": "4 pieces", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "starter", "paneer", "rich"],
+      "searchTerms": ["malai paneer tikka", "creamy paneer kebab", "white paneer tikka"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 596,
+      "id": "food_chicken_seekh_kebab",
+      "name": "Chicken Seekh Kebab",
+      "category": "protein",
+      "emoji": "🍢",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 210,
+        "protein": 18,
+        "carbs": 5,
+        "fat": 13
+      },
+      "micros": {
+        "cholesterol": 60,
+        "sodium": 550,
+        "calcium": 25,
+        "iron": 1.8,
+        "potassium": 240
+      },
+      "default_serving": { "name": "2 kebabs", "grams": 120 },
+      "regions": ["india", "global"],
+      "tags": ["indian", "starter", "chicken", "meat"],
+      "searchTerms": ["chicken seekh kebab", "minced chicken kebab", "seekh kebab"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 597,
+      "id": "food_mutton_seekh_kebab",
+      "name": "Mutton Seekh Kebab",
+      "category": "protein",
+      "emoji": "🍢",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 20,
+        "carbs": 4,
+        "fat": 17
+      },
+      "micros": {
+        "cholesterol": 75,
+        "sodium": 580,
+        "calcium": 30,
+        "iron": 2.5,
+        "potassium": 290
+      },
+      "default_serving": { "name": "2 kebabs", "grams": 120 },
+      "regions": ["india", "global"],
+      "tags": ["indian", "starter", "mutton", "meat"],
+      "searchTerms": ["mutton seekh kebab", "lamb seekh kebab", "minced mutton kebab"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 598,
+      "id": "food_galouti_kebab",
+      "name": "Galouti Kebab",
+      "category": "protein",
+      "emoji": "🧆",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 280,
+        "protein": 16,
+        "carbs": 8,
+        "fat": 20
+      },
+      "micros": {
+        "cholesterol": 80,
+        "sodium": 610,
+        "calcium": 35,
+        "iron": 3.1,
+        "potassium": 260
+      },
+      "default_serving": { "name": "2 kebabs", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["awadhi", "lucknow", "meat", "starter"],
+      "searchTerms": ["galouti kebab", "melt in mouth kebab", "lucknowi kebab", "mutton galawati"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 599,
+      "id": "food_tangdi_kebab",
+      "name": "Tangdi Kebab",
+      "category": "protein",
+      "emoji": "🍗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 230,
+        "protein": 22,
+        "carbs": 4,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 85,
+        "sodium": 480,
+        "calcium": 25,
+        "iron": 1.4,
+        "potassium": 250
+      },
+      "default_serving": { "name": "2 leg pieces", "grams": 180 },
+      "regions": ["india"],
+      "tags": ["indian", "starter", "chicken", "tandoori"],
+      "searchTerms": ["tangdi kebab", "chicken drumstick kebab", "tandoori tangdi"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 600,
+      "id": "food_fish_amritsari",
+      "name": "Fish Amritsari (Fried Fish)",
+      "category": "protein",
+      "emoji": "🐟",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 240,
+        "protein": 16,
+        "carbs": 12,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 50,
+        "sodium": 520,
+        "calcium": 35,
+        "iron": 1.5,
+        "potassium": 290
+      },
+      "default_serving": { "name": "4 pieces", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["punjabi", "seafood", "fried", "starter"],
+      "searchTerms": ["fish amritsari", "amritsari machhi", "punjabi fish fry", "besan fish fry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 601,
+      "id": "food_prawn_koliwada",
+      "name": "Prawns Koliwada",
+      "category": "protein",
+      "emoji": "🦐",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 260,
+        "protein": 15,
+        "carbs": 18,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 120,
+        "sodium": 650,
+        "calcium": 45,
+        "iron": 1.8,
+        "potassium": 220
+      },
+      "default_serving": { "name": "1 plate", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["mumbai", "seafood", "fried", "starter"],
+      "searchTerms": ["prawns koliwada", "mumbai prawn fry", "spicy prawn fry", "kolivada"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 602,
+      "id": "food_mandeli_fry",
+      "name": "Mandeli Fry (Anchovy Fry)",
+      "category": "protein",
+      "emoji": "🐟",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 18,
+        "carbs": 10,
+        "fat": 15
+      },
+      "micros": {
+        "cholesterol": 90,
+        "sodium": 480,
+        "calcium": 320,
+        "iron": 2.1,
+        "potassium": 250
+      },
+      "default_serving": { "name": "1 plate", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["maharashtrian", "seafood", "fried", "calcium rich"],
+      "searchTerms": ["mandeli fry", "anchovy fry", "small fish fry maharashtra", "crispy mandeli"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 603,
+      "id": "food_aloo_shimla_mirch",
+      "name": "Aloo Shimla Mirch",
+      "category": "veg",
+      "emoji": "🫑",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 110,
+        "protein": 2,
+        "carbs": 14,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 20,
+        "iron": 1.1,
+        "potassium": 340
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "veg", "dry curry", "everyday"],
+      "searchTerms": ["aloo shimla mirch", "potato capsicum", "aloo capsicum dry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 604,
+      "id": "food_kurkuri_bhindi",
+      "name": "Kurkuri Bhindi",
+      "category": "veg",
+      "emoji": "🍟",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 280,
+        "protein": 4,
+        "carbs": 22,
+        "fat": 20
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 410,
+        "calcium": 70,
+        "iron": 1.8,
+        "potassium": 310
+      },
+      "default_serving": { "name": "1 bowl", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["indian", "veg", "fried", "side dish"],
+      "searchTerms": ["kurkuri bhindi", "crispy okra", "fried bhindi", "okra fries"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 605,
+      "id": "food_tori_sabzi",
+      "name": "Tori Ki Sabzi (Ridge Gourd)",
+      "category": "veg",
+      "emoji": "🥒",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 60,
+        "protein": 1,
+        "carbs": 6,
+        "fat": 3.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 220,
+        "calcium": 15,
+        "iron": 0.5,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["indian", "veg", "healthy", "low calorie"],
+      "searchTerms": ["tori ki sabzi", "turai", "ridge gourd curry", "peerkangai"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 606,
+      "id": "food_parwal_sabzi",
+      "name": "Parwal Ki Sabzi (Pointed Gourd)",
+      "category": "veg",
+      "emoji": "🥒",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 80,
+        "protein": 2,
+        "carbs": 8,
+        "fat": 4.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 290,
+        "calcium": 25,
+        "iron": 1.1,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "veg", "everyday", "healthy"],
+      "searchTerms": ["parwal ki sabzi", "potol", "pointed gourd curry", "aloo parwal"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 607,
+      "id": "food_tinda_sabzi",
+      "name": "Tinda Ki Sabzi (Apple Gourd)",
+      "category": "veg",
+      "emoji": "🍏",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 70,
+        "protein": 1.5,
+        "carbs": 7,
+        "fat": 4
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 250,
+        "calcium": 20,
+        "iron": 0.8,
+        "potassium": 180
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "veg", "healthy", "punjabi"],
+      "searchTerms": ["tinda", "apple gourd curry", "tinday ki sabzi", "dhemse"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 608,
+      "id": "food_bharwa_karela",
+      "name": "Bharwa Karela (Stuffed Bitter Gourd)",
+      "category": "veg",
+      "emoji": "🥒",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 140,
+        "protein": 4,
+        "carbs": 12,
+        "fat": 9
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 380,
+        "calcium": 35,
+        "iron": 1.8,
+        "potassium": 340
+      },
+      "default_serving": { "name": "2 pieces", "grams": 120 },
+      "regions": ["india"],
+      "tags": ["indian", "veg", "stuffed", "healthy"],
+      "searchTerms": ["bharwa karela", "stuffed bitter gourd", "stuffed kakarakaya"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 609,
+      "id": "food_bharwa_bhindi",
+      "name": "Bharwa Bhindi (Stuffed Okra)",
+      "category": "veg",
+      "emoji": "🫛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 150,
+        "protein": 3.5,
+        "carbs": 14,
+        "fat": 9
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 350,
+        "calcium": 50,
+        "iron": 1.5,
+        "potassium": 320
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "veg", "stuffed", "dry curry"],
+      "searchTerms": ["bharwa bhindi", "stuffed okra", "masala bhindi"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 610,
+      "id": "food_rajma_chawal_combo",
+      "name": "Rajma Chawal (Combo)",
+      "category": "meal",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 130,
+        "protein": 4.5,
+        "carbs": 22,
+        "fat": 2.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 25,
+        "iron": 1.8,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 plate", "grams": 350 },
+      "regions": ["india"],
+      "tags": ["punjabi", "meal", "comfort food", "vegan"],
+      "searchTerms": ["rajma chawal", "kidney beans rice", "rajma rice combo"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 611,
+      "id": "food_kadhi_chawal_combo",
+      "name": "Kadhi Chawal (Combo)",
+      "category": "meal",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 120,
+        "protein": 3.5,
+        "carbs": 20,
+        "fat": 3
+      },
+      "micros": {
+        "cholesterol": 5,
+        "sodium": 310,
+        "calcium": 40,
+        "iron": 1.1,
+        "potassium": 160
+      },
+      "default_serving": { "name": "1 plate", "grams": 350 },
+      "regions": ["india"],
+      "tags": ["punjabi", "meal", "comfort food", "yogurt"],
+      "searchTerms": ["kadhi chawal", "karhi chawal", "yogurt curry rice combo"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 612,
+      "id": "food_chole_chawal_combo",
+      "name": "Chole Chawal (Combo)",
+      "category": "meal",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 140,
+        "protein": 4,
+        "carbs": 24,
+        "fat": 3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 320,
+        "calcium": 30,
+        "iron": 1.6,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 plate", "grams": 350 },
+      "regions": ["india"],
+      "tags": ["punjabi", "meal", "comfort food", "vegan"],
+      "searchTerms": ["chole chawal", "chana rice combo", "chickpea rice"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 613,
+      "id": "food_chana_madra",
+      "name": "Chana Madra",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 6,
+        "carbs": 18,
+        "fat": 9
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 380,
+        "calcium": 80,
+        "iron": 1.4,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["himachali", "curry", "yogurt", "chickpeas"],
+      "searchTerms": ["chana madra", "himachali chana", "yogurt chickpea curry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 614,
+      "id": "food_sepu_badi",
+      "name": "Sepu Badi",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 160,
+        "protein": 8,
+        "carbs": 14,
+        "fat": 8
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 350,
+        "calcium": 60,
+        "iron": 2.1,
+        "potassium": 240
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["himachali", "curry", "lentil dumplings"],
+      "searchTerms": ["sepu badi", "himachali badi", "spinach lentil curry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 615,
+      "id": "food_siddu",
+      "name": "Siddu (Stuffed Bread)",
+      "category": "carbs",
+      "emoji": "🥟",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 240,
+        "protein": 7,
+        "carbs": 42,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 5,
+        "sodium": 280,
+        "calcium": 35,
+        "iron": 1.8,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 piece", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["himachali", "bread", "steamed", "stuffed"],
+      "searchTerms": ["siddu", "himachali bread", "steamed stuffed bun"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 616,
+      "id": "food_besan_ladoo",
+      "name": "Besan Ladoo",
+      "category": "snack",
+      "emoji": "🧆",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 480,
+        "protein": 10,
+        "carbs": 55,
+        "fat": 25
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 10,
+        "calcium": 30,
+        "iron": 1.8,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 ladoo", "grams": 40 },
+      "regions": ["india"],
+      "tags": ["indian", "sweet", "festival", "dessert"],
+      "searchTerms": ["besan ladoo", "gram flour sweet ball", "laddu"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 617,
+      "id": "food_motichoor_ladoo",
+      "name": "Motichoor Ladoo",
+      "category": "snack",
+      "emoji": "🟠",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 360,
+        "protein": 4,
+        "carbs": 62,
+        "fat": 11
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 15,
+        "calcium": 20,
+        "iron": 1.1,
+        "potassium": 80
+      },
+      "default_serving": { "name": "1 ladoo", "grams": 40 },
+      "regions": ["india"],
+      "tags": ["indian", "sweet", "festival", "prasad"],
+      "searchTerms": ["motichoor ladoo", "boondi laddu", "orange sweet ball"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 618,
+      "id": "food_coconut_ladoo",
+      "name": "Coconut Ladoo",
+      "category": "snack",
+      "emoji": "🥥",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 420,
+        "protein": 5,
+        "carbs": 50,
+        "fat": 24
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 30,
+        "calcium": 45,
+        "iron": 1.4,
+        "potassium": 150
+      },
+      "default_serving": { "name": "1 ladoo", "grams": 35 },
+      "regions": ["india"],
+      "tags": ["indian", "sweet", "festival", "dairy"],
+      "searchTerms": ["coconut ladoo", "nariyal laddu", "kopra pak ball"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 619,
+      "id": "food_chhena_poda",
+      "name": "Chhena Poda",
+      "category": "snack",
+      "emoji": "🥮",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 320,
+        "protein": 14,
+        "carbs": 35,
+        "fat": 15
+      },
+      "micros": {
+        "cholesterol": 40,
+        "sodium": 45,
+        "calcium": 310,
+        "iron": 0.5,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 piece", "grams": 50 },
+      "regions": ["india"],
+      "tags": ["odia", "sweet", "baked", "dairy"],
+      "searchTerms": ["chhena poda", "burnt cheese sweet", "odisha sweet cheese cake"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 620,
+      "id": "food_dalma",
+      "name": "Dalma (Odia Lentil & Veg Curry)",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 110,
+        "protein": 5,
+        "carbs": 18,
+        "fat": 2.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 35,
+        "iron": 1.5,
+        "potassium": 320
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["odia", "dal", "healthy", "temple food"],
+      "searchTerms": ["dalma", "odisha dal", "veg lentil stew"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 621,
+      "id": "food_pakhala_bhata",
+      "name": "Pakhala Bhata",
+      "category": "meal",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 95,
+        "protein": 2.5,
+        "carbs": 20,
+        "fat": 0.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 120,
+        "calcium": 15,
+        "iron": 0.8,
+        "potassium": 90
+      },
+      "default_serving": { "name": "1 bowl", "grams": 250 },
+      "regions": ["india"],
+      "tags": ["odia", "rice", "fermented", "summer"],
+      "searchTerms": ["pakhala bhata", "water rice", "fermented rice dish"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 622,
+      "id": "food_masor_tenga",
+      "name": "Masor Tenga (Assamese Fish Curry)",
+      "category": "protein",
+      "emoji": "🥘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 130,
+        "protein": 14,
+        "carbs": 5,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 40,
+        "sodium": 350,
+        "calcium": 25,
+        "iron": 1.2,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["assamese", "seafood", "tangy", "curry"],
+      "searchTerms": ["masor tenga", "sour fish curry", "assam fish"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 623,
+      "id": "food_thukpa",
+      "name": "Thukpa (Veg Noodle Soup)",
+      "category": "meal",
+      "emoji": "🍜",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 115,
+        "protein": 4,
+        "carbs": 22,
+        "fat": 1.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 480,
+        "calcium": 20,
+        "iron": 1.1,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 large bowl", "grams": 350 },
+      "regions": ["india", "tibet", "nepal"],
+      "tags": ["north east indian", "soup", "noodles", "comfort food"],
+      "searchTerms": ["thukpa", "tibetan noodle soup", "himalayan soup"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 624,
+      "id": "food_egg_white_boiled",
+      "name": "Egg White (Boiled)",
+      "category": "protein",
+      "emoji": "🥚",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 52,
+        "protein": 10.9,
+        "carbs": 0.7,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 166,
+        "calcium": 7,
+        "iron": 0.1,
+        "potassium": 163
+      },
+      "default_serving": { "name": "1 egg white", "grams": 33 },
+      "regions": ["global"],
+      "tags": ["fitness", "protein", "keto", "lean"],
+      "searchTerms": ["egg white", "safedi", "boiled egg whites", "lean protein"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 625,
+      "id": "food_whey_protein_powder",
+      "name": "Whey Protein Powder",
+      "category": "protein",
+      "emoji": "💪",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 380,
+        "protein": 78,
+        "carbs": 8,
+        "fat": 4
+      },
+      "micros": {
+        "cholesterol": 50,
+        "sodium": 200,
+        "calcium": 500,
+        "iron": 1.5,
+        "potassium": 350
+      },
+      "default_serving": { "name": "1 scoop", "grams": 30 },
+      "regions": ["global"],
+      "tags": ["fitness", "supplement", "protein"],
+      "searchTerms": ["whey protein", "protein powder", "protein shake base"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 626,
+      "id": "food_protein_bar",
+      "name": "Protein Bar (Average)",
+      "category": "snack",
+      "emoji": "🍫",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 400,
+        "protein": 30,
+        "carbs": 40,
+        "fat": 12
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 350,
+        "calcium": 150,
+        "iron": 2.5,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 bar", "grams": 50 },
+      "regions": ["global"],
+      "tags": ["fitness", "snack", "supplement"],
+      "searchTerms": ["protein bar", "energy bar", "nutrition bar"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 627,
+      "id": "food_multigrain_bread",
+      "name": "Multigrain Bread",
+      "category": "carbs",
+      "emoji": "🍞",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 265,
+        "protein": 13,
+        "carbs": 43,
+        "fat": 4.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 400,
+        "calcium": 160,
+        "iron": 2.5,
+        "potassium": 250
+      },
+      "default_serving": { "name": "1 slice", "grams": 30 },
+      "regions": ["global"],
+      "tags": ["carbs", "healthy", "breakfast"],
+      "searchTerms": ["multigrain bread", "seeded bread", "brown bread multigrain"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 628,
+      "id": "food_peanut_butter_toast",
+      "name": "Peanut Butter Toast (Whole Wheat)",
+      "category": "meal",
+      "emoji": "🥪",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 350,
+        "protein": 14,
+        "carbs": 32,
+        "fat": 20
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 320,
+        "calcium": 60,
+        "iron": 1.8,
+        "potassium": 380
+      },
+      "default_serving": { "name": "1 slice with PB", "grams": 60 },
+      "regions": ["global"],
+      "tags": ["breakfast", "fitness", "fats", "protein"],
+      "searchTerms": ["pb toast", "peanut butter toast", "fitness breakfast"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 629,
+      "id": "food_avial",
+      "name": "Avial (Mixed Veg with Coconut)",
+      "category": "veg",
+      "emoji": "🥗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 130,
+        "protein": 3,
+        "carbs": 12,
+        "fat": 8
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 45,
+        "iron": 1.2,
+        "potassium": 320
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["kerala", "south indian", "veg", "healthy"],
+      "searchTerms": ["avial", "kerala mixed veg", "coconut yogurt veg"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 630,
+      "id": "food_kerala_kadala_curry",
+      "name": "Kadala Curry (Black Chickpeas)",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 160,
+        "protein": 7.5,
+        "carbs": 22,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 350,
+        "calcium": 40,
+        "iron": 2.5,
+        "potassium": 350
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["kerala", "south indian", "protein", "vegan"],
+      "searchTerms": ["kadala curry", "black chana curry kerala", "puttu kadala side"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 631,
+      "id": "food_cabbage_thoran",
+      "name": "Cabbage Thoran",
+      "category": "veg",
+      "emoji": "🥗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 95,
+        "protein": 2,
+        "carbs": 8,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 210,
+        "calcium": 35,
+        "iron": 0.8,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 bowl", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["kerala", "south indian", "side dish", "coconut"],
+      "searchTerms": ["cabbage thoran", "cabbage poriyal", "dry cabbage coconut stir fry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 632,
+      "id": "food_chakkara_pongal",
+      "name": "Chakkara Pongal (Sweet Pongal)",
+      "category": "snack",
+      "emoji": "🍮",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 240,
+        "protein": 4,
+        "carbs": 42,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 20,
+        "calcium": 45,
+        "iron": 1.8,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["tamil", "south indian", "sweet", "festival"],
+      "searchTerms": ["chakkara pongal", "sweet pongal", "jaggery rice lentil sweet", "sakkarai pongal"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 633,
+      "id": "food_pal_payasam",
+      "name": "Pal Payasam (Milk Rice Pudding)",
+      "category": "snack",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 160,
+        "protein": 4,
+        "carbs": 26,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 15,
+        "sodium": 45,
+        "calcium": 120,
+        "iron": 0.3,
+        "potassium": 150
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["kerala", "south indian", "sweet", "dairy"],
+      "searchTerms": ["pal payasam", "paal payasam", "south indian kheer", "milk pudding"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 634,
+      "id": "food_bread_roll_fried",
+      "name": "Bread Roll (Potato Stuffed & Fried)",
+      "category": "snack",
+      "emoji": "🥐",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 290,
+        "protein": 5,
+        "carbs": 35,
+        "fat": 14
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 450,
+        "calcium": 30,
+        "iron": 1.5,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 piece", "grams": 80 },
+      "regions": ["india"],
+      "tags": ["indian", "snack", "fried", "street food"],
+      "searchTerms": ["bread roll", "fried stuffed bread", "aloo bread roll"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 635,
+      "id": "food_veg_cutlet",
+      "name": "Veg Cutlet",
+      "category": "snack",
+      "emoji": "🍘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 220,
+        "protein": 4,
+        "carbs": 28,
+        "fat": 10
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 380,
+        "calcium": 25,
+        "iron": 1.8,
+        "potassium": 260
+      },
+      "default_serving": { "name": "2 pieces", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["indian", "snack", "fried", "railway food"],
+      "searchTerms": ["veg cutlet", "railway cutlet", "mixed veg patty"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 636,
+      "id": "food_paneer_cutlet",
+      "name": "Paneer Cutlet",
+      "category": "snack",
+      "emoji": "🍘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 270,
+        "protein": 12,
+        "carbs": 18,
+        "fat": 16
+      },
+      "micros": {
+        "cholesterol": 35,
+        "sodium": 410,
+        "calcium": 210,
+        "iron": 1.1,
+        "potassium": 150
+      },
+      "default_serving": { "name": "2 pieces", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["indian", "snack", "protein", "fried"],
+      "searchTerms": ["paneer cutlet", "cottage cheese patty", "paneer tikki"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 637,
+      "id": "food_soya_tikka",
+      "name": "Soya Tikka",
+      "category": "protein",
+      "emoji": "🍢",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 16,
+        "carbs": 12,
+        "fat": 8
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 450,
+        "calcium": 50,
+        "iron": 2.8,
+        "potassium": 290
+      },
+      "default_serving": { "name": "1 plate", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "starter", "protein", "vegan"],
+      "searchTerms": ["soya tikka", "tandoori soya chaap", "soybean tikka dry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 638,
+      "id": "food_mushroom_tikka",
+      "name": "Mushroom Tikka",
+      "category": "veg",
+      "emoji": "🍄",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 130,
+        "protein": 4,
+        "carbs": 9,
+        "fat": 9
+      },
+      "micros": {
+        "cholesterol": 5,
+        "sodium": 380,
+        "calcium": 20,
+        "iron": 1.2,
+        "potassium": 350
+      },
+      "default_serving": { "name": "1 plate", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "starter", "tandoori"],
+      "searchTerms": ["mushroom tikka", "tandoori mushroom", "stuffed mushroom dry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 639,
+      "id": "food_hariyali_paneer_tikka",
+      "name": "Hariyali Paneer Tikka",
+      "category": "protein",
+      "emoji": "🍢",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 15,
+        "carbs": 8,
+        "fat": 17
+      },
+      "micros": {
+        "cholesterol": 35,
+        "sodium": 420,
+        "calcium": 320,
+        "iron": 1.5,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 plate", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "starter", "paneer", "tandoori"],
+      "searchTerms": ["hariyali paneer tikka", "green paneer tikka", "mint paneer kebab"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 640,
+      "id": "food_paneer_bhurji_gravy",
+      "name": "Paneer Bhurji (Gravy)",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 240,
+        "protein": 12,
+        "carbs": 10,
+        "fat": 16
+      },
+      "micros": {
+        "cholesterol": 40,
+        "sodium": 390,
+        "calcium": 280,
+        "iron": 1.1,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["indian", "curry", "protein", "dhaba style"],
+      "searchTerms": ["paneer bhurji gravy", "dhaba paneer bhurji", "scrambled paneer curry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 641,
+      "id": "food_egg_bhurji_gravy",
+      "name": "Egg Bhurji (Gravy)",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 10,
+        "carbs": 8,
+        "fat": 12
+      },
+      "micros": {
+        "cholesterol": 210,
+        "sodium": 420,
+        "calcium": 50,
+        "iron": 1.6,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["indian", "curry", "eggs", "dhaba style"],
+      "searchTerms": ["anda bhurji gravy", "egg bhurji curry", "tari wali anda bhurji"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 642,
+      "id": "food_chicken_kheema",
+      "name": "Chicken Kheema (Minced Chicken Curry)",
+      "category": "protein",
+      "emoji": "🥘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 190,
+        "protein": 18,
+        "carbs": 6,
+        "fat": 10
+      },
+      "micros": {
+        "cholesterol": 50,
+        "sodium": 450,
+        "calcium": 30,
+        "iron": 1.8,
+        "potassium": 260
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "meat", "protein", "curry"],
+      "searchTerms": ["chicken kheema", "chicken keema", "minced chicken curry", "kheema pav chicken"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 643,
+      "id": "food_chicken_bhuna",
+      "name": "Chicken Bhuna",
+      "category": "protein",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 210,
+        "protein": 16,
+        "carbs": 8,
+        "fat": 12
+      },
+      "micros": {
+        "cholesterol": 45,
+        "sodium": 480,
+        "calcium": 25,
+        "iron": 1.5,
+        "potassium": 280
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "chicken", "dry curry", "spicy"],
+      "searchTerms": ["chicken bhuna", "bhuna murgh", "dry roasted chicken curry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 644,
+      "id": "food_mutton_bhuna",
+      "name": "Mutton Bhuna Gosht",
+      "category": "protein",
+      "emoji": "🍛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 260,
+        "protein": 18,
+        "carbs": 6,
+        "fat": 18
+      },
+      "micros": {
+        "cholesterol": 70,
+        "sodium": 520,
+        "calcium": 30,
+        "iron": 3.2,
+        "potassium": 310
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "mutton", "dry curry", "spicy"],
+      "searchTerms": ["bhuna gosht", "mutton bhuna", "roasted dry lamb curry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 645,
+      "id": "food_chicken_do_pyaza",
+      "name": "Chicken Do Pyaza",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 15,
+        "carbs": 8,
+        "fat": 10
+      },
+      "micros": {
+        "cholesterol": 45,
+        "sodium": 420,
+        "calcium": 25,
+        "iron": 1.4,
+        "potassium": 250
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["indian", "chicken", "curry", "onion rich"],
+      "searchTerms": ["chicken do pyaza", "murgh do pyaza", "onion chicken curry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 646,
+      "id": "food_paneer_do_pyaza",
+      "name": "Paneer Do Pyaza",
+      "category": "meal",
+      "emoji": "🥘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 260,
+        "protein": 11,
+        "carbs": 12,
+        "fat": 18
+      },
+      "micros": {
+        "cholesterol": 35,
+        "sodium": 450,
+        "calcium": 280,
+        "iron": 1.2,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["indian", "paneer", "curry", "onion rich"],
+      "searchTerms": ["paneer do pyaza", "cottage cheese and onion curry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 647,
+      "id": "food_veg_jhalfrezi",
+      "name": "Veg Jhalfrezi",
+      "category": "veg",
+      "emoji": "🥗",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 120,
+        "protein": 3,
+        "carbs": 12,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 380,
+        "calcium": 30,
+        "iron": 1.1,
+        "potassium": 260
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["indian", "veg", "dry curry", "spicy"],
+      "searchTerms": ["veg jhalfrezi", "mixed veg jhalfrezi", "stir fry indian veg"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 648,
+      "id": "food_veg_kofta_curry",
+      "name": "Veg Kofta Curry",
+      "category": "meal",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 190,
+        "protein": 5,
+        "carbs": 18,
+        "fat": 11
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 410,
+        "calcium": 40,
+        "iron": 1.5,
+        "potassium": 230
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["indian", "veg", "curry", "dumplings"],
+      "searchTerms": ["veg kofta curry", "mixed veg dumpling curry", "kofta sabzi"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 649,
+      "id": "food_lauki_kofta",
+      "name": "Lauki Kofta Curry",
+      "category": "meal",
+      "emoji": "🥘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 170,
+        "protein": 4.5,
+        "carbs": 16,
+        "fat": 10
+      },
+      "micros": {
+        "cholesterol": 5,
+        "sodium": 380,
+        "calcium": 35,
+        "iron": 1.2,
+        "potassium": 250
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["indian", "veg", "curry", "bottle gourd"],
+      "searchTerms": ["lauki kofta", "dudhi kofta", "bottle gourd dumpling curry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 650,
+      "id": "food_cabbage_kofta",
+      "name": "Cabbage Kofta",
+      "category": "meal",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 4,
+        "carbs": 18,
+        "fat": 11
+      },
+      "micros": {
+        "cholesterol": 5,
+        "sodium": 390,
+        "calcium": 30,
+        "iron": 1.4,
+        "potassium": 220
+      },
+      "default_serving": { "name": "1 bowl", "grams": 200 },
+      "regions": ["india"],
+      "tags": ["indian", "veg", "curry", "cabbage"],
+      "searchTerms": ["cabbage kofta", "patta gobi kofta", "cabbage dumpling curry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 651,
+      "id": "food_aloo_gobi_matar",
+      "name": "Aloo Gobi Matar",
+      "category": "veg",
+      "emoji": "🥘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 105,
+        "protein": 3,
+        "carbs": 14,
+        "fat": 4.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 310,
+        "calcium": 35,
+        "iron": 1.2,
+        "potassium": 340
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "veg", "dry curry", "everyday"],
+      "searchTerms": ["aloo gobi matar", "potato cauliflower peas", "mixed veg dry sabzi"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 652,
+      "id": "food_aloo_methi",
+      "name": "Aloo Methi",
+      "category": "veg",
+      "emoji": "🥔",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 115,
+        "protein": 2.5,
+        "carbs": 15,
+        "fat": 5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "calcium": 60,
+        "iron": 2.1,
+        "potassium": 380
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "veg", "greens", "dry curry"],
+      "searchTerms": ["aloo methi", "potato fenugreek", "methi aloo sabzi dry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 653,
+      "id": "food_gajar_matar_sabzi",
+      "name": "Gajar Matar (Carrot Peas Dry Curry)",
+      "category": "veg",
+      "emoji": "🥕",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 85,
+        "protein": 2.5,
+        "carbs": 12,
+        "fat": 3.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 250,
+        "calcium": 30,
+        "iron": 1.2,
+        "potassium": 290
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "veg", "winter", "healthy"],
+      "searchTerms": ["gajar matar sabzi", "carrot peas dry veg", "gajar peas sabzi"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 654,
+      "id": "food_soya_bhurgi",
+      "name": "Soya Bhurji",
+      "category": "protein",
+      "emoji": "🍲",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 180,
+        "protein": 20,
+        "carbs": 10,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 420,
+        "calcium": 120,
+        "iron": 3.8,
+        "potassium": 450
+      },
+      "default_serving": { "name": "1 bowl", "grams": 150 },
+      "regions": ["india"],
+      "tags": ["indian", "vegan", "protein", "fitness"],
+      "searchTerms": ["soya bhurji", "scrambled soya granules", "nutrela keema dry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 655,
+      "id": "food_egg_bhurji_roll",
+      "name": "Egg Bhurji Roll",
+      "category": "meal",
+      "emoji": "🌯",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 250,
+        "protein": 12,
+        "carbs": 26,
+        "fat": 11
+      },
+      "micros": {
+        "cholesterol": 210,
+        "sodium": 450,
+        "calcium": 45,
+        "iron": 2.2,
+        "potassium": 190
+      },
+      "default_serving": { "name": "1 roll", "grams": 160 },
+      "regions": ["india"],
+      "tags": ["indian", "street food", "eggs", "wrap"],
+      "searchTerms": ["egg bhurji roll", "anda bhurji wrap", "scrambled egg roll", "egg frankie"],
       "is_verified": true,
       "updatedAt": "2026-05-06"
     }
