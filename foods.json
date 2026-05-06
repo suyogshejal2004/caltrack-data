@@ -19844,6 +19844,1086 @@
       "searchTerms": ["cream cheese", "bagel spread", "philly cheese"],
       "is_verified": true,
       "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 736,
+      "id": "food_dragon_fruit",
+      "name": "Dragon Fruit (Pitaya)",
+      "category": "fruit",
+      "emoji": "🐉",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 60,
+        "protein": 1.2,
+        "carbs": 13,
+        "fat": 0.4
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 18,
+        "iron": 0.6,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 medium", "grams": 200 },
+      "regions": ["global", "asia"],
+      "tags": ["fruit", "tropical", "healthy"],
+      "searchTerms": ["dragon fruit", "pitaya", "strawberry pear", "pink fruit"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 737,
+      "id": "food_passion_fruit",
+      "name": "Passion Fruit",
+      "category": "fruit",
+      "emoji": "🟡",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 97,
+        "protein": 2.2,
+        "carbs": 23.4,
+        "fat": 0.7
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 0,
+        "calcium": 12,
+        "iron": 1.6,
+        "potassium": 348
+      },
+      "default_serving": { "name": "1 fruit", "grams": 18 },
+      "regions": ["global", "latin america"],
+      "tags": ["fruit", "tropical", "tangy"],
+      "searchTerms": ["passion fruit", "maracuya", "granadilla"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 738,
+      "id": "food_persimmon",
+      "name": "Persimmon (Amarphal)",
+      "category": "fruit",
+      "emoji": "🍅",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 81,
+        "protein": 0.6,
+        "carbs": 18.6,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 8,
+        "iron": 0.1,
+        "potassium": 161
+      },
+      "default_serving": { "name": "1 fruit", "grams": 168 },
+      "regions": ["global", "asia"],
+      "tags": ["fruit", "seasonal", "sweet"],
+      "searchTerms": ["persimmon", "amarphal", "sharon fruit", "kaki"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 739,
+      "id": "food_starfruit",
+      "name": "Starfruit (Carambola)",
+      "category": "fruit",
+      "emoji": "⭐",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 31,
+        "protein": 1,
+        "carbs": 6.7,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 2,
+        "calcium": 3,
+        "iron": 0.1,
+        "potassium": 133
+      },
+      "default_serving": { "name": "1 fruit", "grams": 91 },
+      "regions": ["global", "asia"],
+      "tags": ["fruit", "tropical", "sour"],
+      "searchTerms": ["starfruit", "carambola", "kamrakh"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 740,
+      "id": "food_amla",
+      "name": "Amla (Indian Gooseberry)",
+      "category": "fruit",
+      "emoji": "🍏",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 44,
+        "protein": 0.9,
+        "carbs": 10.2,
+        "fat": 0.6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 25,
+        "iron": 0.3,
+        "potassium": 198
+      },
+      "default_serving": { "name": "1 amla", "grams": 35 },
+      "regions": ["india"],
+      "tags": ["fruit", "healthy", "vitamin c", "sour"],
+      "searchTerms": ["amla", "gooseberry", "indian gooseberry", "nelli"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 741,
+      "id": "food_jujube_ber",
+      "name": "Ber (Indian Jujube)",
+      "category": "fruit",
+      "emoji": "🫒",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 79,
+        "protein": 1.2,
+        "carbs": 20.2,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 3,
+        "calcium": 21,
+        "iron": 0.5,
+        "potassium": 250
+      },
+      "default_serving": { "name": "1 cup", "grams": 100 },
+      "regions": ["india", "asia"],
+      "tags": ["fruit", "seasonal", "sweet and sour"],
+      "searchTerms": ["ber", "jujube", "indian plum", "bor"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 742,
+      "id": "food_mulberry",
+      "name": "Mulberry (Shahtoot)",
+      "category": "fruit",
+      "emoji": "🍇",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 43,
+        "protein": 1.4,
+        "carbs": 9.8,
+        "fat": 0.4
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 10,
+        "calcium": 39,
+        "iron": 1.8,
+        "potassium": 194
+      },
+      "default_serving": { "name": "1 cup", "grams": 140 },
+      "regions": ["global", "india"],
+      "tags": ["fruit", "berries", "seasonal"],
+      "searchTerms": ["mulberry", "shahtoot", "fresh mulberry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 743,
+      "id": "food_pomelo",
+      "name": "Pomelo",
+      "category": "fruit",
+      "emoji": "🍈",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 38,
+        "protein": 0.8,
+        "carbs": 9.6,
+        "fat": 0
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 4,
+        "iron": 0.1,
+        "potassium": 216
+      },
+      "default_serving": { "name": "1 cup sections", "grams": 190 },
+      "regions": ["global", "asia"],
+      "tags": ["fruit", "citrus", "tropical"],
+      "searchTerms": ["pomelo", "chakotra", "pummelo", "shaddock"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 744,
+      "id": "food_mangosteen",
+      "name": "Mangosteen",
+      "category": "fruit",
+      "emoji": "🫐",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 73,
+        "protein": 0.4,
+        "carbs": 17.9,
+        "fat": 0.6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 7,
+        "calcium": 12,
+        "iron": 0.3,
+        "potassium": 48
+      },
+      "default_serving": { "name": "1 cup", "grams": 196 },
+      "regions": ["asia", "global"],
+      "tags": ["fruit", "tropical", "sweet"],
+      "searchTerms": ["mangosteen", "purple mangosteen", "tropical fruit"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 745,
+      "id": "food_rambutan",
+      "name": "Rambutan",
+      "category": "fruit",
+      "emoji": "🍒",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 82,
+        "protein": 0.6,
+        "carbs": 20.9,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 11,
+        "calcium": 22,
+        "iron": 0.3,
+        "potassium": 42
+      },
+      "default_serving": { "name": "1 fruit", "grams": 15 },
+      "regions": ["asia", "global"],
+      "tags": ["fruit", "tropical", "sweet"],
+      "searchTerms": ["rambutan", "lychee alternative", "hairy fruit"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 746,
+      "id": "food_ice_apple",
+      "name": "Ice Apple (Tadgola / Nungu)",
+      "category": "fruit",
+      "emoji": "🧊",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 43,
+        "protein": 0.6,
+        "carbs": 10.5,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 10,
+        "calcium": 10,
+        "iron": 0.2,
+        "potassium": 150
+      },
+      "default_serving": { "name": "1 piece", "grams": 50 },
+      "regions": ["india", "asia"],
+      "tags": ["fruit", "summer", "cooling", "hydration"],
+      "searchTerms": ["ice apple", "tadgola", "nungu", "palmyra fruit", "taal"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 747,
+      "id": "food_coconut_meat_fresh",
+      "name": "Coconut Meat (Fresh / Raw)",
+      "category": "fat",
+      "emoji": "🥥",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 354,
+        "protein": 3.3,
+        "carbs": 15.2,
+        "fat": 33.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 20,
+        "calcium": 14,
+        "iron": 2.4,
+        "potassium": 356
+      },
+      "default_serving": { "name": "1 piece (2x2 inch)", "grams": 45 },
+      "regions": ["global", "india"],
+      "tags": ["fruit", "fats", "raw"],
+      "searchTerms": ["coconut meat", "fresh coconut", "nariyal giri", "raw coconut"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 748,
+      "id": "food_water_chestnut",
+      "name": "Water Chestnut (Singhara)",
+      "category": "carbs",
+      "emoji": "🌰",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 97,
+        "protein": 1.4,
+        "carbs": 23.9,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 14,
+        "calcium": 11,
+        "iron": 0.1,
+        "potassium": 584
+      },
+      "default_serving": { "name": "1/2 cup", "grams": 60 },
+      "regions": ["india", "asia"],
+      "tags": ["fruit", "carbs", "fasting", "aquatic"],
+      "searchTerms": ["singhara", "water chestnut", "pani phal", "upvas fruit"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 749,
+      "id": "food_wood_apple",
+      "name": "Wood Apple (Bael)",
+      "category": "fruit",
+      "emoji": "🍈",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 137,
+        "protein": 1.8,
+        "carbs": 31.8,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 15,
+        "calcium": 85,
+        "iron": 0.6,
+        "potassium": 600
+      },
+      "default_serving": { "name": "1 cup pulp", "grams": 100 },
+      "regions": ["india"],
+      "tags": ["fruit", "summer", "digestive"],
+      "searchTerms": ["bael", "wood apple", "bel fruit", "stone apple"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 750,
+      "id": "food_tamarind_raw",
+      "name": "Tamarind (Raw Pulp)",
+      "category": "carbs",
+      "emoji": "🫘",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 239,
+        "protein": 2.8,
+        "carbs": 62.5,
+        "fat": 0.6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 28,
+        "calcium": 74,
+        "iron": 2.8,
+        "potassium": 628
+      },
+      "default_serving": { "name": "1 tablespoon", "grams": 15 },
+      "regions": ["india", "global"],
+      "tags": ["fruit", "sour", "condiment base"],
+      "searchTerms": ["tamarind", "imli", "raw tamarind pulp", "imli paste"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 751,
+      "id": "food_bamboo_shoots_raw",
+      "name": "Bamboo Shoots (Raw)",
+      "category": "veg",
+      "emoji": "🎋",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 27,
+        "protein": 2.6,
+        "carbs": 5.2,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 4,
+        "calcium": 13,
+        "iron": 0.5,
+        "potassium": 533
+      },
+      "default_serving": { "name": "1 cup sliced", "grams": 150 },
+      "regions": ["asia", "global"],
+      "tags": ["veg", "asian", "fiber"],
+      "searchTerms": ["bamboo shoots", "baans", "asian shoots"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 752,
+      "id": "food_lotus_stem_raw",
+      "name": "Lotus Stem (Kamal Kakdi)",
+      "category": "veg",
+      "emoji": "🪷",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 74,
+        "protein": 2.6,
+        "carbs": 17.2,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 40,
+        "calcium": 45,
+        "iron": 1.2,
+        "potassium": 556
+      },
+      "default_serving": { "name": "1 cup sliced", "grams": 120 },
+      "regions": ["india", "asia"],
+      "tags": ["veg", "root", "fiber"],
+      "searchTerms": ["lotus stem", "kamal kakdi", "bhein", "lotus root"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 753,
+      "id": "food_raw_banana_plantain",
+      "name": "Raw Banana / Plantain",
+      "category": "carbs",
+      "emoji": "🍌",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 122,
+        "protein": 1.3,
+        "carbs": 31.9,
+        "fat": 0.4
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 4,
+        "calcium": 3,
+        "iron": 0.6,
+        "potassium": 499
+      },
+      "default_serving": { "name": "1 medium", "grams": 150 },
+      "regions": ["global", "india"],
+      "tags": ["veg", "carbs", "starch"],
+      "searchTerms": ["raw banana", "kachha kela", "plantain", "vazhakkai"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 754,
+      "id": "food_raw_papaya",
+      "name": "Raw Papaya",
+      "category": "veg",
+      "emoji": "🍈",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 39,
+        "protein": 0.6,
+        "carbs": 9.8,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 3,
+        "calcium": 24,
+        "iron": 0.3,
+        "potassium": 210
+      },
+      "default_serving": { "name": "1 cup grated", "grams": 100 },
+      "regions": ["global", "india"],
+      "tags": ["veg", "salad", "asian"],
+      "searchTerms": ["raw papaya", "kachha papita", "green papaya"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 755,
+      "id": "food_taro_root_raw",
+      "name": "Taro Root (Arbi / Colocasia)",
+      "category": "carbs",
+      "emoji": "🥔",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 112,
+        "protein": 1.5,
+        "carbs": 26.5,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 11,
+        "calcium": 43,
+        "iron": 0.5,
+        "potassium": 591
+      },
+      "default_serving": { "name": "1 cup sliced", "grams": 100 },
+      "regions": ["global", "india"],
+      "tags": ["veg", "carbs", "root"],
+      "searchTerms": ["taro root", "arbi", "colocasia root", "seppankizhangu"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 756,
+      "id": "food_elephant_foot_yam",
+      "name": "Yam (Suran / Elephant Foot Yam)",
+      "category": "carbs",
+      "emoji": "🍠",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 118,
+        "protein": 1.5,
+        "carbs": 27.9,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 9,
+        "calcium": 17,
+        "iron": 0.5,
+        "potassium": 816
+      },
+      "default_serving": { "name": "1 cup cubed", "grams": 100 },
+      "regions": ["global", "india"],
+      "tags": ["veg", "carbs", "root"],
+      "searchTerms": ["yam", "suran", "jimikand", "elephant foot yam", "senai kizhangu"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 757,
+      "id": "food_ash_gourd_raw",
+      "name": "Ash Gourd (Winter Melon / Petha)",
+      "category": "veg",
+      "emoji": "🍈",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 13,
+        "protein": 0.4,
+        "carbs": 3,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 111,
+        "calcium": 19,
+        "iron": 0.4,
+        "potassium": 6
+      },
+      "default_serving": { "name": "1 cup diced", "grams": 130 },
+      "regions": ["india", "asia"],
+      "tags": ["veg", "gourd", "hydration", "low calorie"],
+      "searchTerms": ["ash gourd", "winter melon", "safed petha", "boodida gummadikaya"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 758,
+      "id": "food_snake_gourd_raw",
+      "name": "Snake Gourd (Chichinda)",
+      "category": "veg",
+      "emoji": "🥒",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 18,
+        "protein": 0.6,
+        "carbs": 3.3,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 20,
+        "calcium": 26,
+        "iron": 0.3,
+        "potassium": 150
+      },
+      "default_serving": { "name": "1 cup chopped", "grams": 100 },
+      "regions": ["india", "asia"],
+      "tags": ["veg", "gourd", "healthy"],
+      "searchTerms": ["snake gourd", "chichinda", "padawali", "pudalangai"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 759,
+      "id": "food_fava_beans_raw",
+      "name": "Broad Beans (Fava Beans / Papdi)",
+      "category": "veg",
+      "emoji": "🫛",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 88,
+        "protein": 8,
+        "carbs": 15,
+        "fat": 0.7
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 13,
+        "calcium": 37,
+        "iron": 1.6,
+        "potassium": 332
+      },
+      "default_serving": { "name": "1 cup", "grams": 125 },
+      "regions": ["global", "india"],
+      "tags": ["veg", "beans", "protein"],
+      "searchTerms": ["fava beans", "broad beans", "papdi", "sem ki fali", "val papdi"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 760,
+      "id": "food_horse_gram_dry",
+      "name": "Horse Gram (Kulthi Dal, Dry)",
+      "category": "protein",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 321,
+        "protein": 22,
+        "carbs": 57,
+        "fat": 0.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 10,
+        "calcium": 287,
+        "iron": 8.4,
+        "potassium": 800
+      },
+      "default_serving": { "name": "1/4 cup dry", "grams": 50 },
+      "regions": ["india"],
+      "tags": ["dal", "protein", "healthy", "raw ingredient"],
+      "searchTerms": ["horse gram", "kulthi dal", "kollu", "huruli", "dry raw dal"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 761,
+      "id": "food_matki_dry",
+      "name": "Moth Beans (Matki, Dry)",
+      "category": "protein",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 343,
+        "protein": 23,
+        "carbs": 62,
+        "fat": 1.6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 15,
+        "calcium": 150,
+        "iron": 10.8,
+        "potassium": 1100
+      },
+      "default_serving": { "name": "1/4 cup dry", "grams": 50 },
+      "regions": ["india"],
+      "tags": ["dal", "protein", "sprouts base", "raw ingredient"],
+      "searchTerms": ["moth beans", "matki dry", "dew bean", "sprouts bean raw"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 762,
+      "id": "food_urad_dal_dry",
+      "name": "Urad Dal (Black/White Gram, Dry)",
+      "category": "protein",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 341,
+        "protein": 25,
+        "carbs": 59,
+        "fat": 1.6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 38,
+        "calcium": 138,
+        "iron": 7.6,
+        "potassium": 983
+      },
+      "default_serving": { "name": "1/4 cup dry", "grams": 50 },
+      "regions": ["india"],
+      "tags": ["dal", "protein", "dosa base", "raw ingredient"],
+      "searchTerms": ["urad dal dry", "black gram raw", "white split urad", "idli dal"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 763,
+      "id": "food_toor_dal_dry",
+      "name": "Toor Dal (Pigeon Pea, Dry)",
+      "category": "protein",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 343,
+        "protein": 22,
+        "carbs": 63,
+        "fat": 1.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 17,
+        "calcium": 130,
+        "iron": 5.2,
+        "potassium": 1074
+      },
+      "default_serving": { "name": "1/4 cup dry", "grams": 50 },
+      "regions": ["india"],
+      "tags": ["dal", "protein", "sambar base", "raw ingredient"],
+      "searchTerms": ["toor dal dry", "arhar dal raw", "pigeon pea", "tuvar dal"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 764,
+      "id": "food_moong_dal_yellow_dry",
+      "name": "Moong Dal (Yellow, Split, Dry)",
+      "category": "protein",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 347,
+        "protein": 24,
+        "carbs": 63,
+        "fat": 1.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 15,
+        "calcium": 132,
+        "iron": 6.7,
+        "potassium": 1246
+      },
+      "default_serving": { "name": "1/4 cup dry", "grams": 50 },
+      "regions": ["india"],
+      "tags": ["dal", "protein", "healthy", "raw ingredient"],
+      "searchTerms": ["moong dal dry", "yellow dal raw", "split green gram"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 765,
+      "id": "food_chana_dal_dry",
+      "name": "Chana Dal (Split Bengal Gram, Dry)",
+      "category": "protein",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 378,
+        "protein": 22.5,
+        "carbs": 63,
+        "fat": 6
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 24,
+        "calcium": 105,
+        "iron": 4.6,
+        "potassium": 875
+      },
+      "default_serving": { "name": "1/4 cup dry", "grams": 50 },
+      "regions": ["india"],
+      "tags": ["dal", "protein", "raw ingredient"],
+      "searchTerms": ["chana dal dry", "bengal gram raw", "split chickpea dry"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 766,
+      "id": "food_lobia_dry",
+      "name": "Lobia (Black-eyed Peas, Dry)",
+      "category": "protein",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 336,
+        "protein": 23.5,
+        "carbs": 60,
+        "fat": 1.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 16,
+        "calcium": 110,
+        "iron": 8.3,
+        "potassium": 1112
+      },
+      "default_serving": { "name": "1/4 cup dry", "grams": 50 },
+      "regions": ["global", "india"],
+      "tags": ["beans", "protein", "raw ingredient"],
+      "searchTerms": ["lobia dry", "black eyed peas raw", "chawli dry", "alsande kaalu"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 767,
+      "id": "food_macaroni_dry",
+      "name": "Macaroni Pasta (Dry/Raw)",
+      "category": "carbs",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 371,
+        "protein": 13,
+        "carbs": 75,
+        "fat": 1.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 6,
+        "calcium": 21,
+        "iron": 3.3,
+        "potassium": 223
+      },
+      "default_serving": { "name": "1 cup dry", "grams": 115 },
+      "regions": ["global"],
+      "tags": ["pasta", "carbs", "raw ingredient"],
+      "searchTerms": ["macaroni dry", "raw pasta", "uncooked macaroni"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 768,
+      "id": "food_semolina_dry",
+      "name": "Semolina (Suji / Rava, Dry)",
+      "category": "carbs",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 360,
+        "protein": 12.7,
+        "carbs": 72.8,
+        "fat": 1.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 17,
+        "iron": 1.2,
+        "potassium": 186
+      },
+      "default_serving": { "name": "1/2 cup dry", "grams": 80 },
+      "regions": ["global", "india"],
+      "tags": ["carbs", "flour", "raw ingredient"],
+      "searchTerms": ["suji", "rava", "semolina dry", "sooji raw"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 769,
+      "id": "food_poha_dry",
+      "name": "Poha (Flattened Rice, Dry/Raw)",
+      "category": "carbs",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 346,
+        "protein": 6.5,
+        "carbs": 77.3,
+        "fat": 1.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 5,
+        "calcium": 20,
+        "iron": 20,
+        "potassium": 110
+      },
+      "default_serving": { "name": "1 cup dry", "grams": 60 },
+      "regions": ["india"],
+      "tags": ["rice", "carbs", "raw ingredient", "iron"],
+      "searchTerms": ["poha dry", "raw flattened rice", "beaten rice uncooked", "chiwda base"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 770,
+      "id": "food_murmura_dry",
+      "name": "Murmura (Puffed Rice, Dry)",
+      "category": "carbs",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 402,
+        "protein": 6.3,
+        "carbs": 89.8,
+        "fat": 0.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 3,
+        "calcium": 6,
+        "iron": 31.7,
+        "potassium": 113
+      },
+      "default_serving": { "name": "2 cups", "grams": 30 },
+      "regions": ["india"],
+      "tags": ["rice", "carbs", "snack base", "raw ingredient"],
+      "searchTerms": ["murmura", "kurmura", "puffed rice dry", "pori"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 771,
+      "id": "food_vermicelli_dry",
+      "name": "Vermicelli (Sevai, Dry/Raw)",
+      "category": "carbs",
+      "emoji": "🍜",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 360,
+        "protein": 10,
+        "carbs": 78,
+        "fat": 1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 10,
+        "calcium": 20,
+        "iron": 1.5,
+        "potassium": 120
+      },
+      "default_serving": { "name": "1 cup dry", "grams": 50 },
+      "regions": ["global", "india"],
+      "tags": ["pasta", "carbs", "raw ingredient"],
+      "searchTerms": ["vermicelli dry", "sevai raw", "semiya uncooked"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 772,
+      "id": "food_besan_dry",
+      "name": "Besan (Gram Flour, Dry)",
+      "category": "protein",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 387,
+        "protein": 22,
+        "carbs": 58,
+        "fat": 6.7
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 64,
+        "calcium": 45,
+        "iron": 4.9,
+        "potassium": 846
+      },
+      "default_serving": { "name": "1/2 cup", "grams": 60 },
+      "regions": ["india"],
+      "tags": ["flour", "protein", "raw ingredient", "gluten free"],
+      "searchTerms": ["besan", "gram flour", "chickpea flour raw"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 773,
+      "id": "food_maida_dry",
+      "name": "Maida (Refined Wheat Flour, Dry)",
+      "category": "carbs",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 364,
+        "protein": 10.3,
+        "carbs": 76.3,
+        "fat": 1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 2,
+        "calcium": 15,
+        "iron": 1.2,
+        "potassium": 107
+      },
+      "default_serving": { "name": "1/2 cup", "grams": 60 },
+      "regions": ["global", "india"],
+      "tags": ["flour", "carbs", "raw ingredient", "baking"],
+      "searchTerms": ["maida", "all purpose flour", "refined flour raw", "white flour"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 774,
+      "id": "food_atta_dry",
+      "name": "Atta (Whole Wheat Flour, Dry)",
+      "category": "carbs",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 340,
+        "protein": 13.2,
+        "carbs": 72,
+        "fat": 2.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 2,
+        "calcium": 34,
+        "iron": 3.9,
+        "potassium": 405
+      },
+      "default_serving": { "name": "1/2 cup", "grams": 60 },
+      "regions": ["global", "india"],
+      "tags": ["flour", "carbs", "raw ingredient", "whole grain"],
+      "searchTerms": ["atta", "whole wheat flour raw", "roti flour dry", "gehu ka atta"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
+    },
+    {
+      "serial": 775,
+      "id": "food_ragi_flour_dry",
+      "name": "Ragi Flour (Finger Millet Flour, Dry)",
+      "category": "carbs",
+      "emoji": "🥣",
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 328,
+        "protein": 7.3,
+        "carbs": 72,
+        "fat": 1.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 5,
+        "calcium": 344,
+        "iron": 3.9,
+        "potassium": 408
+      },
+      "default_serving": { "name": "1/2 cup", "grams": 60 },
+      "regions": ["india"],
+      "tags": ["flour", "carbs", "millet", "calcium", "raw ingredient"],
+      "searchTerms": ["ragi flour", "finger millet flour dry", "nachni atta", "raggi powder"],
+      "is_verified": true,
+      "updatedAt": "2026-05-06"
     }
   ]
 }
