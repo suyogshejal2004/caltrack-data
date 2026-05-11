@@ -1,0 +1,65 @@
+{
+  "locale": "ar",
+  "translations": {
+    "food_rice_white_boiled": {
+      "name": "أرز أبيض (مسلوق)",
+      "description": "أرز أبيض مسلوق، حبوب أساسية تؤكل في جميع أنحاء العالم.",
+      "default_serving_name": "1 وعاء",
+      "search_index": ["أرز", "أرز أبيض", "رز مسلوق"]
+    },
+    "food_egg_boiled": {
+      "name": "بيض مسلوق",
+      "description": "بيض دجاج مسلوق جيداً، مصدر ممتاز للبروتين الخالي من الدهون.",
+      "default_serving_name": "1 بيضة",
+      "search_index": ["بيض", "بيض مسلوق"]
+    },
+    "food_milk_whole": {
+      "name": "حليب كامل الدسم",
+      "description": "حليب ألبان طازج كامل الدسم.",
+      "default_serving_name": "1 كوب",
+      "search_index": ["حليب", "حليب كامل الدسم", "لبن"]
+    },
+    "food_banana_raw": {
+      "name": "موز",
+      "description": "فاكهة استوائية صفراء حلوة غنية بالبوتاسيوم والطاقة.",
+      "default_serving_name": "1 موزة",
+      "search_index": ["موز", "فاكهة"]
+    },
+    "food_chapati_plain": {
+      "name": "شاباتي / روتي",
+      "description": "خبز هندي تقليدي مسطح من القمح الكامل مطبوخ بدون زيت.",
+      "default_serving_name": "1 رغيف",
+      "search_index": ["شاباتي", "روتي", "خبز هندي"]
+    },
+    "food_chicken_breast_raw": {
+      "name": "صدر دجاج (نيئ)",
+      "description": "صدر دجاج نيئ، منزوع العظم والجلد.",
+      "default_serving_name": "1 شريحة",
+      "search_index": ["دجاج", "صدر دجاج", "دجاج نيئ"]
+    },
+    "food_apple_raw": {
+      "name": "تفاح",
+      "description": "تفاحة طازجة وحلوة ومقرمشة.",
+      "default_serving_name": "1 تفاحة متوسطة",
+      "search_index": ["تفاح", "تفاح أحمر"]
+    },
+    "food_potato_raw": {
+      "name": "بطاطس (نيئة)",
+      "description": "بطاطس كاملة نيئة غير مقشرة.",
+      "default_serving_name": "1 بطاطس متوسطة",
+      "search_index": ["بطاطس", "بطاطا", "بطاطس نيئة"]
+    },
+    "food_tomato_raw": {
+      "name": "طماطم",
+      "description": "طماطم حمراء طازجة وناضجة.",
+      "default_serving_name": "1 طماطم متوسطة",
+      "search_index": ["طماطم", "بندورة"]
+    },
+    "food_onion_raw": {
+      "name": "بصل",
+      "description": "بصل نيئ يستخدم كقاعدة للطبخ والسلطات.",
+      "default_serving_name": "1 بصلة متوسطة",
+      "search_index": ["بصل", "بصل نيئ"]
+    }
+  }
+}

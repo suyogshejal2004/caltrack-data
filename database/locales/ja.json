@@ -1,0 +1,65 @@
+{
+  "locale": "ja",
+  "translations": {
+    "food_rice_white_boiled": {
+      "name": "白米（ご飯）",
+      "description": "柔らかく炊いた白米。世界中で食べられている主食です。",
+      "default_serving_name": "1杯",
+      "search_index": ["ご飯", "白米", "米"]
+    },
+    "food_egg_boiled": {
+      "name": "ゆで卵",
+      "description": "固ゆでの鶏卵。優れたタンパク質源です。",
+      "default_serving_name": "1個",
+      "search_index": ["卵", "ゆで卵", "玉子"]
+    },
+    "food_milk_whole": {
+      "name": "全乳（牛乳）",
+      "description": "新鮮な全脂牛乳。",
+      "default_serving_name": "1杯",
+      "search_index": ["牛乳", "ミルク", "全乳"]
+    },
+    "food_banana_raw": {
+      "name": "バナナ",
+      "description": "カリウムとエネルギーが豊富な甘い熱帯の黄色い果物。",
+      "default_serving_name": "1本",
+      "search_index": ["バナナ", "果物"]
+    },
+    "food_chapati_plain": {
+      "name": "チャパティ / ロティ",
+      "description": "油を使わずに焼いた伝統的なインドの全粒粉フラットブレッド。",
+      "default_serving_name": "1枚",
+      "search_index": ["チャパティ", "ロティ", "インドパン"]
+    },
+    "food_chicken_breast_raw": {
+      "name": "鶏むね肉（生）",
+      "description": "生の骨なし・皮なし鶏むね肉。",
+      "default_serving_name": "1切れ",
+      "search_index": ["鶏肉", "鶏むね肉", "チキン"]
+    },
+    "food_apple_raw": {
+      "name": "りんご",
+      "description": "新鮮で甘く、シャキシャキとしたりんご。",
+      "default_serving_name": "1個",
+      "search_index": ["りんご", "アップル"]
+    },
+    "food_potato_raw": {
+      "name": "じゃがいも（生）",
+      "description": "皮付きの生のじゃがいも。",
+      "default_serving_name": "1個",
+      "search_index": ["じゃがいも", "ポテト"]
+    },
+    "food_tomato_raw": {
+      "name": "トマト",
+      "description": "新鮮で熟した赤いトマト。",
+      "default_serving_name": "1個",
+      "search_index": ["トマト", "生トマト"]
+    },
+    "food_onion_raw": {
+      "name": "玉ねぎ",
+      "description": "料理のベースやサラダに使われる生の玉ねぎ。",
+      "default_serving_name": "1個",
+      "search_index": ["玉ねぎ", "オニオン"]
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "locale": "es",
+  "translations": {
+    "food_rice_white_boiled": {
+      "name": "Arroz Blanco (Hervido)",
+      "description": "Arroz blanco hervido y suave, un grano básico a nivel mundial.",
+      "default_serving_name": "1 tazón",
+      "search_index": ["arroz", "arroz blanco", "arroz cocido"]
+    },
+    "food_egg_boiled": {
+      "name": "Huevo Hervido",
+      "description": "Huevo de gallina duro, excelente fuente de proteína magra.",
+      "default_serving_name": "1 huevo",
+      "search_index": ["huevo", "huevo duro", "huevo cocido"]
+    },
+    "food_milk_whole": {
+      "name": "Leche Entera",
+      "description": "Leche de vaca fresca y entera.",
+      "default_serving_name": "1 vaso",
+      "search_index": ["leche", "leche entera", "leche completa"]
+    },
+    "food_banana_raw": {
+      "name": "Plátano / Banana",
+      "description": "Fruta tropical dulce y rica en potasio y energía.",
+      "default_serving_name": "1 plátano",
+      "search_index": ["plátano", "banana", "banano", "fruta"]
+    },
+    "food_chapati_plain": {
+      "name": "Chapati / Roti",
+      "description": "Pan plano tradicional indio de trigo integral sin aceite.",
+      "default_serving_name": "1 chapati",
+      "search_index": ["chapati", "roti", "pan indio"]
+    },
+    "food_chicken_breast_raw": {
+      "name": "Pechuga de Pollo (Cruda)",
+      "description": "Pechuga de pollo cruda, sin hueso y sin piel.",
+      "default_serving_name": "1 filete",
+      "search_index": ["pollo", "pechuga de pollo", "pollo crudo"]
+    },
+    "food_apple_raw": {
+      "name": "Manzana",
+      "description": "Manzana fresca, dulce y crujiente.",
+      "default_serving_name": "1 manzana mediana",
+      "search_index": ["manzana", "manzana roja"]
+    },
+    "food_potato_raw": {
+      "name": "Papa / Patata (Cruda)",
+      "description": "Papa entera cruda y sin pelar.",
+      "default_serving_name": "1 papa mediana",
+      "search_index": ["papa", "patata", "papa cruda"]
+    },
+    "food_tomato_raw": {
+      "name": "Tomate",
+      "description": "Tomate rojo fresco y maduro.",
+      "default_serving_name": "1 tomate mediano",
+      "search_index": ["tomate", "jitomate", "tomate fresco"]
+    },
+    "food_onion_raw": {
+      "name": "Cebolla",
+      "description": "Cebolla cruda utilizada como base para cocinar y en ensaladas.",
+      "default_serving_name": "1 cebolla mediana",
+      "search_index": ["cebolla", "cebolla cruda"]
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "food_rice_white": {
+    "name": "पांढरा भात",
+
+    "description": "शिजवलेला मऊ पांढरा भात।",
+
+    "default_serving_name": "1 वाटी"
+  },
+
+  "food_egg_boiled": {
+    "name": "उकडलेले अंडे",
+
+    "description": "प्रोटीनयुक्त उकडलेले अंडे।",
+
+    "default_serving_name": "1 अंडे"
+  },
+
+  "food_chapati": {
+    "name": "चपाती",
+
+    "description": "गव्हापासून बनवलेली पारंपरिक भारतीय पोळी।",
+
+    "default_serving_name": "1 पोळी"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "locale": "pt",
+  "translations": {
+    "food_rice_white_boiled": {
+      "name": "Arroz Branco (Cozido)",
+      "description": "Arroz branco cozido, um grão básico consumido mundialmente.",
+      "default_serving_name": "1 tigela",
+      "search_index": ["arroz", "arroz branco", "arroz cozido"]
+    },
+    "food_egg_boiled": {
+      "name": "Ovo Cozido",
+      "description": "Ovo de galinha cozido, excelente fonte de proteína.",
+      "default_serving_name": "1 ovo",
+      "search_index": ["ovo", "ovo cozido"]
+    },
+    "food_milk_whole": {
+      "name": "Leite Integral",
+      "description": "Leite integral fresco.",
+      "default_serving_name": "1 copo",
+      "search_index": ["leite", "leite integral"]
+    },
+    "food_banana_raw": {
+      "name": "Banana",
+      "description": "Fruta tropical doce, rica em potássio e energia.",
+      "default_serving_name": "1 banana",
+      "search_index": ["banana", "fruta"]
+    },
+    "food_chapati_plain": {
+      "name": "Chapati / Roti",
+      "description": "Pão achatado tradicional indiano de trigo integral, sem óleo.",
+      "default_serving_name": "1 chapati",
+      "search_index": ["chapati", "roti", "pão indiano"]
+    },
+    "food_chicken_breast_raw": {
+      "name": "Peito de Frango (Cru)",
+      "description": "Peito de frango cru, sem osso e sem pele.",
+      "default_serving_name": "1 filé",
+      "search_index": ["frango", "peito de frango", "frango cru"]
+    },
+    "food_apple_raw": {
+      "name": "Maçã",
+      "description": "Maçã fresca, doce e crocante.",
+      "default_serving_name": "1 maçã média",
+      "search_index": ["maçã", "maçã vermelha"]
+    },
+    "food_potato_raw": {
+      "name": "Batata (Cruda)",
+      "description": "Batata inteira cruda com casca.",
+      "default_serving_name": "1 batata média",
+      "search_index": ["batata", "batata cruda"]
+    },
+    "food_tomato_raw": {
+      "name": "Tomate",
+      "description": "Tomate vermelho fresco e maduro.",
+      "default_serving_name": "1 tomate médio",
+      "search_index": ["tomate", "tomate fresco"]
+    },
+    "food_onion_raw": {
+      "name": "Cebola",
+      "description": "Cebola crua utilizada como base para cozinhar e em saladas.",
+      "default_serving_name": "1 cebola média",
+      "search_index": ["cebola", "cebola crua"]
+    }
+  }
+}

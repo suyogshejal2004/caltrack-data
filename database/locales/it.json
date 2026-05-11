@@ -1,0 +1,65 @@
+{
+  "locale": "it",
+  "translations": {
+    "food_rice_white_boiled": {
+      "name": "Riso Bianco (Bollito)",
+      "description": "Riso bianco bollito, un cereale base mangiato in tutto il mondo.",
+      "default_serving_name": "1 ciotola",
+      "search_index": ["riso", "riso bianco", "riso bollito"]
+    },
+    "food_egg_boiled": {
+      "name": "Uovo Sodo",
+      "description": "Uovo di gallina sodo, un'eccellente fonte di proteine magre.",
+      "default_serving_name": "1 uovo",
+      "search_index": ["uovo", "uovo sodo", "uovo bollito"]
+    },
+    "food_milk_whole": {
+      "name": "Latte Intero",
+      "description": "Latte intero fresco.",
+      "default_serving_name": "1 bicchiere",
+      "search_index": ["latte", "latte intero"]
+    },
+    "food_banana_raw": {
+      "name": "Banana",
+      "description": "Dolce frutto tropicale giallo ricco di potassio e energia.",
+      "default_serving_name": "1 banana",
+      "search_index": ["banana", "frutta"]
+    },
+    "food_chapati_plain": {
+      "name": "Chapati / Roti",
+      "description": "Pane piatto indiano tradizionale integrale, cotto senza olio.",
+      "default_serving_name": "1 chapati",
+      "search_index": ["chapati", "roti", "pane indiano"]
+    },
+    "food_chicken_breast_raw": {
+      "name": "Petto di Pollo (Crudo)",
+      "description": "Petto di pollo crudo, disossato e senza pelle.",
+      "default_serving_name": "1 filetto",
+      "search_index": ["pollo", "petto di pollo", "pollo crudo"]
+    },
+    "food_apple_raw": {
+      "name": "Mela",
+      "description": "Mela fresca, dolce e croccante.",
+      "default_serving_name": "1 mela media",
+      "search_index": ["mela", "mela rossa"]
+    },
+    "food_potato_raw": {
+      "name": "Patata (Cruda)",
+      "description": "Patata intera cruda e non sbucciata.",
+      "default_serving_name": "1 patata media",
+      "search_index": ["patata", "patata cruda"]
+    },
+    "food_tomato_raw": {
+      "name": "Pomodoro",
+      "description": "Pomodoro rosso fresco e maturo.",
+      "default_serving_name": "1 pomodoro medio",
+      "search_index": ["pomodoro", "pomodoro fresco"]
+    },
+    "food_onion_raw": {
+      "name": "Cipolla",
+      "description": "Cipolla cruda usata come base per cucinare e insalate.",
+      "default_serving_name": "1 cipolla media",
+      "search_index": ["cipolla", "cipolla cruda"]
+    }
+  }
+}

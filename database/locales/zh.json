@@ -1,0 +1,65 @@
+{
+  "locale": "zh",
+  "translations": {
+    "food_rice_white_boiled": {
+      "name": "白米饭",
+      "description": "煮熟的白米饭，全世界的主食。",
+      "default_serving_name": "1 碗",
+      "search_index": ["米饭", "白饭", "米"]
+    },
+    "food_egg_boiled": {
+      "name": "水煮蛋",
+      "description": "全熟的鸡蛋，极好的蛋白质来源。",
+      "default_serving_name": "1 个",
+      "search_index": ["鸡蛋", "水煮蛋", "白煮蛋"]
+    },
+    "food_milk_whole": {
+      "name": "全脂牛奶",
+      "description": "新鲜的全脂牛奶。",
+      "default_serving_name": "1 杯",
+      "search_index": ["牛奶", "全脂奶"]
+    },
+    "food_banana_raw": {
+      "name": "香蕉",
+      "description": "富含钾和能量的甜热带黄色水果。",
+      "default_serving_name": "1 根",
+      "search_index": ["香蕉", "水果"]
+    },
+    "food_chapati_plain": {
+      "name": "恰巴提 / 印度烤饼",
+      "description": "无油烤制的传统印度全麦扁面包。",
+      "default_serving_name": "1 张",
+      "search_index": ["恰巴提", "印度烤饼", "印度面饼"]
+    },
+    "food_chicken_breast_raw": {
+      "name": "鸡胸肉（生）",
+      "description": "生的无骨无皮鸡胸肉。",
+      "default_serving_name": "1 块",
+      "search_index": ["鸡肉", "鸡胸肉", "生鸡肉"]
+    },
+    "food_apple_raw": {
+      "name": "苹果",
+      "description": "新鲜，香甜爽口的苹果。",
+      "default_serving_name": "1 个",
+      "search_index": ["苹果", "红富士"]
+    },
+    "food_potato_raw": {
+      "name": "土豆（生）",
+      "description": "带皮的生土豆。",
+      "default_serving_name": "1 个",
+      "search_index": ["土豆", "马铃薯", "生土豆"]
+    },
+    "food_tomato_raw": {
+      "name": "西红柿 / 番茄",
+      "description": "新鲜成熟的红番茄。",
+      "default_serving_name": "1 个",
+      "search_index": ["西红柿", "番茄"]
+    },
+    "food_onion_raw": {
+      "name": "洋葱",
+      "description": "用作烹饪基础和沙拉的生洋葱。",
+      "default_serving_name": "1 个",
+      "search_index": ["洋葱", "葱头"]
+    }
+  }
+}

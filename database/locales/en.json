@@ -1,0 +1,71 @@
+{
+  "locale": "en",
+  "translations": {
+    "food_rice_white_boiled": {
+      "name": "White Rice (Boiled)",
+      "description": "Soft boiled white rice, a staple grain eaten worldwide.",
+      "default_serving_name": "1 bowl",
+      "search_index": ["rice", "white rice", "boiled rice", "steamed rice"]
+    },
+    "food_egg_boiled": {
+      "name": "Boiled Egg",
+      "description": "Hard-boiled chicken egg, an excellent source of lean protein.",
+      "default_serving_name": "1 egg",
+      "search_index": ["egg", "boiled egg", "hard boiled egg"]
+    },
+    "food_milk_whole": {
+      "name": "Whole Milk",
+      "description": "Fresh, full-fat dairy milk.",
+      "default_serving_name": "1 glass",
+      "search_index": ["milk", "whole milk", "full fat milk", "dairy"]
+    },
+    "food_banana_raw": {
+      "name": "Banana",
+      "description": "Sweet tropical yellow fruit rich in potassium and energy.",
+      "default_serving_name": "1 banana",
+      "search_index": ["banana", "ripe banana", "fruit"]
+    },
+    "food_chapati_plain": {
+      "name": "Chapati / Roti (Plain)",
+      "description": "Traditional Indian whole wheat flatbread cooked without oil or ghee.",
+      "default_serving_name": "1 chapati",
+      "search_index": [
+        "chapati",
+        "roti",
+        "phulka",
+        "indian flatbread",
+        "wheat bread"
+      ]
+    },
+    "food_chicken_breast_raw": {
+      "name": "Chicken Breast (Raw)",
+      "description": "Raw, boneless and skinless chicken breast.",
+      "default_serving_name": "1 fillet",
+      "search_index": ["chicken", "chicken breast", "raw chicken", "lean meat"]
+    },
+    "food_apple_raw": {
+      "name": "Apple",
+      "description": "Fresh, sweet and crunchy apple eaten raw.",
+      "default_serving_name": "1 medium apple",
+      "search_index": ["apple", "red apple", "fresh apple"]
+    },
+    "food_potato_raw": {
+      "name": "Potato (Raw)",
+      "description": "Raw, unpeeled whole potato.",
+      "default_serving_name": "1 medium potato",
+      "search_index": ["potato", "raw potato", "spud"]
+    },
+    "food_tomato_raw": {
+      "name": "Tomato",
+      "description": "Fresh, ripe red tomato.",
+      "default_serving_name": "1 medium tomato",
+      "search_index": ["tomato", "fresh tomato", "salad tomato"]
+    },
+    "food_onion_raw": {
+      "name": "Onion",
+      "description": "Raw bulb onion used as a base for cooking and salads.",
+      "default_serving_name": "1 medium onion",
+      "search_index": ["onion", "raw onion", "red onion", "white onion"]
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "locale": "ko",
+  "translations": {
+    "food_rice_white_boiled": {
+      "name": "흰쌀밥",
+      "description": "전 세계적으로 소비되는 부드럽게 지은 흰 쌀밥.",
+      "default_serving_name": "1 공기",
+      "search_index": ["밥", "쌀밥", "흰밥"]
+    },
+    "food_egg_boiled": {
+      "name": "삶은 달걀",
+      "description": "단백질이 풍부한 완숙 닭알.",
+      "default_serving_name": "1 개",
+      "search_index": ["계란", "달걀", "삶은 계란"]
+    },
+    "food_milk_whole": {
+      "name": "우유 (일반)",
+      "description": "신선한 일반 지방 우유.",
+      "default_serving_name": "1 잔",
+      "search_index": ["우유", "밀크"]
+    },
+    "food_banana_raw": {
+      "name": "바나나",
+      "description": "칼륨과 에너지가 풍부한 달콤한 열대 과일.",
+      "default_serving_name": "1 개",
+      "search_index": ["바나나", "과일"]
+    },
+    "food_chapati_plain": {
+      "name": "차파티 / 로티",
+      "description": "기름 없이 구운 전통적인 인도 통밀 납작빵.",
+      "default_serving_name": "1 장",
+      "search_index": ["차파티", "로티", "인도 빵"]
+    },
+    "food_chicken_breast_raw": {
+      "name": "닭가슴살 (생)",
+      "description": "뼈와 껍질이 없는 생 닭가슴살.",
+      "default_serving_name": "1 조각",
+      "search_index": ["닭고기", "닭가슴살", "생닭"]
+    },
+    "food_apple_raw": {
+      "name": "사과",
+      "description": "신선하고 달콤하며 아삭아삭한 사과.",
+      "default_serving_name": "1 개",
+      "search_index": ["사과", "애플"]
+    },
+    "food_potato_raw": {
+      "name": "감자 (생)",
+      "description": "껍질을 벗기지 않은 통 생감자.",
+      "default_serving_name": "1 개",
+      "search_index": ["감자"]
+    },
+    "food_tomato_raw": {
+      "name": "토마토",
+      "description": "신선하고 잘 익은 붉은 토마토.",
+      "default_serving_name": "1 개",
+      "search_index": ["토마토"]
+    },
+    "food_onion_raw": {
+      "name": "양파",
+      "description": "요리의 기본 재료 및 샐러드에 사용되는 생 양파.",
+      "default_serving_name": "1 개",
+      "search_index": ["양파", "어니언"]
+    }
+  }
+}

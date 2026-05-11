@@ -1,0 +1,65 @@
+{
+  "locale": "fr",
+  "translations": {
+    "food_rice_white_boiled": {
+      "name": "Riz Blanc (Bouilli)",
+      "description": "Riz blanc bouilli, une céréale de base consommée dans le monde entier.",
+      "default_serving_name": "1 bol",
+      "search_index": ["riz", "riz blanc", "riz cuit"]
+    },
+    "food_egg_boiled": {
+      "name": "Œuf Dur",
+      "description": "Œuf de poule dur, une excellente source de protéines.",
+      "default_serving_name": "1 œuf",
+      "search_index": ["oeuf", "oeuf dur", "oeuf bouilli"]
+    },
+    "food_milk_whole": {
+      "name": "Lait Entier",
+      "description": "Lait entier frais.",
+      "default_serving_name": "1 verre",
+      "search_index": ["lait", "lait entier"]
+    },
+    "food_banana_raw": {
+      "name": "Banane",
+      "description": "Fruit tropical doux, riche en potassium et en énergie.",
+      "default_serving_name": "1 banane",
+      "search_index": ["banane", "fruit"]
+    },
+    "food_chapati_plain": {
+      "name": "Chapati / Roti",
+      "description": "Pain plat indien traditionnel au blé complet, cuit sans huile.",
+      "default_serving_name": "1 chapati",
+      "search_index": ["chapati", "roti", "pain indien"]
+    },
+    "food_chicken_breast_raw": {
+      "name": "Blanc de Poulet (Cru)",
+      "description": "Blanc de poulet cru, sans os et sans peau.",
+      "default_serving_name": "1 filet",
+      "search_index": ["poulet", "blanc de poulet", "poulet cru"]
+    },
+    "food_apple_raw": {
+      "name": "Pomme",
+      "description": "Pomme fraîche, douce et croquante.",
+      "default_serving_name": "1 pomme moyenne",
+      "search_index": ["pomme", "pomme rouge"]
+    },
+    "food_potato_raw": {
+      "name": "Pomme de Terre (Crue)",
+      "description": "Pomme de terre entière crue, avec la peau.",
+      "default_serving_name": "1 pomme de terre moyenne",
+      "search_index": ["pomme de terre", "patate"]
+    },
+    "food_tomato_raw": {
+      "name": "Tomate",
+      "description": "Tomate rouge fraîche et mûre.",
+      "default_serving_name": "1 tomate moyenne",
+      "search_index": ["tomate", "tomate fraîche"]
+    },
+    "food_onion_raw": {
+      "name": "Oignon",
+      "description": "Oignon cru utilisé comme base pour la cuisine et les salades.",
+      "default_serving_name": "1 oignon moyen",
+      "search_index": ["oignon", "oignon cru"]
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "locale": "bn",
+  "translations": {
+    "food_rice_white_boiled": {
+      "name": "সাদা ভাত",
+      "description": "নরম সেদ্ধ সাদা ভাত, যা বিশ্বজুড়ে খাওয়া হয়।",
+      "default_serving_name": "১ বাটি",
+      "search_index": ["bhaat", "ভাত", "sada bhaat"]
+    },
+    "food_egg_boiled": {
+      "name": "সেদ্ধ ডিম",
+      "description": "প্রোটিন সমৃদ্ধ সেদ্ধ মুরগির ডিম।",
+      "default_serving_name": "১টি ডিম",
+      "search_index": ["dim", "ডিম", "seddho dim", "dimer koshom"]
+    },
+    "food_milk_whole": {
+      "name": "দুধ (ফুল ক্রিম)",
+      "description": "তাজা ফুল ফ্যাট দুধ।",
+      "default_serving_name": "১ গ্লাস",
+      "search_index": ["dudh", "দুধ", "gorur dudh"]
+    },
+    "food_banana_raw": {
+      "name": "কলা",
+      "description": "পটাশিয়াম এবং শক্তিতে ভরপুর মিষ্টি হলুদ ফল।",
+      "default_serving_name": "১টি কলা",
+      "search_index": ["kola", "কলা", "paka kola"]
+    },
+    "food_chapati_plain": {
+      "name": "রুটি / চাপাতি",
+      "description": "তেল বা ঘি ছাড়া তৈরি ঐতিহ্যবাহী ভারতীয় গমের রুটি।",
+      "default_serving_name": "১টি রুটি",
+      "search_index": ["ruti", "রুটি", "chapati bengali"]
+    },
+    "food_chicken_breast_raw": {
+      "name": "মুরগির বুকের মাংস (কাঁচা)",
+      "description": "কাঁচা, হাড়বিহীন এবং চামড়াবিহীন মুরগির বুকের মাংস।",
+      "default_serving_name": "১ টুকরো",
+      "search_index": ["murgir mangsho", "মুরগির মাংস", "chicken bengali"]
+    },
+    "food_apple_raw": {
+      "name": "আপেল",
+      "description": "তাজা, মিষ্টি এবং মচমচে আপেল।",
+      "default_serving_name": "১টি মাঝারি আপেল",
+      "search_index": ["apel", "আপেল"]
+    },
+    "food_potato_raw": {
+      "name": "আলু (কাঁচা)",
+      "description": "কাঁচা এবং খোসাযুক্ত আস্ত আলু।",
+      "default_serving_name": "১টি মাঝারি আলু",
+      "search_index": ["alu", "আলু", "aloo bengali"]
+    },
+    "food_tomato_raw": {
+      "name": "টমেটো",
+      "description": "তাজা, পাকা লাল টমেটো।",
+      "default_serving_name": "১টি মাঝারি টমেটো",
+      "search_index": ["tomato", "টমেটো", "bilati begun"]
+    },
+    "food_onion_raw": {
+      "name": "পেঁয়াজ",
+      "description": "কাঁচা পেঁয়াজ যা রান্না এবং স্যালাডে ব্যবহৃত হয়।",
+      "default_serving_name": "১টি মাঝারি পেঁয়াজ",
+      "search_index": ["peyaj", "পেঁয়াজ", "piyaj"]
+    }
+  }
+}

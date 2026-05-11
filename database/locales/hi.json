@@ -1,0 +1,65 @@
+{
+  "locale": "hi",
+  "translations": {
+    "food_rice_white_boiled": {
+      "name": "सफेद चावल (उबले हुए)",
+      "description": "नरम उबले हुए सफेद चावल, दुनिया भर में खाया जाने वाला मुख्य भोजन।",
+      "default_serving_name": "1 कटोरी",
+      "search_index": ["chawal", "चावल", "safed chawal", "bhaat"]
+    },
+    "food_egg_boiled": {
+      "name": "उबला हुआ अंडा",
+      "description": "प्रोटीन से भरपूर उबला हुआ मुर्गी का अंडा।",
+      "default_serving_name": "1 अंडा",
+      "search_index": ["anda", "अंडा", "ubla anda", "boiled egg hindi"]
+    },
+    "food_milk_whole": {
+      "name": "फुल क्रीम दूध",
+      "description": "ताज़ा फुल फैट डेयरी दूध।",
+      "default_serving_name": "1 गिलास",
+      "search_index": ["doodh", "दूध", "full cream doodh", "milk hindi"]
+    },
+    "food_banana_raw": {
+      "name": "केला",
+      "description": "पोटैशियम और ऊर्जा से भरपूर मीठा पीला फल।",
+      "default_serving_name": "1 केला",
+      "search_index": ["kela", "केला", "banana hindi"]
+    },
+    "food_chapati_plain": {
+      "name": "चपाती / रोटी (सादी)",
+      "description": "बिना तेल या घी के बनी पारंपरिक भारतीय गेहूं की रोटी।",
+      "default_serving_name": "1 रोटी",
+      "search_index": ["roti", "रोटी", "chapati", "phulka", "fulka"]
+    },
+    "food_chicken_breast_raw": {
+      "name": "चिकन ब्रेस्ट (कच्चा)",
+      "description": "कच्चा, बिना हड्डी और बिना त्वचा वाला चिकन ब्रेस्ट।",
+      "default_serving_name": "1 पीस",
+      "search_index": ["chicken", "चिकन", "murga", "kaccha chicken"]
+    },
+    "food_apple_raw": {
+      "name": "सेब",
+      "description": "ताज़ा, मीठा और कुरकुरा सेब।",
+      "default_serving_name": "1 मध्यम सेब",
+      "search_index": ["seb", "सेब", "apple hindi"]
+    },
+    "food_potato_raw": {
+      "name": "आलू (कच्चा)",
+      "description": "कच्चा, छिलके वाला साबुत आलू।",
+      "default_serving_name": "1 मध्यम आलू",
+      "search_index": ["aloo", "आलू", "alu"]
+    },
+    "food_tomato_raw": {
+      "name": "टमाटर",
+      "description": "ताज़ा, पका हुआ लाल टमाटर।",
+      "default_serving_name": "1 मध्यम टमाटर",
+      "search_index": ["tamatar", "टमाटर", "tomato hindi"]
+    },
+    "food_onion_raw": {
+      "name": "प्याज़",
+      "description": "कच्चा प्याज़, खाना पकाने और सलाद के लिए इस्तेमाल होता है।",
+      "default_serving_name": "1 मध्यम प्याज़",
+      "search_index": ["pyaz", "प्याज़", "kanda", "onion hindi"]
+    }
+  }
+}

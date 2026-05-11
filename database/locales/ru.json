@@ -1,0 +1,65 @@
+{
+  "locale": "ru",
+  "translations": {
+    "food_rice_white_boiled": {
+      "name": "Белый рис (вареный)",
+      "description": "Мягкий вареный белый рис, основной продукт во всем мире.",
+      "default_serving_name": "1 тарелка",
+      "search_index": ["рис", "белый рис", "вареный рис"]
+    },
+    "food_egg_boiled": {
+      "name": "Вареное яйцо",
+      "description": "Сваренное вкрутую куриное яйцо, отличный источник белка.",
+      "default_serving_name": "1 яйцо",
+      "search_index": ["яйцо", "вареное яйцо", "вкрутую"]
+    },
+    "food_milk_whole": {
+      "name": "Цельное молоко",
+      "description": "Свежее цельное молоко.",
+      "default_serving_name": "1 стакан",
+      "search_index": ["молоко", "цельное молоко"]
+    },
+    "food_banana_raw": {
+      "name": "Банан",
+      "description": "Сладкий тропический желтый фрукт, богатый калием.",
+      "default_serving_name": "1 банан",
+      "search_index": ["банан", "фрукт"]
+    },
+    "food_chapati_plain": {
+      "name": "Чапати / Роти",
+      "description": "Традиционная индийская лепешка из цельнозерновой муки без масла.",
+      "default_serving_name": "1 чапати",
+      "search_index": ["чапати", "роти", "индийский хлеб"]
+    },
+    "food_chicken_breast_raw": {
+      "name": "Куриная грудка (сырая)",
+      "description": "Сырая куриная грудка без костей и кожи.",
+      "default_serving_name": "1 филе",
+      "search_index": ["курица", "куриная грудка", "сырая курица"]
+    },
+    "food_apple_raw": {
+      "name": "Яблоко",
+      "description": "Свежее, сладкое и хрустящее яблоко.",
+      "default_serving_name": "1 среднее яблоко",
+      "search_index": ["яблоко", "красное яблоко"]
+    },
+    "food_potato_raw": {
+      "name": "Картофель (сырой)",
+      "description": "Сырой неочищенный целый картофель.",
+      "default_serving_name": "1 средняя картофелина",
+      "search_index": ["картофель", "сырой картофель", "картошка"]
+    },
+    "food_tomato_raw": {
+      "name": "Помидор",
+      "description": "Свежий, спелый красный помидор.",
+      "default_serving_name": "1 средний помидор",
+      "search_index": ["помидор", "свежий помидор", "томат"]
+    },
+    "food_onion_raw": {
+      "name": "Лук",
+      "description": "Сырой лук, используемый как основа для готовки и салатов.",
+      "default_serving_name": "1 средняя луковица",
+      "search_index": ["лук", "сырой лук", "репчатый лук"]
+    }
+  }
+}

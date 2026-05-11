@@ -1,0 +1,65 @@
+{
+  "locale": "de",
+  "translations": {
+    "food_rice_white_boiled": {
+      "name": "Weißer Reis (gekocht)",
+      "description": "Weich gekochter weißer Reis, ein weltweit gegessenes Grundnahrungsmittel.",
+      "default_serving_name": "1 Schüssel",
+      "search_index": ["reis", "weißer reis", "gekochter reis"]
+    },
+    "food_egg_boiled": {
+      "name": "Gekochtes Ei",
+      "description": "Hartgekochtes Hühnerei, eine ausgezeichnete Proteinquelle.",
+      "default_serving_name": "1 Ei",
+      "search_index": ["ei", "gekochtes ei", "hartgekochtes ei"]
+    },
+    "food_milk_whole": {
+      "name": "Vollmilch",
+      "description": "Frische Vollmilch.",
+      "default_serving_name": "1 Glas",
+      "search_index": ["milch", "vollmilch", "kuhmilch"]
+    },
+    "food_banana_raw": {
+      "name": "Banane",
+      "description": "Süße tropische gelbe Frucht, reich an Kalium und Energie.",
+      "default_serving_name": "1 Banane",
+      "search_index": ["banane", "obst"]
+    },
+    "food_chapati_plain": {
+      "name": "Chapati / Roti",
+      "description": "Traditionelles indisches Vollkornfladenbrot, ohne Öl gebacken.",
+      "default_serving_name": "1 Chapati",
+      "search_index": ["chapati", "roti", "indisches brot"]
+    },
+    "food_chicken_breast_raw": {
+      "name": "Hähnchenbrust (roh)",
+      "description": "Rohe, knochenlose und hautlose Hähnchenbrust.",
+      "default_serving_name": "1 Filet",
+      "search_index": ["hähnchen", "hähnchenbrust", "rohes hähnchen"]
+    },
+    "food_apple_raw": {
+      "name": "Apfel",
+      "description": "Frischer, süßer und knackiger Apfel.",
+      "default_serving_name": "1 mittlerer Apfel",
+      "search_index": ["apfel", "roter apfel"]
+    },
+    "food_potato_raw": {
+      "name": "Kartoffel (roh)",
+      "description": "Rohe, ungeschälte ganze Kartoffel.",
+      "default_serving_name": "1 mittlere Kartoffel",
+      "search_index": ["kartoffel", "rohe kartoffel"]
+    },
+    "food_tomato_raw": {
+      "name": "Tomate",
+      "description": "Frische, reife rote Tomate.",
+      "default_serving_name": "1 mittlere Tomate",
+      "search_index": ["tomate", "frische tomate"]
+    },
+    "food_onion_raw": {
+      "name": "Zwiebel",
+      "description": "Rohe Zwiebel, verwendet als Basis für Kochen und Salate.",
+      "default_serving_name": "1 mittlere Zwiebel",
+      "search_index": ["zwiebel", "rohe zwiebel"]
+    }
+  }
+}

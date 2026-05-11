@@ -1,0 +1,530 @@
+{
+  "version": 1,
+  "metadata": {
+    "app": "Calories Tracker",
+    "database_version": "1.0.2",
+    "last_updated": "2026-05-11",
+    "default_language": "en",
+    "supported_languages": [
+      "en",
+      "hi",
+      "bn",
+      "es",
+      "fr",
+      "de",
+      "it",
+      "pt",
+      "ru",
+      "ja",
+      "ko",
+      "zh",
+      "ar"
+    ]
+  },
+  "foods": [
+    {
+      "serial": 1,
+      "id": "food_rice_white_boiled",
+      "category": "carbs",
+      "emoji": "🍚",
+      "image": {
+        "thumbnail": "https://cdn.caltrack.com/images/food_rice_white_boiled_thumb.jpg",
+        "medium": "https://cdn.caltrack.com/images/food_rice_white_boiled_med.jpg",
+        "high": "https://cdn.caltrack.com/images/food_rice_white_boiled_high.jpg",
+        "verified": false
+      },
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 130,
+        "protein": 2.7,
+        "carbs": 28.2,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 10,
+        "iron": 0.2,
+        "potassium": 35
+      },
+      "default_serving": { "grams": 150 },
+      "search_index": [
+        "rice",
+        "white rice",
+        "boiled rice",
+        "steamed rice",
+        "chawal",
+        "चावल",
+        "safed chawal",
+        "bhaat",
+        "sada bhaat",
+        "ভাত",
+        "arroz",
+        "arroz blanco",
+        "riz",
+        "weißer reis",
+        "riso",
+        "ご飯",
+        "白米",
+        "쌀밥",
+        "米饭",
+        "أرز أبيض"
+      ],
+      "regions": ["global"],
+      "tags": ["veg", "grain", "carbs"],
+      "is_verified": true,
+      "updatedAt": "2026-05-11"
+    },
+    {
+      "serial": 2,
+      "id": "food_egg_boiled",
+      "category": "protein",
+      "emoji": "🥚",
+      "image": {
+        "thumbnail": "https://cdn.caltrack.com/images/food_egg_boiled_thumb.jpg",
+        "medium": "https://cdn.caltrack.com/images/food_egg_boiled_med.jpg",
+        "high": "https://cdn.caltrack.com/images/food_egg_boiled_high.jpg",
+        "verified": false
+      },
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 155,
+        "protein": 13.0,
+        "carbs": 1.1,
+        "fat": 11.0
+      },
+      "micros": {
+        "cholesterol": 373,
+        "sodium": 124,
+        "calcium": 50,
+        "iron": 1.2,
+        "potassium": 126
+      },
+      "default_serving": { "grams": 50 },
+      "search_index": [
+        "egg",
+        "boiled egg",
+        "hard boiled egg",
+        "anda",
+        "अंडा",
+        "ubla anda",
+        "dim",
+        "ডিম",
+        "seddho dim",
+        "huevo",
+        "huevo duro",
+        "oeuf",
+        "oeuf dur",
+        "ei",
+        "gekochtes ei",
+        "uovo sodo",
+        "ovo cozido",
+        "яйцо",
+        "ゆで卵",
+        "삶은 계란",
+        "水煮蛋",
+        "بيض مسلوق"
+      ],
+      "regions": ["global"],
+      "tags": ["protein", "nonveg", "keto"],
+      "is_verified": true,
+      "updatedAt": "2026-05-11"
+    },
+    {
+      "serial": 3,
+      "id": "food_milk_whole",
+      "category": "dairy",
+      "emoji": "🥛",
+      "image": {
+        "thumbnail": "https://cdn.caltrack.com/images/food_milk_whole_thumb.jpg",
+        "medium": "https://cdn.caltrack.com/images/food_milk_whole_med.jpg",
+        "high": "https://cdn.caltrack.com/images/food_milk_whole_high.jpg",
+        "verified": false
+      },
+      "base": { "unit": "ml", "qty": 100 },
+      "nutrition": {
+        "calories": 61,
+        "protein": 3.2,
+        "carbs": 4.8,
+        "fat": 3.3
+      },
+      "micros": {
+        "cholesterol": 10,
+        "sodium": 44,
+        "calcium": 113,
+        "iron": 0.0,
+        "potassium": 150
+      },
+      "default_serving": { "grams": 250 },
+      "search_index": [
+        "milk",
+        "whole milk",
+        "full fat milk",
+        "doodh",
+        "दूध",
+        "dudh",
+        "দুধ",
+        "gorur dudh",
+        "leche",
+        "lait",
+        "milch",
+        "latte",
+        "leite",
+        "молоко",
+        "牛乳",
+        "우유",
+        "牛奶",
+        "حليب"
+      ],
+      "regions": ["global"],
+      "tags": ["dairy", "veg", "calcium"],
+      "is_verified": true,
+      "updatedAt": "2026-05-11"
+    },
+    {
+      "serial": 4,
+      "id": "food_banana_raw",
+      "category": "fruit",
+      "emoji": "🍌",
+      "image": {
+        "thumbnail": "https://cdn.caltrack.com/images/food_banana_raw_thumb.jpg",
+        "medium": "https://cdn.caltrack.com/images/food_banana_raw_med.jpg",
+        "high": "https://cdn.caltrack.com/images/food_banana_raw_high.jpg",
+        "verified": false
+      },
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 89,
+        "protein": 1.1,
+        "carbs": 22.8,
+        "fat": 0.3
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 5,
+        "iron": 0.3,
+        "potassium": 358
+      },
+      "default_serving": { "grams": 118 },
+      "search_index": [
+        "banana",
+        "fruit",
+        "kela",
+        "केला",
+        "kola",
+        "কলা",
+        "paka kola",
+        "plátano",
+        "banano",
+        "banane",
+        "mela",
+        "バナナ",
+        "바나나",
+        "香蕉",
+        "موز"
+      ],
+      "regions": ["global"],
+      "tags": ["fruit", "veg", "snack"],
+      "is_verified": true,
+      "updatedAt": "2026-05-11"
+    },
+    {
+      "serial": 5,
+      "id": "food_chapati_plain",
+      "category": "carbs",
+      "emoji": "🫓",
+      "image": {
+        "thumbnail": "https://cdn.caltrack.com/images/food_chapati_plain_thumb.jpg",
+        "medium": "https://cdn.caltrack.com/images/food_chapati_plain_med.jpg",
+        "high": "https://cdn.caltrack.com/images/food_chapati_plain_high.jpg",
+        "verified": false
+      },
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 297,
+        "protein": 9.0,
+        "carbs": 60.0,
+        "fat": 2.5
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 10,
+        "calcium": 25,
+        "iron": 2.8,
+        "potassium": 180
+      },
+      "default_serving": { "grams": 40 },
+      "search_index": [
+        "chapati",
+        "roti",
+        "phulka",
+        "indian flatbread",
+        "रोटी",
+        "fulka",
+        "ruti",
+        "রুটি",
+        "pan indio",
+        "チャパティ",
+        "ロティ",
+        "차파티",
+        "恰巴提",
+        "شاباتي"
+      ],
+      "regions": ["india"],
+      "tags": ["veg", "indian", "bread"],
+      "is_verified": true,
+      "updatedAt": "2026-05-11"
+    },
+    {
+      "serial": 6,
+      "id": "food_chicken_breast_raw",
+      "category": "protein",
+      "emoji": "🍗",
+      "image": {
+        "thumbnail": "https://cdn.caltrack.com/images/food_chicken_breast_raw_thumb.jpg",
+        "medium": "https://cdn.caltrack.com/images/food_chicken_breast_raw_med.jpg",
+        "high": "https://cdn.caltrack.com/images/food_chicken_breast_raw_high.jpg",
+        "verified": false
+      },
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 120,
+        "protein": 22.5,
+        "carbs": 0.0,
+        "fat": 2.6
+      },
+      "micros": {
+        "cholesterol": 73,
+        "sodium": 45,
+        "calcium": 11,
+        "iron": 0.4,
+        "potassium": 255
+      },
+      "default_serving": { "grams": 150 },
+      "search_index": [
+        "chicken",
+        "chicken breast",
+        "raw chicken",
+        "lean meat",
+        "चिकन",
+        "murga",
+        "kaccha chicken",
+        "murgir mangsho",
+        "মুরগির মাংস",
+        "pollo",
+        "pechuga de pollo",
+        "poulet",
+        "hähnchen",
+        "pollo crudo",
+        "frango",
+        "курица",
+        "鶏むね肉",
+        "닭가슴살",
+        "鸡胸肉",
+        "صدر دجاج"
+      ],
+      "regions": ["global"],
+      "tags": ["protein", "nonveg", "lean", "meat"],
+      "is_verified": true,
+      "updatedAt": "2026-05-11"
+    },
+    {
+      "serial": 7,
+      "id": "food_apple_raw",
+      "category": "fruit",
+      "emoji": "🍎",
+      "image": {
+        "thumbnail": "https://cdn.caltrack.com/images/food_apple_raw_thumb.jpg",
+        "medium": "https://cdn.caltrack.com/images/food_apple_raw_med.jpg",
+        "high": "https://cdn.caltrack.com/images/food_apple_raw_high.jpg",
+        "verified": false
+      },
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 52,
+        "protein": 0.3,
+        "carbs": 13.8,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 1,
+        "calcium": 6,
+        "iron": 0.1,
+        "potassium": 107
+      },
+      "default_serving": { "grams": 182 },
+      "search_index": [
+        "apple",
+        "red apple",
+        "seb",
+        "सेब",
+        "apel",
+        "আপেল",
+        "manzana",
+        "pomme",
+        "apfel",
+        "mela",
+        "maçã",
+        "яблоко",
+        "りんご",
+        "사과",
+        "苹果",
+        "تفاح"
+      ],
+      "regions": ["global"],
+      "tags": ["fruit", "veg", "snack"],
+      "is_verified": true,
+      "updatedAt": "2026-05-11"
+    },
+    {
+      "serial": 8,
+      "id": "food_potato_raw",
+      "category": "carbs",
+      "emoji": "🥔",
+      "image": {
+        "thumbnail": "https://cdn.caltrack.com/images/food_potato_raw_thumb.jpg",
+        "medium": "https://cdn.caltrack.com/images/food_potato_raw_med.jpg",
+        "high": "https://cdn.caltrack.com/images/food_potato_raw_high.jpg",
+        "verified": false
+      },
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 77,
+        "protein": 2.0,
+        "carbs": 17.5,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 6,
+        "calcium": 12,
+        "iron": 0.8,
+        "potassium": 421
+      },
+      "default_serving": { "grams": 150 },
+      "search_index": [
+        "potato",
+        "raw potato",
+        "spud",
+        "aloo",
+        "आलू",
+        "alu",
+        "আলু",
+        "papa",
+        "patata",
+        "pomme de terre",
+        "kartoffel",
+        "patata cruda",
+        "картофель",
+        "じゃがいも",
+        "감자",
+        "土豆",
+        "بطاطس"
+      ],
+      "regions": ["global"],
+      "tags": ["veg", "root", "carbs"],
+      "is_verified": true,
+      "updatedAt": "2026-05-11"
+    },
+    {
+      "serial": 9,
+      "id": "food_tomato_raw",
+      "category": "veg",
+      "emoji": "🍅",
+      "image": {
+        "thumbnail": "https://cdn.caltrack.com/images/food_tomato_raw_thumb.jpg",
+        "medium": "https://cdn.caltrack.com/images/food_tomato_raw_med.jpg",
+        "high": "https://cdn.caltrack.com/images/food_tomato_raw_high.jpg",
+        "verified": false
+      },
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 18,
+        "protein": 0.9,
+        "carbs": 3.9,
+        "fat": 0.2
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 5,
+        "calcium": 10,
+        "iron": 0.3,
+        "potassium": 237
+      },
+      "default_serving": { "grams": 123 },
+      "search_index": [
+        "tomato",
+        "fresh tomato",
+        "tamatar",
+        "टमाटर",
+        "টমেটো",
+        "bilati begun",
+        "tomate",
+        "jitomate",
+        "pomodoro",
+        "помидор",
+        "トマト",
+        "토마토",
+        "西红柿",
+        "طماطم"
+      ],
+      "regions": ["global"],
+      "tags": ["veg", "salad", "low_calorie"],
+      "is_verified": true,
+      "updatedAt": "2026-05-11"
+    },
+    {
+      "serial": 10,
+      "id": "food_onion_raw",
+      "category": "veg",
+      "emoji": "🧅",
+      "image": {
+        "thumbnail": "https://cdn.caltrack.com/images/food_onion_raw_thumb.jpg",
+        "medium": "https://cdn.caltrack.com/images/food_onion_raw_med.jpg",
+        "high": "https://cdn.caltrack.com/images/food_onion_raw_high.jpg",
+        "verified": false
+      },
+      "base": { "unit": "g", "qty": 100 },
+      "nutrition": {
+        "calories": 40,
+        "protein": 1.1,
+        "carbs": 9.3,
+        "fat": 0.1
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 4,
+        "calcium": 23,
+        "iron": 0.2,
+        "potassium": 146
+      },
+      "default_serving": { "grams": 110 },
+      "search_index": [
+        "onion",
+        "raw onion",
+        "red onion",
+        "pyaz",
+        "प्याज़",
+        "kanda",
+        "peyaj",
+        "পেঁয়াজ",
+        "piyaj",
+        "cebolla",
+        "oignon",
+        "zwiebel",
+        "cipolla",
+        "лук",
+        "玉ねぎ",
+        "양파",
+        "洋葱",
+        "بصل"
+      ],
+      "regions": ["global"],
+      "tags": ["veg", "base", "salad"],
+      "is_verified": true,
+      "updatedAt": "2026-05-11"
+    }
+  ]
+}
