@@ -1,0 +1,567 @@
+{
+  "metadata": {
+    "version": 3,
+    "updated_at": "2026-06-07"
+  },
+  "activities": [
+    {
+      "id": 1,
+      "slug": "running_fast",
+      "name": "Running (Fast / 10 kmph)",
+      "unit": "min",
+      "met": 9.8,
+      "category": "cardio"
+    },
+    {
+      "id": 2,
+      "slug": "jogging",
+      "name": "Jogging (Slow Pace)",
+      "unit": "min",
+      "met": 7.0,
+      "category": "cardio"
+    },
+    {
+      "id": 3,
+      "slug": "walking_brisk",
+      "name": "Brisk Walking",
+      "unit": "min",
+      "met": 4.3,
+      "category": "cardio"
+    },
+    {
+      "id": 4,
+      "slug": "walking_steps",
+      "name": "Daily Walking",
+      "unit": "steps",
+      "met": 3.0,
+      "category": "daily_living"
+    },
+    {
+      "id": 5,
+      "slug": "climbing_stairs",
+      "name": "Climbing Stairs",
+      "unit": "min",
+      "met": 8.0,
+      "category": "cardio"
+    },
+    {
+      "id": 6,
+      "slug": "pushups",
+      "name": "Push-ups",
+      "unit": "reps",
+      "met": 3.8,
+      "category": "strength"
+    },
+    {
+      "id": 7,
+      "slug": "cycling",
+      "name": "Cycling (Moderate)",
+      "unit": "min",
+      "met": 7.5,
+      "category": "cardio"
+    },
+    {
+      "id": 8,
+      "slug": "swimming",
+      "name": "Swimming (Freestyle)",
+      "unit": "min",
+      "met": 8.3,
+      "category": "cardio"
+    },
+    {
+      "id": 9,
+      "slug": "jump_rope",
+      "name": "Jump Rope",
+      "unit": "min",
+      "met": 11.0,
+      "category": "cardio"
+    },
+    {
+      "id": 10,
+      "slug": "weightlifting",
+      "name": "Weightlifting (General)",
+      "unit": "min",
+      "met": 3.0,
+      "category": "strength"
+    },
+    {
+      "id": 11,
+      "slug": "squats",
+      "name": "Squats",
+      "unit": "reps",
+      "met": 5.0,
+      "category": "strength"
+    },
+    {
+      "id": 12,
+      "slug": "pullups",
+      "name": "Pull-ups",
+      "unit": "reps",
+      "met": 8.0,
+      "category": "strength"
+    },
+    {
+      "id": 13,
+      "slug": "situps",
+      "name": "Sit-ups / Crunches",
+      "unit": "reps",
+      "met": 3.8,
+      "category": "strength"
+    },
+    {
+      "id": 14,
+      "slug": "plank",
+      "name": "Plank",
+      "unit": "sec",
+      "met": 3.3,
+      "category": "strength"
+    },
+    {
+      "id": 15,
+      "slug": "yoga",
+      "name": "Yoga",
+      "unit": "min",
+      "met": 2.5,
+      "category": "flexibility"
+    },
+    {
+      "id": 16,
+      "slug": "stretching",
+      "name": "Stretching",
+      "unit": "min",
+      "met": 2.3,
+      "category": "flexibility"
+    },
+    {
+      "id": 17,
+      "slug": "hiit",
+      "name": "HIIT",
+      "unit": "min",
+      "met": 8.0,
+      "category": "cardio"
+    },
+    {
+      "id": 18,
+      "slug": "cricket",
+      "name": "Cricket",
+      "unit": "min",
+      "met": 5.0,
+      "category": "sports"
+    },
+    {
+      "id": 19,
+      "slug": "football",
+      "name": "Football (Soccer)",
+      "unit": "min",
+      "met": 7.0,
+      "category": "sports"
+    },
+    {
+      "id": 20,
+      "slug": "badminton",
+      "name": "Badminton",
+      "unit": "min",
+      "met": 5.5,
+      "category": "sports"
+    },
+    {
+      "id": 21,
+      "slug": "washing_clothes_hand",
+      "name": "Washing Clothes (By Hand)",
+      "unit": "min",
+      "met": 2.0,
+      "category": "household"
+    },
+    {
+      "id": 22,
+      "slug": "sweeping_floor",
+      "name": "Sweeping Floor (Jhadu)",
+      "unit": "min",
+      "met": 2.3,
+      "category": "household"
+    },
+    {
+      "id": 23,
+      "slug": "mopping_floor",
+      "name": "Mopping Floor (Pocha)",
+      "unit": "min",
+      "met": 3.5,
+      "category": "household"
+    },
+    {
+      "id": 24,
+      "slug": "cooking",
+      "name": "Cooking / Food Prep",
+      "unit": "min",
+      "met": 2.0,
+      "category": "household"
+    },
+    {
+      "id": 25,
+      "slug": "washing_dishes",
+      "name": "Washing Dishes",
+      "unit": "min",
+      "met": 1.8,
+      "category": "household"
+    },
+    {
+      "id": 26,
+      "slug": "cleaning_house",
+      "name": "General House Cleaning",
+      "unit": "min",
+      "met": 3.0,
+      "category": "household"
+    },
+    {
+      "id": 27,
+      "slug": "gardening",
+      "name": "Gardening",
+      "unit": "min",
+      "met": 3.8,
+      "category": "household"
+    },
+    {
+      "id": 28,
+      "slug": "farming_agriculture",
+      "name": "Farming / Field Work",
+      "unit": "min",
+      "met": 4.5,
+      "category": "daily_living"
+    },
+    {
+      "id": 29,
+      "slug": "driving",
+      "name": "Driving (Car / Two-Wheeler)",
+      "unit": "min",
+      "met": 1.5,
+      "category": "daily_living"
+    },
+    {
+      "id": 30,
+      "slug": "standing_desk",
+      "name": "Standing Work",
+      "unit": "min",
+      "met": 1.5,
+      "category": "daily_living"
+    },
+    {
+      "id": 31,
+      "slug": "dancing",
+      "name": "Dancing (General)",
+      "unit": "min",
+      "met": 4.5,
+      "category": "cardio"
+    },
+    {
+      "id": 32,
+      "slug": "zumba",
+      "name": "Zumba",
+      "unit": "min",
+      "met": 6.5,
+      "category": "cardio"
+    },
+    {
+      "id": 33,
+      "slug": "treadmill_walking",
+      "name": "Treadmill (Walking)",
+      "unit": "min",
+      "met": 4.0,
+      "category": "cardio"
+    },
+    {
+      "id": 34,
+      "slug": "treadmill_running",
+      "name": "Treadmill (Running)",
+      "unit": "min",
+      "met": 9.0,
+      "category": "cardio"
+    },
+    {
+      "id": 35,
+      "slug": "carrying_groceries",
+      "name": "Carrying Groceries",
+      "unit": "min",
+      "met": 3.0,
+      "category": "daily_living"
+    },
+    {
+      "id": 36,
+      "slug": "playing_with_kids",
+      "name": "Playing with Kids (Active)",
+      "unit": "min",
+      "met": 3.5,
+      "category": "daily_living"
+    },
+    {
+      "id": 37,
+      "slug": "volleyball",
+      "name": "Volleyball",
+      "unit": "min",
+      "met": 4.0,
+      "category": "sports"
+    },
+    {
+      "id": 38,
+      "slug": "tennis",
+      "name": "Tennis",
+      "unit": "min",
+      "met": 7.3,
+      "category": "sports"
+    },
+    {
+      "id": 39,
+      "slug": "meditation",
+      "name": "Meditation / Sitting",
+      "unit": "min",
+      "met": 1.0,
+      "category": "daily_living"
+    },
+    {
+      "id": 40,
+      "slug": "sleeping",
+      "name": "Sleeping",
+      "unit": "min",
+      "met": 0.9,
+      "category": "daily_living"
+    },{
+    "id": 41,
+    "slug": "burpees",
+    "name": "Burpees",
+    "unit": "reps",
+    "met": 8.0,
+    "category": "cardio"
+  },
+  {
+    "id": 42,
+    "slug": "jumping_jacks",
+    "name": "Jumping Jacks",
+    "unit": "min",
+    "met": 8.0,
+    "category": "cardio"
+  },
+  {
+    "id": 43,
+    "slug": "mountain_climbers",
+    "name": "Mountain Climbers",
+    "unit": "min",
+    "met": 8.0,
+    "category": "cardio"
+  },
+  {
+    "id": 44,
+    "slug": "lunges",
+    "name": "Lunges",
+    "unit": "reps",
+    "met": 4.0,
+    "category": "strength"
+  },
+  {
+    "id": 45,
+    "slug": "bench_press",
+    "name": "Bench Press",
+    "unit": "min",
+    "met": 6.0,
+    "category": "strength"
+  },
+  {
+    "id": 46,
+    "slug": "deadlift",
+    "name": "Deadlift",
+    "unit": "min",
+    "met": 6.0,
+    "category": "strength"
+  },
+  {
+    "id": 47,
+    "slug": "bicep_curls",
+    "name": "Bicep Curls",
+    "unit": "reps",
+    "met": 3.0,
+    "category": "strength"
+  },
+  {
+    "id": 48,
+    "slug": "tricep_dips",
+    "name": "Tricep Dips",
+    "unit": "reps",
+    "met": 3.5,
+    "category": "strength"
+  },
+  {
+    "id": 49,
+    "slug": "rowing_machine",
+    "name": "Rowing Machine",
+    "unit": "min",
+    "met": 7.0,
+    "category": "cardio"
+  },
+  {
+    "id": 50,
+    "slug": "stair_master",
+    "name": "Stair Machine / Stairmaster",
+    "unit": "min",
+    "met": 9.0,
+    "category": "cardio"
+  },
+  {
+    "id": 51,
+    "slug": "stationary_cycling",
+    "name": "Stationary Cycling / Spin Class",
+    "unit": "min",
+    "met": 8.5,
+    "category": "cardio"
+  },
+  {
+    "id": 52,
+    "slug": "hiking",
+    "name": "Hiking (Cross-Country)",
+    "unit": "min",
+    "met": 6.0,
+    "category": "cardio"
+  },
+  {
+    "id": 53,
+    "slug": "boxing_punching_bag",
+    "name": "Boxing (Punching Bag)",
+    "unit": "min",
+    "met": 5.5,
+    "category": "cardio"
+  },
+  {
+    "id": 54,
+    "slug": "boxing_sparring",
+    "name": "Boxing (Sparring)",
+    "unit": "min",
+    "met": 7.8,
+    "category": "sports"
+  },
+  {
+    "id": 55,
+    "slug": "kabaddi",
+    "name": "Kabaddi",
+    "unit": "min",
+    "met": 7.0,
+    "category": "sports"
+  },
+  {
+    "id": 56,
+    "slug": "table_tennis",
+    "name": "Table Tennis / Ping Pong",
+    "unit": "min",
+    "met": 4.0,
+    "category": "sports"
+  },
+  {
+    "id": 57,
+    "slug": "swimming_leisure",
+    "name": "Swimming (Leisure/Light)",
+    "unit": "min",
+    "met": 6.0,
+    "category": "cardio"
+  },
+  {
+    "id": 58,
+    "slug": "calisthenics",
+    "name": "Calisthenics (Bodyweight Workout)",
+    "unit": "min",
+    "met": 4.5,
+    "category": "strength"
+  },
+  {
+    "id": 59,
+    "slug": "kettlebell_swings",
+    "name": "Kettlebell Swings",
+    "unit": "min",
+    "met": 8.0,
+    "category": "strength"
+  },
+  {
+    "id": 60,
+    "slug": "leg_press",
+    "name": "Leg Press",
+    "unit": "reps",
+    "met": 4.0,
+    "category": "strength"
+  },
+  {
+    "id": 61,
+    "slug": "walking_the_dog",
+    "name": "Walking the Dog",
+    "unit": "min",
+    "met": 3.0,
+    "category": "daily_living"
+  },
+  {
+    "id": 62,
+    "slug": "shopping_walking",
+    "name": "Shopping (Walking around)",
+    "unit": "min",
+    "met": 2.3,
+    "category": "daily_living"
+  },
+  {
+    "id": 63,
+    "slug": "ironing_clothes",
+    "name": "Ironing Clothes",
+    "unit": "min",
+    "met": 1.8,
+    "category": "household"
+  },
+  {
+    "id": 64,
+    "slug": "washing_car",
+    "name": "Washing / Detailing Car",
+    "unit": "min",
+    "met": 3.5,
+    "category": "household"
+  },
+  {
+    "id": 65,
+    "slug": "rearranging_furniture",
+    "name": "Moving / Rearranging Furniture",
+    "unit": "min",
+    "met": 6.0,
+    "category": "household"
+  },
+  {
+    "id": 66,
+    "slug": "dusting_light_cleaning",
+    "name": "Dusting & Light Cleaning",
+    "unit": "min",
+    "met": 2.0,
+    "category": "household"
+  },
+  {
+    "id": 67,
+    "slug": "shoveling_digging",
+    "name": "Shoveling / Soil Digging",
+    "unit": "min",
+    "met": 5.0,
+    "category": "household"
+  },
+  {
+    "id": 68,
+    "slug": "rock_climbing",
+    "name": "Rock Climbing",
+    "unit": "min",
+    "met": 7.5,
+    "category": "sports"
+  },
+  {
+    "id": 69,
+    "slug": "skateboarding",
+    "name": "Skateboarding",
+    "unit": "min",
+    "met": 5.0,
+    "category": "sports"
+  },
+  {
+    "id": 70,
+    "slug": "martial_arts",
+    "name": "Martial Arts (Karate/Taekwondo)",
+    "unit": "min",
+    "met": 10.3,
+    "category": "sports"
+  }
+  ]
+}
