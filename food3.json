@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 17,
   "foods": [
     {
       "serial": 1,
@@ -8,9 +8,9 @@
       "brand": null,
       "category": "sides",
       "emoji": "🥗",
-      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/aloogobi_1792750978162.webp",
-      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/aloogobi_1792750978162.webp",
-      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/aloogobi_1792750978162.webp",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/aloogobi_1792750978162.webp?v=1792758518379",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/aloogobi_1792750978162.webp?v=1792758518379",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/aloogobi_1792750978162.webp?v=1792758518379",
       "description": "Fresh authentic Aloo Gobi.",
       "health_note": "Nutrient-rich staple food.",
       "prep_note": "Standard preparation.",
@@ -121,14 +121,132 @@
     },
     {
       "serial": 2,
+      "id": "food_butterchicken_1792767482577",
+      "name": "Butter Chicken",
+      "brand": null,
+      "category": "protein",
+      "emoji": "🥗",
+      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQrTj2Tmxw9DlrSQX32z1chxYLxS80Js40ji8xcgZ0SCmNqr32OfjhbwqcpTb3TBIg8Z9MmynGkliyeZC4",
+      "image_url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQrTj2Tmxw9DlrSQX32z1chxYLxS80Js40ji8xcgZ0SCmNqr32OfjhbwqcpTb3TBIg8Z9MmynGkliyeZC4",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQrTj2Tmxw9DlrSQX32z1chxYLxS80Js40ji8xcgZ0SCmNqr32OfjhbwqcpTb3TBIg8Z9MmynGkliyeZC4",
+      "description": "Fresh authentic Butter Chicken.",
+      "health_note": "Nutrient-rich staple food.",
+      "prep_note": "Standard preparation.",
+      "barcodes": [],
+      "barcode": null,
+      "base": {
+        "unit": "g",
+        "qty": 100
+      },
+      "default_state": "cooked",
+      "nutrition": {
+        "calories": 175,
+        "protein": 14,
+        "carbs": 4.5,
+        "fat": 11,
+        "fiber": 1,
+        "sugar": 2,
+        "net_carbs": 3.5,
+        "saturated_fat": 0,
+        "trans_fat": 0,
+        "polyunsaturated_fat": 0,
+        "monounsaturated_fat": 0
+      },
+      "nutrition_per_100g": {
+        "calories": 175,
+        "protein": 14,
+        "carbs": 4.5,
+        "fat": 11,
+        "dietary_fiber": 1,
+        "sugar": 2,
+        "net_carbs": 3.5,
+        "fats": {
+          "saturated": 0,
+          "monounsaturated": 0,
+          "polyunsaturated": 0,
+          "trans": 0,
+          "cholesterol_mg": 0
+        },
+        "minerals": {
+          "sodium_mg": 380,
+          "potassium_mg": 220,
+          "calcium_mg": 40,
+          "iron_mg": 1,
+          "magnesium_mg": 0,
+          "phosphorus_mg": 0,
+          "zinc_mg": 0,
+          "copper_mg": 0,
+          "manganese_mg": 0,
+          "selenium_mcg": 0
+        },
+        "vitamins": {}
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 380,
+        "potassium": 220,
+        "calcium": 40,
+        "iron": 1,
+        "magnesium": 0,
+        "phosphorus": 0,
+        "zinc": 0,
+        "selenium": 0,
+        "copper": 0,
+        "manganese": 0,
+        "vitamin_a": 0,
+        "vitamin_c": 0,
+        "vitamin_d": 0,
+        "vitamin_b12": 0,
+        "vitamin_b6": 0,
+        "folate": 0
+      },
+      "vitamins": {},
+      "allergens": [],
+      "tags": [],
+      "searchTerms": [
+        "butter chicken",
+        "protein"
+      ],
+      "search_terms": [
+        "butter chicken",
+        "protein"
+      ],
+      "servings": [
+        {
+          "id": "srv_g",
+          "name": "1 gram",
+          "amount": 1,
+          "unit": "g",
+          "grams": 1,
+          "weight_grams": 1,
+          "type": "weight",
+          "is_default": false
+        },
+        {
+          "id": "srv_100g",
+          "name": "100 g",
+          "amount": 1,
+          "unit": "g",
+          "grams": 100,
+          "weight_grams": 100,
+          "type": "weight",
+          "is_default": true
+        }
+      ],
+      "default_serving_id": "srv_g",
+      "is_verified": true,
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "serial": 3,
       "id": "food_chickenbiryani_1792750978161",
       "name": "Chicken Biryani",
       "brand": null,
       "category": "mixed",
       "emoji": "🥗",
-      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/chickenbiryani_1792750978161.webp",
-      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/chickenbiryani_1792750978161.webp",
-      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/chickenbiryani_1792750978161.webp",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/chickenbiryani_1792750978161.webp?v=1792766803298",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/chickenbiryani_1792750978161.webp?v=1792766803298",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/chickenbiryani_1792750978161.webp?v=1792766803298",
       "description": "Fresh authentic Chicken Biryani.",
       "health_note": "Nutrient-rich staple food.",
       "prep_note": "Standard preparation.",
@@ -238,15 +356,359 @@
       "updatedAt": "2026-10-23"
     },
     {
-      "serial": 3,
+      "serial": 4,
+      "id": "food_cholemasala_1792767482578",
+      "name": "Chole Masala",
+      "brand": null,
+      "category": "protein",
+      "emoji": "🥗",
+      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcReewHUDtrlU-QN1xNl_nUTveq8FfPM2_-iXoNVCEsWKKErDjMSMGm6Ng54g4dCxTznqJE2b2Czo7BdOK4",
+      "image_url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcReewHUDtrlU-QN1xNl_nUTveq8FfPM2_-iXoNVCEsWKKErDjMSMGm6Ng54g4dCxTznqJE2b2Czo7BdOK4",
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcReewHUDtrlU-QN1xNl_nUTveq8FfPM2_-iXoNVCEsWKKErDjMSMGm6Ng54g4dCxTznqJE2b2Czo7BdOK4",
+      "description": "Fresh authentic Chole Masala.",
+      "health_note": "Nutrient-rich staple food.",
+      "prep_note": "Standard preparation.",
+      "barcodes": [],
+      "barcode": null,
+      "base": {
+        "unit": "g",
+        "qty": 100
+      },
+      "default_state": "cooked",
+      "nutrition": {
+        "calories": 135,
+        "protein": 6.5,
+        "carbs": 20,
+        "fat": 4,
+        "fiber": 6,
+        "sugar": 2.5,
+        "net_carbs": 14,
+        "saturated_fat": 0,
+        "trans_fat": 0,
+        "polyunsaturated_fat": 0,
+        "monounsaturated_fat": 0
+      },
+      "nutrition_per_100g": {
+        "calories": 135,
+        "protein": 6.5,
+        "carbs": 20,
+        "fat": 4,
+        "dietary_fiber": 6,
+        "sugar": 2.5,
+        "net_carbs": 14,
+        "fats": {
+          "saturated": 0,
+          "monounsaturated": 0,
+          "polyunsaturated": 0,
+          "trans": 0,
+          "cholesterol_mg": 0
+        },
+        "minerals": {
+          "sodium_mg": 290,
+          "potassium_mg": 250,
+          "calcium_mg": 45,
+          "iron_mg": 2.2,
+          "magnesium_mg": 0,
+          "phosphorus_mg": 0,
+          "zinc_mg": 0,
+          "copper_mg": 0,
+          "manganese_mg": 0,
+          "selenium_mcg": 0
+        },
+        "vitamins": {}
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 290,
+        "potassium": 250,
+        "calcium": 45,
+        "iron": 2.2,
+        "magnesium": 0,
+        "phosphorus": 0,
+        "zinc": 0,
+        "selenium": 0,
+        "copper": 0,
+        "manganese": 0,
+        "vitamin_a": 0,
+        "vitamin_c": 0,
+        "vitamin_d": 0,
+        "vitamin_b12": 0,
+        "vitamin_b6": 0,
+        "folate": 0
+      },
+      "vitamins": {},
+      "allergens": [],
+      "tags": [],
+      "searchTerms": [
+        "chole masala",
+        "protein"
+      ],
+      "search_terms": [
+        "chole masala",
+        "protein"
+      ],
+      "servings": [
+        {
+          "id": "srv_g",
+          "name": "1 gram",
+          "amount": 1,
+          "unit": "g",
+          "grams": 1,
+          "weight_grams": 1,
+          "type": "weight",
+          "is_default": false
+        },
+        {
+          "id": "srv_100g",
+          "name": "100 g",
+          "amount": 1,
+          "unit": "g",
+          "grams": 100,
+          "weight_grams": 100,
+          "type": "weight",
+          "is_default": true
+        }
+      ],
+      "default_serving_id": "srv_g",
+      "is_verified": true,
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "serial": 5,
+      "id": "food_garlicnaan_1792767482579",
+      "name": "Garlic Naan",
+      "brand": null,
+      "category": "carbs",
+      "emoji": "🥗",
+      "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcS5pQWnXop25I6l8nfNK5SGyM49arAwx6qNtzZkWxybpYsRr09Xkv9ZOEKdEUVPxWN5DmpPWtYq25vDRm8",
+      "image_url": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcS5pQWnXop25I6l8nfNK5SGyM49arAwx6qNtzZkWxybpYsRr09Xkv9ZOEKdEUVPxWN5DmpPWtYq25vDRm8",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcS5pQWnXop25I6l8nfNK5SGyM49arAwx6qNtzZkWxybpYsRr09Xkv9ZOEKdEUVPxWN5DmpPWtYq25vDRm8",
+      "description": "Fresh authentic Garlic Naan.",
+      "health_note": "Energy-dense complex carbohydrate.",
+      "prep_note": "Standard preparation.",
+      "barcodes": [],
+      "barcode": null,
+      "base": {
+        "unit": "g",
+        "qty": 100
+      },
+      "default_state": "cooked",
+      "nutrition": {
+        "calories": 295,
+        "protein": 9,
+        "carbs": 50,
+        "fat": 6.5,
+        "fiber": 2.5,
+        "sugar": 2,
+        "net_carbs": 47.5,
+        "saturated_fat": 0,
+        "trans_fat": 0,
+        "polyunsaturated_fat": 0,
+        "monounsaturated_fat": 0
+      },
+      "nutrition_per_100g": {
+        "calories": 295,
+        "protein": 9,
+        "carbs": 50,
+        "fat": 6.5,
+        "dietary_fiber": 2.5,
+        "sugar": 2,
+        "net_carbs": 47.5,
+        "fats": {
+          "saturated": 0,
+          "monounsaturated": 0,
+          "polyunsaturated": 0,
+          "trans": 0,
+          "cholesterol_mg": 0
+        },
+        "minerals": {
+          "sodium_mg": 340,
+          "potassium_mg": 120,
+          "calcium_mg": 60,
+          "iron_mg": 2.8,
+          "magnesium_mg": 0,
+          "phosphorus_mg": 0,
+          "zinc_mg": 0,
+          "copper_mg": 0,
+          "manganese_mg": 0,
+          "selenium_mcg": 0
+        },
+        "vitamins": {}
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 340,
+        "potassium": 120,
+        "calcium": 60,
+        "iron": 2.8,
+        "magnesium": 0,
+        "phosphorus": 0,
+        "zinc": 0,
+        "selenium": 0,
+        "copper": 0,
+        "manganese": 0,
+        "vitamin_a": 0,
+        "vitamin_c": 0,
+        "vitamin_d": 0,
+        "vitamin_b12": 0,
+        "vitamin_b6": 0,
+        "folate": 0
+      },
+      "vitamins": {},
+      "allergens": [],
+      "tags": [],
+      "searchTerms": [
+        "garlic naan",
+        "carbs"
+      ],
+      "search_terms": [
+        "garlic naan",
+        "carbs"
+      ],
+      "servings": [
+        {
+          "id": "srv_naan",
+          "name": "1 naan (90g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 90,
+          "weight_grams": 90,
+          "type": "portion",
+          "is_default": true
+        }
+      ],
+      "default_serving_id": "srv_naan",
+      "is_verified": true,
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "serial": 6,
+      "id": "food_gulabjamun_1792767482581",
+      "name": "Gulab Jamun",
+      "brand": null,
+      "category": "dessert",
+      "emoji": "🥗",
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSV-X_XzCnHxze0Ia3wZCby-Qzx-uFR0-8pdth_ajVZVGHgdUzcoTVoAAfevZ6gElSDr9WOHw-mc7GSUVs",
+      "image_url": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSV-X_XzCnHxze0Ia3wZCby-Qzx-uFR0-8pdth_ajVZVGHgdUzcoTVoAAfevZ6gElSDr9WOHw-mc7GSUVs",
+      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSV-X_XzCnHxze0Ia3wZCby-Qzx-uFR0-8pdth_ajVZVGHgdUzcoTVoAAfevZ6gElSDr9WOHw-mc7GSUVs",
+      "description": "Fresh authentic Gulab Jamun.",
+      "health_note": "Energy-dense complex carbohydrate.",
+      "prep_note": "Standard preparation.",
+      "barcodes": [],
+      "barcode": null,
+      "base": {
+        "unit": "g",
+        "qty": 100
+      },
+      "default_state": "cooked",
+      "nutrition": {
+        "calories": 325,
+        "protein": 4.5,
+        "carbs": 58,
+        "fat": 9,
+        "fiber": 0.5,
+        "sugar": 45,
+        "net_carbs": 57.5,
+        "saturated_fat": 0,
+        "trans_fat": 0,
+        "polyunsaturated_fat": 0,
+        "monounsaturated_fat": 0
+      },
+      "nutrition_per_100g": {
+        "calories": 325,
+        "protein": 4.5,
+        "carbs": 58,
+        "fat": 9,
+        "dietary_fiber": 0.5,
+        "sugar": 45,
+        "net_carbs": 57.5,
+        "fats": {
+          "saturated": 0,
+          "monounsaturated": 0,
+          "polyunsaturated": 0,
+          "trans": 0,
+          "cholesterol_mg": 0
+        },
+        "minerals": {
+          "sodium_mg": 45,
+          "potassium_mg": 110,
+          "calcium_mg": 95,
+          "iron_mg": 0.8,
+          "magnesium_mg": 0,
+          "phosphorus_mg": 0,
+          "zinc_mg": 0,
+          "copper_mg": 0,
+          "manganese_mg": 0,
+          "selenium_mcg": 0
+        },
+        "vitamins": {}
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 45,
+        "potassium": 110,
+        "calcium": 95,
+        "iron": 0.8,
+        "magnesium": 0,
+        "phosphorus": 0,
+        "zinc": 0,
+        "selenium": 0,
+        "copper": 0,
+        "manganese": 0,
+        "vitamin_a": 0,
+        "vitamin_c": 0,
+        "vitamin_d": 0,
+        "vitamin_b12": 0,
+        "vitamin_b6": 0,
+        "folate": 0
+      },
+      "vitamins": {},
+      "allergens": [],
+      "tags": [],
+      "searchTerms": [
+        "gulab jamun",
+        "dessert"
+      ],
+      "search_terms": [
+        "gulab jamun",
+        "dessert"
+      ],
+      "servings": [
+        {
+          "id": "srv_pc",
+          "name": "1 piece (40g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 40,
+          "weight_grams": 40,
+          "type": "portion",
+          "is_default": true
+        },
+        {
+          "id": "srv_100g",
+          "name": "100 g",
+          "amount": 1,
+          "unit": "weight",
+          "grams": 100,
+          "weight_grams": 100,
+          "type": "weight",
+          "is_default": false
+        }
+      ],
+      "default_serving_id": "srv_pc",
+      "is_verified": true,
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "serial": 7,
       "id": "food_palakpaneer_1792750978160",
       "name": "Palak Paneer",
       "brand": null,
       "category": "protein",
       "emoji": "🥗",
-      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/palakpaneer_1792750978160.webp",
-      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/palakpaneer_1792750978160.webp",
-      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/palakpaneer_1792750978160.webp",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/palakpaneer_1792750978160.webp?v=1792754438804",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/palakpaneer_1792750978160.webp?v=1792754438804",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/palakpaneer_1792750978160.webp?v=1792754438804",
       "description": "Fresh authentic Palak Paneer.",
       "health_note": "Nutrient-rich staple food.",
       "prep_note": "Standard preparation.",
@@ -331,40 +793,40 @@
       ],
       "servings": [
         {
-          "id": "srv_katori",
-          "name": "1 small katori (150g)",
+          "id": "srv_g",
+          "name": "1 gram",
           "amount": 1,
-          "unit": "portion",
-          "grams": 150,
-          "weight_grams": 150,
-          "type": "portion",
-          "is_default": true
+          "unit": "g",
+          "grams": 1,
+          "weight_grams": 1,
+          "type": "weight",
+          "is_default": false
         },
         {
-          "id": "srv_bowl",
-          "name": "1 standard bowl (250g)",
+          "id": "srv_100g",
+          "name": "100 g",
           "amount": 1,
-          "unit": "portion",
-          "grams": 250,
-          "weight_grams": 250,
-          "type": "portion",
-          "is_default": false
+          "unit": "g",
+          "grams": 100,
+          "weight_grams": 100,
+          "type": "weight",
+          "is_default": true
         }
       ],
-      "default_serving_id": "srv_katori",
+      "default_serving_id": "srv_g",
       "is_verified": true,
       "updatedAt": "2026-10-23"
     },
     {
-      "serial": 4,
+      "serial": 8,
       "id": "food_punjabisamosa_1792750978163",
       "name": "Punjabi Samosa",
       "brand": null,
       "category": "snacks",
       "emoji": "🥗",
-      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/punjabisamosa_1792750978163.webp",
-      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/punjabisamosa_1792750978163.webp",
-      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/punjabisamosa_1792750978163.webp",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/punjabisamosa_1792750978163.webp?v=1792754438342",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/punjabisamosa_1792750978163.webp?v=1792754438342",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/punjabisamosa_1792750978163.webp?v=1792754438342",
       "description": "Fresh authentic Punjabi Samosa.",
       "health_note": "Energy-dense complex carbohydrate.",
       "prep_note": "Standard preparation.",
@@ -474,15 +936,133 @@
       "updatedAt": "2026-10-23"
     },
     {
-      "serial": 5,
+      "serial": 9,
+      "id": "food_rajmamasala_1792767482580",
+      "name": "Rajma Masala",
+      "brand": null,
+      "category": "protein",
+      "emoji": "🥗",
+      "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcS5pQWnXop25I6l8nfNK5SGyM49arAwx6qNtzZkWxybpYsRr09Xkv9ZOEKdEUVPxWN5DmpPWtYq25vDRm8",
+      "image_url": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcS5pQWnXop25I6l8nfNK5SGyM49arAwx6qNtzZkWxybpYsRr09Xkv9ZOEKdEUVPxWN5DmpPWtYq25vDRm8",
+      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcS5pQWnXop25I6l8nfNK5SGyM49arAwx6qNtzZkWxybpYsRr09Xkv9ZOEKdEUVPxWN5DmpPWtYq25vDRm8",
+      "description": "Fresh authentic Rajma Masala.",
+      "health_note": "Nutrient-rich staple food.",
+      "prep_note": "Standard preparation.",
+      "barcodes": [],
+      "barcode": null,
+      "base": {
+        "unit": "g",
+        "qty": 100
+      },
+      "default_state": "cooked",
+      "nutrition": {
+        "calories": 120,
+        "protein": 5.5,
+        "carbs": 17.5,
+        "fat": 3.5,
+        "fiber": 5.5,
+        "sugar": 1.5,
+        "net_carbs": 12,
+        "saturated_fat": 0,
+        "trans_fat": 0,
+        "polyunsaturated_fat": 0,
+        "monounsaturated_fat": 0
+      },
+      "nutrition_per_100g": {
+        "calories": 120,
+        "protein": 5.5,
+        "carbs": 17.5,
+        "fat": 3.5,
+        "dietary_fiber": 5.5,
+        "sugar": 1.5,
+        "net_carbs": 12,
+        "fats": {
+          "saturated": 0,
+          "monounsaturated": 0,
+          "polyunsaturated": 0,
+          "trans": 0,
+          "cholesterol_mg": 0
+        },
+        "minerals": {
+          "sodium_mg": 310,
+          "potassium_mg": 290,
+          "calcium_mg": 35,
+          "iron_mg": 2.5,
+          "magnesium_mg": 0,
+          "phosphorus_mg": 0,
+          "zinc_mg": 0,
+          "copper_mg": 0,
+          "manganese_mg": 0,
+          "selenium_mcg": 0
+        },
+        "vitamins": {}
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 310,
+        "potassium": 290,
+        "calcium": 35,
+        "iron": 2.5,
+        "magnesium": 0,
+        "phosphorus": 0,
+        "zinc": 0,
+        "selenium": 0,
+        "copper": 0,
+        "manganese": 0,
+        "vitamin_a": 0,
+        "vitamin_c": 0,
+        "vitamin_d": 0,
+        "vitamin_b12": 0,
+        "vitamin_b6": 0,
+        "folate": 0
+      },
+      "vitamins": {},
+      "allergens": [],
+      "tags": [],
+      "searchTerms": [
+        "rajma masala",
+        "protein"
+      ],
+      "search_terms": [
+        "rajma masala",
+        "protein"
+      ],
+      "servings": [
+        {
+          "id": "srv_katori",
+          "name": "1 katori (130g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 130,
+          "weight_grams": 130,
+          "type": "portion",
+          "is_default": true
+        },
+        {
+          "id": "srv_bowl",
+          "name": "1 standard bowl (220g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 220,
+          "weight_grams": 220,
+          "type": "portion",
+          "is_default": false
+        }
+      ],
+      "default_serving_id": "srv_katori",
+      "is_verified": true,
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "serial": 10,
       "id": "food_steamedidli_1792750978164",
       "name": "Steamed Idli",
       "brand": null,
       "category": "carbs",
       "emoji": "🥗",
-      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/steamedidli_1792750978164.webp",
-      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/steamedidli_1792750978164.webp",
-      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/steamedidli_1792750978164.webp",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/steamedidli_1792750978164.webp?v=1792754438455",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/steamedidli_1792750978164.webp?v=1792754438455",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/steamedidli_1792750978164.webp?v=1792754438455",
       "description": "Fresh authentic Steamed Idli.",
       "health_note": "Energy-dense complex carbohydrate.",
       "prep_note": "Standard preparation.",
@@ -575,36 +1155,6 @@
           "weight_grams": 40,
           "type": "portion",
           "is_default": true
-        },
-        {
-          "id": "srv_2_pcs",
-          "name": "2 pieces (80g)",
-          "amount": 1,
-          "unit": "portion",
-          "grams": 80,
-          "weight_grams": 80,
-          "type": "portion",
-          "is_default": false
-        },
-        {
-          "id": "srv_3_pcs",
-          "name": "3 pieces (120g)",
-          "amount": 1,
-          "unit": "portion",
-          "grams": 120,
-          "weight_grams": 120,
-          "type": "portion",
-          "is_default": false
-        },
-        {
-          "id": "srv_100g",
-          "name": "100 g",
-          "amount": 1,
-          "unit": "weight",
-          "grams": 100,
-          "weight_grams": 100,
-          "type": "weight",
-          "is_default": false
         }
       ],
       "default_serving_id": "srv_1_pc",
@@ -612,15 +1162,15 @@
       "updatedAt": "2026-10-23"
     },
     {
-      "serial": 6,
+      "serial": 11,
       "id": "food_foodname_1792744893768",
       "name": "chapati",
       "brand": null,
       "category": "protein",
       "emoji": "🥗",
-      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/foodname_1792744893768.webp",
-      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/foodname_1792744893768.webp",
-      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/foodname_1792744893768.webp",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/foodname_1792744893768.webp?v=1792754438634",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/foodname_1792744893768.webp?v=1792754438634",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/foodname_1792744893768.webp?v=1792754438634",
       "description": "Fresh authentic chapati.",
       "health_note": "High in lean protein.",
       "prep_note": "Standard preparation.",
@@ -706,11 +1256,11 @@
       "servings": [
         {
           "id": "portion",
-          "name": "1 serving (150g)",
+          "name": "1 roti / chapati (35g)",
           "amount": 1,
           "unit": "portion",
-          "grams": 150,
-          "weight_grams": 150,
+          "grams": 35,
+          "weight_grams": 35,
           "type": "portion",
           "is_default": true
         },
