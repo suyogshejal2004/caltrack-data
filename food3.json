@@ -1,0 +1,733 @@
+{
+  "version": 16,
+  "foods": [
+    {
+      "serial": 1,
+      "id": "food_aloogobi_1792750978162",
+      "name": "Aloo Gobi",
+      "brand": null,
+      "category": "sides",
+      "emoji": "🥗",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/aloogobi_1792750978162.webp",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/aloogobi_1792750978162.webp",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/aloogobi_1792750978162.webp",
+      "description": "Fresh authentic Aloo Gobi.",
+      "health_note": "Nutrient-rich staple food.",
+      "prep_note": "Standard preparation.",
+      "barcodes": [],
+      "barcode": null,
+      "base": {
+        "unit": "g",
+        "qty": 100
+      },
+      "default_state": "cooked",
+      "nutrition": {
+        "calories": 85,
+        "protein": 2.2,
+        "carbs": 12,
+        "fat": 3.5,
+        "fiber": 3,
+        "sugar": 2,
+        "net_carbs": 9,
+        "saturated_fat": 0,
+        "trans_fat": 0,
+        "polyunsaturated_fat": 0,
+        "monounsaturated_fat": 0
+      },
+      "nutrition_per_100g": {
+        "calories": 85,
+        "protein": 2.2,
+        "carbs": 12,
+        "fat": 3.5,
+        "dietary_fiber": 3,
+        "sugar": 2,
+        "net_carbs": 9,
+        "fats": {
+          "saturated": 0,
+          "monounsaturated": 0,
+          "polyunsaturated": 0,
+          "trans": 0,
+          "cholesterol_mg": 0
+        },
+        "minerals": {
+          "sodium_mg": 280,
+          "potassium_mg": 320,
+          "calcium_mg": 35,
+          "iron_mg": 0.8,
+          "magnesium_mg": 0,
+          "phosphorus_mg": 0,
+          "zinc_mg": 0,
+          "copper_mg": 0,
+          "manganese_mg": 0,
+          "selenium_mcg": 0
+        },
+        "vitamins": {}
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 280,
+        "potassium": 320,
+        "calcium": 35,
+        "iron": 0.8,
+        "magnesium": 0,
+        "phosphorus": 0,
+        "zinc": 0,
+        "selenium": 0,
+        "copper": 0,
+        "manganese": 0,
+        "vitamin_a": 0,
+        "vitamin_c": 0,
+        "vitamin_d": 0,
+        "vitamin_b12": 0,
+        "vitamin_b6": 0,
+        "folate": 0
+      },
+      "vitamins": {},
+      "allergens": [],
+      "tags": [],
+      "searchTerms": [
+        "aloo gobi",
+        "sides"
+      ],
+      "search_terms": [
+        "aloo gobi",
+        "sides"
+      ],
+      "servings": [
+        {
+          "id": "srv_sml_katori",
+          "name": "1 small katori (120g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 120,
+          "weight_grams": 120,
+          "type": "portion",
+          "is_default": true
+        },
+        {
+          "id": "srv_reg_bowl",
+          "name": "1 standard bowl (200g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 200,
+          "weight_grams": 200,
+          "type": "portion",
+          "is_default": false
+        }
+      ],
+      "default_serving_id": "srv_sml_katori",
+      "is_verified": true,
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "serial": 2,
+      "id": "food_chickenbiryani_1792750978161",
+      "name": "Chicken Biryani",
+      "brand": null,
+      "category": "mixed",
+      "emoji": "🥗",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/chickenbiryani_1792750978161.webp",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/chickenbiryani_1792750978161.webp",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/chickenbiryani_1792750978161.webp",
+      "description": "Fresh authentic Chicken Biryani.",
+      "health_note": "Nutrient-rich staple food.",
+      "prep_note": "Standard preparation.",
+      "barcodes": [],
+      "barcode": null,
+      "base": {
+        "unit": "g",
+        "qty": 100
+      },
+      "default_state": "cooked",
+      "nutrition": {
+        "calories": 160,
+        "protein": 9.5,
+        "carbs": 18,
+        "fat": 5.5,
+        "fiber": 1,
+        "sugar": 0.5,
+        "net_carbs": 17,
+        "saturated_fat": 0,
+        "trans_fat": 0,
+        "polyunsaturated_fat": 0,
+        "monounsaturated_fat": 0
+      },
+      "nutrition_per_100g": {
+        "calories": 160,
+        "protein": 9.5,
+        "carbs": 18,
+        "fat": 5.5,
+        "dietary_fiber": 1,
+        "sugar": 0.5,
+        "net_carbs": 17,
+        "fats": {
+          "saturated": 0,
+          "monounsaturated": 0,
+          "polyunsaturated": 0,
+          "trans": 0,
+          "cholesterol_mg": 0
+        },
+        "minerals": {
+          "sodium_mg": 400,
+          "potassium_mg": 180,
+          "calcium_mg": 30,
+          "iron_mg": 1.2,
+          "magnesium_mg": 0,
+          "phosphorus_mg": 0,
+          "zinc_mg": 0,
+          "copper_mg": 0,
+          "manganese_mg": 0,
+          "selenium_mcg": 0
+        },
+        "vitamins": {}
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 400,
+        "potassium": 180,
+        "calcium": 30,
+        "iron": 1.2,
+        "magnesium": 0,
+        "phosphorus": 0,
+        "zinc": 0,
+        "selenium": 0,
+        "copper": 0,
+        "manganese": 0,
+        "vitamin_a": 0,
+        "vitamin_c": 0,
+        "vitamin_d": 0,
+        "vitamin_b12": 0,
+        "vitamin_b6": 0,
+        "folate": 0
+      },
+      "vitamins": {},
+      "allergens": [],
+      "tags": [],
+      "searchTerms": [
+        "chicken biryani",
+        "mixed"
+      ],
+      "search_terms": [
+        "chicken biryani",
+        "mixed"
+      ],
+      "servings": [
+        {
+          "id": "srv_sml_plate",
+          "name": "1 small plate (200g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 200,
+          "weight_grams": 200,
+          "type": "portion",
+          "is_default": true
+        },
+        {
+          "id": "srv_reg_plate",
+          "name": "1 standard portion (350g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 350,
+          "weight_grams": 350,
+          "type": "portion",
+          "is_default": false
+        }
+      ],
+      "default_serving_id": "srv_sml_plate",
+      "is_verified": true,
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "serial": 3,
+      "id": "food_palakpaneer_1792750978160",
+      "name": "Palak Paneer",
+      "brand": null,
+      "category": "protein",
+      "emoji": "🥗",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/palakpaneer_1792750978160.webp",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/palakpaneer_1792750978160.webp",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/palakpaneer_1792750978160.webp",
+      "description": "Fresh authentic Palak Paneer.",
+      "health_note": "Nutrient-rich staple food.",
+      "prep_note": "Standard preparation.",
+      "barcodes": [],
+      "barcode": null,
+      "base": {
+        "unit": "g",
+        "qty": 100
+      },
+      "default_state": "cooked",
+      "nutrition": {
+        "calories": 140,
+        "protein": 7,
+        "carbs": 5,
+        "fat": 10.5,
+        "fiber": 2,
+        "sugar": 1.5,
+        "net_carbs": 3,
+        "saturated_fat": 0,
+        "trans_fat": 0,
+        "polyunsaturated_fat": 0,
+        "monounsaturated_fat": 0
+      },
+      "nutrition_per_100g": {
+        "calories": 140,
+        "protein": 7,
+        "carbs": 5,
+        "fat": 10.5,
+        "dietary_fiber": 2,
+        "sugar": 1.5,
+        "net_carbs": 3,
+        "fats": {
+          "saturated": 0,
+          "monounsaturated": 0,
+          "polyunsaturated": 0,
+          "trans": 0,
+          "cholesterol_mg": 0
+        },
+        "minerals": {
+          "sodium_mg": 350,
+          "potassium_mg": 280,
+          "calcium_mg": 250,
+          "iron_mg": 1.5,
+          "magnesium_mg": 0,
+          "phosphorus_mg": 0,
+          "zinc_mg": 0,
+          "copper_mg": 0,
+          "manganese_mg": 0,
+          "selenium_mcg": 0
+        },
+        "vitamins": {}
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 350,
+        "potassium": 280,
+        "calcium": 250,
+        "iron": 1.5,
+        "magnesium": 0,
+        "phosphorus": 0,
+        "zinc": 0,
+        "selenium": 0,
+        "copper": 0,
+        "manganese": 0,
+        "vitamin_a": 0,
+        "vitamin_c": 0,
+        "vitamin_d": 0,
+        "vitamin_b12": 0,
+        "vitamin_b6": 0,
+        "folate": 0
+      },
+      "vitamins": {},
+      "allergens": [],
+      "tags": [],
+      "searchTerms": [
+        "palak paneer",
+        "protein"
+      ],
+      "search_terms": [
+        "palak paneer",
+        "protein"
+      ],
+      "servings": [
+        {
+          "id": "srv_katori",
+          "name": "1 small katori (150g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 150,
+          "weight_grams": 150,
+          "type": "portion",
+          "is_default": true
+        },
+        {
+          "id": "srv_bowl",
+          "name": "1 standard bowl (250g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 250,
+          "weight_grams": 250,
+          "type": "portion",
+          "is_default": false
+        }
+      ],
+      "default_serving_id": "srv_katori",
+      "is_verified": true,
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "serial": 4,
+      "id": "food_punjabisamosa_1792750978163",
+      "name": "Punjabi Samosa",
+      "brand": null,
+      "category": "snacks",
+      "emoji": "🥗",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/punjabisamosa_1792750978163.webp",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/punjabisamosa_1792750978163.webp",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/punjabisamosa_1792750978163.webp",
+      "description": "Fresh authentic Punjabi Samosa.",
+      "health_note": "Energy-dense complex carbohydrate.",
+      "prep_note": "Standard preparation.",
+      "barcodes": [],
+      "barcode": null,
+      "base": {
+        "unit": "g",
+        "qty": 100
+      },
+      "default_state": "cooked",
+      "nutrition": {
+        "calories": 260,
+        "protein": 3.5,
+        "carbs": 32,
+        "fat": 14,
+        "fiber": 2.5,
+        "sugar": 1,
+        "net_carbs": 29.5,
+        "saturated_fat": 0,
+        "trans_fat": 0,
+        "polyunsaturated_fat": 0,
+        "monounsaturated_fat": 0
+      },
+      "nutrition_per_100g": {
+        "calories": 260,
+        "protein": 3.5,
+        "carbs": 32,
+        "fat": 14,
+        "dietary_fiber": 2.5,
+        "sugar": 1,
+        "net_carbs": 29.5,
+        "fats": {
+          "saturated": 0,
+          "monounsaturated": 0,
+          "polyunsaturated": 0,
+          "trans": 0,
+          "cholesterol_mg": 0
+        },
+        "minerals": {
+          "sodium_mg": 420,
+          "potassium_mg": 210,
+          "calcium_mg": 20,
+          "iron_mg": 1.5,
+          "magnesium_mg": 0,
+          "phosphorus_mg": 0,
+          "zinc_mg": 0,
+          "copper_mg": 0,
+          "manganese_mg": 0,
+          "selenium_mcg": 0
+        },
+        "vitamins": {}
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 420,
+        "potassium": 210,
+        "calcium": 20,
+        "iron": 1.5,
+        "magnesium": 0,
+        "phosphorus": 0,
+        "zinc": 0,
+        "selenium": 0,
+        "copper": 0,
+        "manganese": 0,
+        "vitamin_a": 0,
+        "vitamin_c": 0,
+        "vitamin_d": 0,
+        "vitamin_b12": 0,
+        "vitamin_b6": 0,
+        "folate": 0
+      },
+      "vitamins": {},
+      "allergens": [],
+      "tags": [],
+      "searchTerms": [
+        "punjabi samosa",
+        "snacks"
+      ],
+      "search_terms": [
+        "punjabi samosa",
+        "snacks"
+      ],
+      "servings": [
+        {
+          "id": "srv_sml_pc",
+          "name": "1 small samosa (60g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 60,
+          "weight_grams": 60,
+          "type": "portion",
+          "is_default": true
+        },
+        {
+          "id": "srv_reg_pc",
+          "name": "1 regular samosa (100g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 100,
+          "weight_grams": 100,
+          "type": "weight",
+          "is_default": false
+        }
+      ],
+      "default_serving_id": "srv_sml_pc",
+      "is_verified": true,
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "serial": 5,
+      "id": "food_steamedidli_1792750978164",
+      "name": "Steamed Idli",
+      "brand": null,
+      "category": "carbs",
+      "emoji": "🥗",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/steamedidli_1792750978164.webp",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/steamedidli_1792750978164.webp",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/steamedidli_1792750978164.webp",
+      "description": "Fresh authentic Steamed Idli.",
+      "health_note": "Energy-dense complex carbohydrate.",
+      "prep_note": "Standard preparation.",
+      "barcodes": [],
+      "barcode": null,
+      "base": {
+        "unit": "g",
+        "qty": 100
+      },
+      "default_state": "cooked",
+      "nutrition": {
+        "calories": 105,
+        "protein": 3.5,
+        "carbs": 22,
+        "fat": 0.2,
+        "fiber": 1,
+        "sugar": 0,
+        "net_carbs": 21,
+        "saturated_fat": 0,
+        "trans_fat": 0,
+        "polyunsaturated_fat": 0,
+        "monounsaturated_fat": 0
+      },
+      "nutrition_per_100g": {
+        "calories": 105,
+        "protein": 3.5,
+        "carbs": 22,
+        "fat": 0.2,
+        "dietary_fiber": 1,
+        "sugar": 0,
+        "net_carbs": 21,
+        "fats": {
+          "saturated": 0,
+          "monounsaturated": 0,
+          "polyunsaturated": 0,
+          "trans": 0,
+          "cholesterol_mg": 0
+        },
+        "minerals": {
+          "sodium_mg": 180,
+          "potassium_mg": 65,
+          "calcium_mg": 15,
+          "iron_mg": 0.5,
+          "magnesium_mg": 0,
+          "phosphorus_mg": 0,
+          "zinc_mg": 0,
+          "copper_mg": 0,
+          "manganese_mg": 0,
+          "selenium_mcg": 0
+        },
+        "vitamins": {}
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 180,
+        "potassium": 65,
+        "calcium": 15,
+        "iron": 0.5,
+        "magnesium": 0,
+        "phosphorus": 0,
+        "zinc": 0,
+        "selenium": 0,
+        "copper": 0,
+        "manganese": 0,
+        "vitamin_a": 0,
+        "vitamin_c": 0,
+        "vitamin_d": 0,
+        "vitamin_b12": 0,
+        "vitamin_b6": 0,
+        "folate": 0
+      },
+      "vitamins": {},
+      "allergens": [],
+      "tags": [],
+      "searchTerms": [
+        "steamed idli",
+        "carbs"
+      ],
+      "search_terms": [
+        "steamed idli",
+        "carbs"
+      ],
+      "servings": [
+        {
+          "id": "srv_1_pc",
+          "name": "1 piece (40g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 40,
+          "weight_grams": 40,
+          "type": "portion",
+          "is_default": true
+        },
+        {
+          "id": "srv_2_pcs",
+          "name": "2 pieces (80g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 80,
+          "weight_grams": 80,
+          "type": "portion",
+          "is_default": false
+        },
+        {
+          "id": "srv_3_pcs",
+          "name": "3 pieces (120g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 120,
+          "weight_grams": 120,
+          "type": "portion",
+          "is_default": false
+        },
+        {
+          "id": "srv_100g",
+          "name": "100 g",
+          "amount": 1,
+          "unit": "weight",
+          "grams": 100,
+          "weight_grams": 100,
+          "type": "weight",
+          "is_default": false
+        }
+      ],
+      "default_serving_id": "srv_1_pc",
+      "is_verified": true,
+      "updatedAt": "2026-10-23"
+    },
+    {
+      "serial": 6,
+      "id": "food_foodname_1792744893768",
+      "name": "chapati",
+      "brand": null,
+      "category": "protein",
+      "emoji": "🥗",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/foodname_1792744893768.webp",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/foodname_1792744893768.webp",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/foodname_1792744893768.webp",
+      "description": "Fresh authentic chapati.",
+      "health_note": "High in lean protein.",
+      "prep_note": "Standard preparation.",
+      "barcodes": [],
+      "barcode": null,
+      "base": {
+        "unit": "g",
+        "qty": 100
+      },
+      "default_state": "cooked",
+      "nutrition": {
+        "calories": 165,
+        "protein": 31,
+        "carbs": 0,
+        "fat": 3.6,
+        "fiber": 0,
+        "sugar": 0,
+        "net_carbs": 0,
+        "saturated_fat": 0,
+        "trans_fat": 0,
+        "polyunsaturated_fat": 0,
+        "monounsaturated_fat": 0
+      },
+      "nutrition_per_100g": {
+        "calories": 165,
+        "protein": 31,
+        "carbs": 0,
+        "fat": 3.6,
+        "dietary_fiber": 0,
+        "sugar": 0,
+        "net_carbs": 0,
+        "fats": {
+          "saturated": 0,
+          "monounsaturated": 0,
+          "polyunsaturated": 0,
+          "trans": 0,
+          "cholesterol_mg": 0
+        },
+        "minerals": {
+          "sodium_mg": 74,
+          "potassium_mg": 256,
+          "calcium_mg": 15,
+          "iron_mg": 1,
+          "magnesium_mg": 0,
+          "phosphorus_mg": 0,
+          "zinc_mg": 0,
+          "copper_mg": 0,
+          "manganese_mg": 0,
+          "selenium_mcg": 0
+        },
+        "vitamins": {}
+      },
+      "micros": {
+        "cholesterol": 0,
+        "sodium": 74,
+        "potassium": 256,
+        "calcium": 15,
+        "iron": 1,
+        "magnesium": 0,
+        "phosphorus": 0,
+        "zinc": 0,
+        "selenium": 0,
+        "copper": 0,
+        "manganese": 0,
+        "vitamin_a": 0,
+        "vitamin_c": 0,
+        "vitamin_d": 0,
+        "vitamin_b12": 0,
+        "vitamin_b6": 0,
+        "folate": 0
+      },
+      "vitamins": {},
+      "allergens": [],
+      "tags": [],
+      "searchTerms": [
+        "chapati",
+        "protein"
+      ],
+      "search_terms": [
+        "chapati",
+        "protein"
+      ],
+      "servings": [
+        {
+          "id": "portion",
+          "name": "1 serving (150g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 150,
+          "weight_grams": 150,
+          "type": "portion",
+          "is_default": true
+        },
+        {
+          "id": "g_100",
+          "name": "100 g",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 100,
+          "weight_grams": 100,
+          "type": "weight",
+          "is_default": false
+        }
+      ],
+      "default_serving_id": "portion",
+      "is_verified": true,
+      "updatedAt": "2026-10-23"
+    }
+  ]
+}
