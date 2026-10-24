@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "foods": [
     {
       "serial": 1,
@@ -117,7 +117,7 @@
       ],
       "default_serving_id": "srv_sml_katori",
       "is_verified": true,
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "serial": 2,
@@ -126,9 +126,9 @@
       "brand": null,
       "category": "protein",
       "emoji": "🥗",
-      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQrTj2Tmxw9DlrSQX32z1chxYLxS80Js40ji8xcgZ0SCmNqr32OfjhbwqcpTb3TBIg8Z9MmynGkliyeZC4",
-      "image_url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQrTj2Tmxw9DlrSQX32z1chxYLxS80Js40ji8xcgZ0SCmNqr32OfjhbwqcpTb3TBIg8Z9MmynGkliyeZC4",
-      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQrTj2Tmxw9DlrSQX32z1chxYLxS80Js40ji8xcgZ0SCmNqr32OfjhbwqcpTb3TBIg8Z9MmynGkliyeZC4",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/butterchicken_1792767482577.webp?v=1792780446237",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/butterchicken_1792767482577.webp?v=1792780446237",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/butterchicken_1792767482577.webp?v=1792780446237",
       "description": "Fresh authentic Butter Chicken.",
       "health_note": "Nutrient-rich staple food.",
       "prep_note": "Standard preparation.",
@@ -213,29 +213,39 @@
       ],
       "servings": [
         {
-          "id": "srv_g",
-          "name": "1 gram",
+          "id": "srv_butterchicken_1792767482577_katori",
+          "name": "1 katori (150g)",
           "amount": 1,
-          "unit": "g",
-          "grams": 1,
-          "weight_grams": 1,
-          "type": "weight",
+          "unit": "portion",
+          "grams": 150,
+          "weight_grams": 150,
+          "type": "portion",
+          "is_default": true
+        },
+        {
+          "id": "srv_butterchicken_1792767482577_bowl",
+          "name": "1 standard bowl (250g)",
+          "amount": 1,
+          "unit": "portion",
+          "grams": 250,
+          "weight_grams": 250,
+          "type": "portion",
           "is_default": false
         },
         {
-          "id": "srv_100g",
+          "id": "srv_butterchicken_1792767482577_100g",
           "name": "100 g",
           "amount": 1,
-          "unit": "g",
+          "unit": "weight",
           "grams": 100,
           "weight_grams": 100,
           "type": "weight",
-          "is_default": true
+          "is_default": false
         }
       ],
-      "default_serving_id": "srv_g",
+      "default_serving_id": "srv_butterchicken_1792767482577_katori",
       "is_verified": true,
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "serial": 3,
@@ -353,7 +363,7 @@
       ],
       "default_serving_id": "srv_sml_plate",
       "is_verified": true,
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "serial": 4,
@@ -362,9 +372,9 @@
       "brand": null,
       "category": "protein",
       "emoji": "🥗",
-      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcReewHUDtrlU-QN1xNl_nUTveq8FfPM2_-iXoNVCEsWKKErDjMSMGm6Ng54g4dCxTznqJE2b2Czo7BdOK4",
-      "image_url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcReewHUDtrlU-QN1xNl_nUTveq8FfPM2_-iXoNVCEsWKKErDjMSMGm6Ng54g4dCxTznqJE2b2Czo7BdOK4",
-      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcReewHUDtrlU-QN1xNl_nUTveq8FfPM2_-iXoNVCEsWKKErDjMSMGm6Ng54g4dCxTznqJE2b2Czo7BdOK4",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/cholemasala_1792767482578.webp?v=1792777998913",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/cholemasala_1792767482578.webp?v=1792777998913",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/cholemasala_1792767482578.webp?v=1792777998913",
       "description": "Fresh authentic Chole Masala.",
       "health_note": "Nutrient-rich staple food.",
       "prep_note": "Standard preparation.",
@@ -471,7 +481,7 @@
       ],
       "default_serving_id": "srv_g",
       "is_verified": true,
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "serial": 5,
@@ -480,9 +490,9 @@
       "brand": null,
       "category": "carbs",
       "emoji": "🥗",
-      "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcS5pQWnXop25I6l8nfNK5SGyM49arAwx6qNtzZkWxybpYsRr09Xkv9ZOEKdEUVPxWN5DmpPWtYq25vDRm8",
-      "image_url": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcS5pQWnXop25I6l8nfNK5SGyM49arAwx6qNtzZkWxybpYsRr09Xkv9ZOEKdEUVPxWN5DmpPWtYq25vDRm8",
-      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcS5pQWnXop25I6l8nfNK5SGyM49arAwx6qNtzZkWxybpYsRr09Xkv9ZOEKdEUVPxWN5DmpPWtYq25vDRm8",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/garlicnaan_1792767482579.webp?v=1792777999277",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/garlicnaan_1792767482579.webp?v=1792777999277",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/garlicnaan_1792767482579.webp?v=1792777999277",
       "description": "Fresh authentic Garlic Naan.",
       "health_note": "Energy-dense complex carbohydrate.",
       "prep_note": "Standard preparation.",
@@ -579,7 +589,7 @@
       ],
       "default_serving_id": "srv_naan",
       "is_verified": true,
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "serial": 6,
@@ -588,9 +598,9 @@
       "brand": null,
       "category": "dessert",
       "emoji": "🥗",
-      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSV-X_XzCnHxze0Ia3wZCby-Qzx-uFR0-8pdth_ajVZVGHgdUzcoTVoAAfevZ6gElSDr9WOHw-mc7GSUVs",
-      "image_url": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSV-X_XzCnHxze0Ia3wZCby-Qzx-uFR0-8pdth_ajVZVGHgdUzcoTVoAAfevZ6gElSDr9WOHw-mc7GSUVs",
-      "thumbnail_url": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcSV-X_XzCnHxze0Ia3wZCby-Qzx-uFR0-8pdth_ajVZVGHgdUzcoTVoAAfevZ6gElSDr9WOHw-mc7GSUVs",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/gulabjamun_1792767482581.webp?v=1792777999673",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/gulabjamun_1792767482581.webp?v=1792777999673",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/gulabjamun_1792767482581.webp?v=1792777999673",
       "description": "Fresh authentic Gulab Jamun.",
       "health_note": "Energy-dense complex carbohydrate.",
       "prep_note": "Standard preparation.",
@@ -683,21 +693,11 @@
           "weight_grams": 40,
           "type": "portion",
           "is_default": true
-        },
-        {
-          "id": "srv_100g",
-          "name": "100 g",
-          "amount": 1,
-          "unit": "weight",
-          "grams": 100,
-          "weight_grams": 100,
-          "type": "weight",
-          "is_default": false
         }
       ],
       "default_serving_id": "srv_pc",
       "is_verified": true,
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "serial": 7,
@@ -815,7 +815,7 @@
       ],
       "default_serving_id": "srv_g",
       "is_verified": true,
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "serial": 8,
@@ -933,7 +933,7 @@
       ],
       "default_serving_id": "srv_sml_pc",
       "is_verified": true,
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "serial": 9,
@@ -942,9 +942,9 @@
       "brand": null,
       "category": "protein",
       "emoji": "🥗",
-      "image": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcS5pQWnXop25I6l8nfNK5SGyM49arAwx6qNtzZkWxybpYsRr09Xkv9ZOEKdEUVPxWN5DmpPWtYq25vDRm8",
-      "image_url": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcS5pQWnXop25I6l8nfNK5SGyM49arAwx6qNtzZkWxybpYsRr09Xkv9ZOEKdEUVPxWN5DmpPWtYq25vDRm8",
-      "thumbnail_url": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcS5pQWnXop25I6l8nfNK5SGyM49arAwx6qNtzZkWxybpYsRr09Xkv9ZOEKdEUVPxWN5DmpPWtYq25vDRm8",
+      "image": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/rajmamasala_1792767482580.webp?v=1792777999543",
+      "image_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/rajmamasala_1792767482580.webp?v=1792777999543",
+      "thumbnail_url": "https://caltrack-food-api.caltrack-api.workers.dev/v1/foods/images/rajmamasala_1792767482580.webp?v=1792777999543",
       "description": "Fresh authentic Rajma Masala.",
       "health_note": "Nutrient-rich staple food.",
       "prep_note": "Standard preparation.",
@@ -1029,29 +1029,29 @@
       ],
       "servings": [
         {
-          "id": "srv_katori",
-          "name": "1 katori (130g)",
+          "id": "srv_g",
+          "name": "1 gram",
           "amount": 1,
-          "unit": "portion",
-          "grams": 130,
-          "weight_grams": 130,
-          "type": "portion",
-          "is_default": true
+          "unit": "g",
+          "grams": 1,
+          "weight_grams": 1,
+          "type": "weight",
+          "is_default": false
         },
         {
-          "id": "srv_bowl",
-          "name": "1 standard bowl (220g)",
+          "id": "srv_100g",
+          "name": "100 g",
           "amount": 1,
-          "unit": "portion",
-          "grams": 220,
-          "weight_grams": 220,
-          "type": "portion",
-          "is_default": false
+          "unit": "g",
+          "grams": 100,
+          "weight_grams": 100,
+          "type": "weight",
+          "is_default": true
         }
       ],
-      "default_serving_id": "srv_katori",
+      "default_serving_id": "srv_g",
       "is_verified": true,
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "serial": 10,
@@ -1159,7 +1159,7 @@
       ],
       "default_serving_id": "srv_1_pc",
       "is_verified": true,
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     },
     {
       "serial": 11,
@@ -1277,7 +1277,7 @@
       ],
       "default_serving_id": "portion",
       "is_verified": true,
-      "updatedAt": "2026-10-23"
+      "updatedAt": "2026-10-24"
     }
   ]
 }
